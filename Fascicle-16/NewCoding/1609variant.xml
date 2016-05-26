@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="Schematron2Dickinson.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fascicle 16: Poem 9 (J 445: 1862/1896)</title>
+                <author>Emily Dickinson</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Fascicle 16: Dickinson's variants and published versions</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>1609</idno></msIdentifier>
+                </msDesc>
+                <bibl><ref target="http://www.cs.virginia.edu/~ajf2j/emily/"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="references">
+                <listRef>
+                    <ptr target="xml/1609variant.xml"/>
+                    <ptr target="img/1609/fs1609b.jpg"/>
+                    <ptr target="img/1609/fs1609a.jpg"/>
+                    <ptr target="img/1609/1609ce.jpg"/>
+                    <ptr target="img/1609/1609fha.jpg"/>
+                    <ptr target="img/1609/1609fhb.jpg"/>
+                    <ptr target="img/1609/1609poems3.jpg"/>
+                    <ptr target="img/1609/1609ceMap.jpg"/>
+                    <ptr target="img/1609/1609fhMap.jpg"/>
+                    <ptr target="img/1609/1609poems3Map.jpg"/>
+                    <ptr target="img/1609/fs1609Map.jpg"/>
+                </listRef>
+            </div>
+            <div type="witness">
+                <listWit>
+                    <witness xml:id="df16">
+                        <bibl>
+                            <title>ORIGINAL POEMS</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="poems3">
+                        <bibl>
+                            <title>Poems, Third Series</title>
+                            <author>Emily Dickinson</author>
+                            <editor>Mabel Loomis Todd</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Little, Brown and Company</publisher>
+                            <date>1896</date>
+                            <ref target="http://catalog.hathitrust.org/Record/100654113">Hathi Trust Digital Library</ref>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="ce">
+                        <bibl>
+                            <title>The Poems of Emily Dickinson: Centenary Edition</title>
+                            <author>Emily Dickinson</author>
+                            <editor>Martha Dickinson Bianchi and Alfred Leete Hampson</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Little, Brown and Company</publisher>
+                            <date>1930</date>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="fh">
+                        <bibl>
+                            <title>Final Harvest: Emily Dickinson's Poems</title>
+                            <author>Emily Dickinson</author>
+                            <editor>Thomas H. Johnson</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Little, Brown and Company</publisher>
+                            <date>1961</date>
+                        </bibl>
+                    </witness>
+                </listWit>
+            </div>
+        </front>
+        <body>
+            <head><title>Poem 9 (J 445: 1862/1896)</title></head>
+            <lg>
+                <l>'Twas just this time, last year, I died.</l>
+                <l> I know I heard the Corn,</l>
+                <l>When I was carried by the Farms—</l>
+                <l>It had the Tassels on—</l>
+            </lg>
+            <lg>
+                <l>I thought how yellow it would look—</l>
+                <l>When Richard went to mill—</l>
+                <l>And then, I wanted to get out,</l>
+                <l>But something held my will.</l>
+            </lg>
+            <lg>
+                <l>I thought just how red—Apples wedged</l>
+                <l>The Stubble's joints between—</l>
+                <l>And carts stooping round the fields</l>
+                <l>To take the Pumpkins in—</l>
+            </lg>
+            <lg>
+                <l>I wondered which would miss me, least,</l>
+                <l>And when Thanksgiving, came,</l>
+                <l>If father'd multiply the plates—</l>
+                <l>To make an even Sum—</l>
+            </lg>
+            <lg>
+                <l>And would it blur the Christmas glee</l>
+                <l>My Stocking hand too high</l>
+                <l>For any Santa Claus to reach</l>
+                <l>The Altitude of me—</l>
+            </lg>
+            <lg>
+                <l>But this sort, grieved myself,</l>
+                <l>And so, I thought the other way,</l>
+                <l>And just this time, some perfect year—</l>
+                <l>Themself, should come to me—</l>
+            </lg>
+        </body>
+    </text>
+</TEI>

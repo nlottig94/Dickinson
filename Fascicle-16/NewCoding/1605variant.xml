@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="Schematron2Dickinson.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Poem 5 (J 280: 1861/1896)</title>
+                <author>Emily Dickinson</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Fascicle 16: Dickinson's variants and published versions</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>1605</idno></msIdentifier>
+                </msDesc>
+                <bibl><ref target="http://www.cs.virginia.edu/~ajf2j/emily/"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="references">
+                <listRef>
+                    <ptr target="xml/1605variant.xml"/>
+                    <ptr target="img/1605/fs1605a.jpg"/>
+                    <ptr target="img/1605/fs1605b.jpg"/>
+                    <ptr target="img/1605/1605cea.jpg"/>
+                    <ptr target="img/1605/1605ceb.jpg"/>
+                    <ptr target="img/1605/1605fh.jpg"/>
+                    <ptr target="img/1605/1605poems3.jpg"/>
+                    <ptr target="img/1605/1605ceMap.jpg"/>
+                    <ptr target="img/1605/1605fhMap.jpg"/>
+                    <ptr target="img/1605/1605poems3Map.jpg"/>
+                    <ptr target="img/1605/fs1605Map.jpg"/>
+                </listRef>
+            </div>
+            <div type="witness">
+                <listWit>
+                    <witness xml:id="df16">
+                        <bibl>
+                            <title>ORIGINAL POEMS</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="poems3">
+                        <bibl>
+                            <title>Poems, Third Series</title>
+                            <author>Emily Dickinson</author>
+                            <editor>Mabel Loomis Todd</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Little, Brown and Company</publisher>
+                            <date>1896</date>
+                            <ref target="http://catalog.hathitrust.org/Record/100654113">Hathi Trust Digital Library</ref>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="ce">
+                        <bibl>
+                            <title>The Poems of Emily Dickinson: Centenary Edition</title>
+                            <author>Emily Dickinson</author>
+                            <editor>Martha Dickinson Bianchi and Alfred Leete Hampson</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Little, Brown and Company</publisher>
+                            <date>1930</date>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="fh">
+                        <bibl>
+                            <title>Final Harvest: Emily Dickinson's Poems</title>
+                            <author>Emily Dickinson</author>
+                            <editor>Thomas H. Johnson</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Little, Brown and Company</publisher>
+                            <date>1961</date>
+                        </bibl>
+                    </witness>
+                </listWit>
+            </div>
+        </front>
+        <body>
+            <head><title>Poem 5 (J 280: 1861/1896)</title></head>
+            <lg>
+                <l>I felt a Funeral, in my Brain, </l>
+                <l>And Mourners to and fro </l>
+                <l>Kept treading—treading—till it seemed </l>
+                <l>That Sense was breaking through— </l>
+            </lg>
+            <lg>
+                <l>And when they were all seated, </l>
+                <l>A Service, like a Drum— </l>
+                <l>Kept beating—beating—till I thought </l>
+                <l>My Mind was going numb— </l>
+            </lg>
+            <lg>
+                <l>And then I heard them lift a Box </l>
+                <l>And creak across my Soul </l>
+                <l>With those same Boots of lead, again, </l>
+                <l>Then Space began to toll, </l>
+            </lg>
+            <lg>
+                <l>As all the Heavens were a Bell, </l>
+                <l>And Being, but an Ear, </l>
+                <l>And I, and Silence, some strange Race </l>
+                <l>Wrecked, solitary, here— </l>
+            </lg>
+            <lg>
+                <l>And then a Plank in Reason, broke, </l>
+                <l>And I dropped down, and down— </l>
+                <l>And hit a World, at every <app>
+                    <rdg wit="var0">plunge,</rdg>
+                    <rdg wit="var1">Crash—</rdg>
+                </app>
+                </l>
+                <l>
+                    <app>
+                        <rdg wit="var0">And Finished </rdg>
+                        <rdg wit="var1">And Got through—</rdg>
+                    </app>knowing—then—</l>
+            </lg>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="Schematron2Dickinson.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fascicle 16: Poem 1. 1601/327/variant</title>
+                <author>Emily Dickinson</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Fascicle 16: Dickinson's variants and published versions</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno>1601</idno></msIdentifier>
+                </msDesc>
+                <bibl><ref target="http://www.cs.virginia.edu/~ajf2j/emily/"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="references">
+                <listRef>
+                    <ptr target="xml/1601variant.xml"/>
+                    <ptr target="img/1601/fs1601a.jpg"/>
+                    <ptr target="img/1601/fs1601b.jpg"/>
+                    <ptr target="img/1601/1601ce.jpg"/>
+                    <ptr target="img/1601/1601fh.jpg"/>
+                    <ptr target="img/1601/1601poems2.jpg"/>
+                    <ptr target="img/1601/1601ceMap.jpg"/>
+                    <ptr target="img/1601/1601fhMap.jpg"/>
+                    <ptr target="img/1601/1601poems2Map.jpg"/>
+                    <ptr target="img/1601/fs1601Map.jpg"/>
+                </listRef>
+            </div>
+            <div type="witness">
+                <listWit>
+                    <witness xml:id="df16">
+                        <bibl>
+                            <title>ORIGINAL POEMS</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="poems2">
+                        <bibl>
+                            <title>Poems, Second Series</title>
+                            <author>Emily Dickinson</author>
+                            <editor>Thomas Wentworth Higginson and Mabel Loomis Todd</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Roberts Brothers</publisher>
+                            <date>1891</date>
+                            <ref target="http://www.ibiblio.org/ebooks/Dickinson/Dickinson_Poems2.htm#copy">Poems by Emily Dickinson, Second Series (html version)</ref>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="ce">
+                        <bibl>
+                            <title>The Poems of Emily Dickinson: Centenary Edition</title>
+                            <author>Emily Dickinson</author>
+                            <editor>Martha Dickinson Bianchi and Alfred Leete Hampson</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Little, Brown and Company</publisher>
+                            <date>1930</date>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="fh">
+                        <bibl>
+                            <title>Final Harvest: Emily Dickinson's Poems</title>
+                            <author>Emily Dickinson</author>
+                            <editor>Thomas H. Johnson</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Little, Brown and Company</publisher>
+                            <date>1961</date>
+                        </bibl>
+                    </witness>
+                </listWit>
+            </div>
+        </front>
+        <body>
+            <head>
+                <title>Poem 1 (J 327: 1862/1891)</title></head>
+            <lg>
+                <l n="1">Before I got my eye put out—</l>
+                <l n="2">I liked as well to see</l>
+                <l n="3">As other Creatures, that have Eyes—</l>
+                <l n="4">And know no other way—</l>
+            </lg>
+            <lg>
+                <l n="5">But were it told to me, Today,</l>
+                <l n="6">That I might have the Sky</l>
+                <l n="7">For mine, I tell you that my Heart</l>
+                <l n="8">Would split, for size of me—</l>
+            </lg>
+            <lg>
+                <l n="9">The Meadows—mine—</l>
+                <l n="10">The Mountains—mine— </l>
+                <l n="11">All Forests—Stintless Stars—</l>
+                <l n="12">As much of noon, as I could take—</l>
+                <l n="13">Between my finite Eyes—</l>
+            </lg>
+            <lg>
+                <l n="14">The Motions of the Dipping Birds—</l>
+                <l n="15">The <app>
+                    <rdg wit="var0">Lightning's jointed Road—</rdg>
+                    <rdg wit="var1">Morning's Amber Road—</rdg>
+                </app>
+                </l>
+                <l n="16">For mine—to look at when I liked </l>
+                <l n="17">The news would strike me dead—</l>
+            </lg>
+            <lg>
+                <l n="18">So safer—guess—with just my soul</l>
+                <l n="19">Upon the window pane</l>
+                <l n="20">Where other Creatures put their Eyes</l>
+                <l n="21">Incautious of the Sun—</l>
+            </lg>
+        </body>
+    </text>
+</TEI>
