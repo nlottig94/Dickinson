@@ -98,163 +98,188 @@
             <lg>
                 <l n="1">Before I got my <app>
                     <rdg wit="#df16">Eye</rdg>
-                    <rdg wit="#ce">eye</rdg>
+                    <rdg wit="#ce #fh #poems2">eye</rdg>
                 </app> put out<app>
                     <rdg wit="#df16">&#8212;</rdg>
-                    <rdg wit="#ce">,</rdg>
+                    <rdg wit="#ce #poems2">,</rdg>
+                    <rdg wit="#fh"></rdg>
                 </app></l>
-                <l n="2">I liked as well to see</l>
+                <l n="2">I liked as well to see<app>
+                    <rdg wit="#df16 #ce #poems2"></rdg>
+                    <rdg wit="#fh">&#8212;</rdg>
+                </app></l>
                 <l n="3">As other <app>
-                    <rdg wit="#df16">Creatures</rdg>
-                    <rdg wit="#ce">creatures</rdg>
+                    <rdg wit="#df16 #fh">Creatures</rdg>
+                    <rdg wit="#ce #poems2">creatures</rdg>
                 </app><app>
-                    <rdg wit="#df16">,</rdg>
-                    <rdg wit="#ce"></rdg>
+                    <rdg wit="#df16 #fh">,</rdg>
+                    <rdg wit="#ce #poems2"></rdg>
                 </app> that have <app>
-                    <rdg wit="#df16">Eyes</rdg>
-                    <rdg wit="#ce">eyes</rdg>
+                    <rdg wit="#df16 #fh">Eyes</rdg>
+                    <rdg wit="#ce #poems2">eyes</rdg>
                 </app><app>
                     <rdg wit="#df16">&#8212;</rdg>
-                    <rdg wit="#ce">,</rdg>
+                    <rdg wit="#ce #poems2">,</rdg>
+                    <rdg wit="#fh"></rdg>
                 </app></l>
                 <l n="4">And know no other way<app>
-                    <rdg wit="#df16">&#8212;</rdg>
-                    <rdg wit="#ce">.</rdg>
+                    <rdg wit="#df16 #fh">&#8212;</rdg>
+                    <rdg wit="#ce #poems2">.</rdg>
                 </app></l>
             </lg>
             <lg>
-                <l n="5">But were it told to me, <app>
-                    <rdg wit="#df16">Today</rdg>
-                    <rdg wit="#ce">to-day</rdg>
-                </app>,</l>
+                <l n="5">But were it told to me<app>
+                    <rdg wit="#df16 #ce #poems2">, </rdg>
+                    <rdg wit="#fh">&#8212;</rdg>
+                </app><app>
+                    <rdg wit="#df16 #fh">Today</rdg>
+                    <rdg wit="#ce #poems2">to-day</rdg>
+                </app><app>
+                    <rdg wit="#df16 #ce #poems2">,</rdg>
+                    <rdg wit="#fh">&#8212;</rdg>
+                </app></l>
                 <l n="6">That I might have the <app>
                     <rdg wit="#df16">Sky</rdg>
-                    <rdg wit="#ce">sky</rdg>
+                    <rdg wit="#ce #fh #poems2">sky</rdg>
                 </app></l>
-                <l n="7">For mine, I tell you that my <app>
-                    <rdg wit="#df16">Heart</rdg>
-                    <rdg wit="#ce">heart</rdg>
+                <l n="7">For mine<app>
+                    <rdg wit="#df16 #ce #poems2">, </rdg>
+                    <rdg wit="#fh">&#8212;</rdg>
+                </app>I tell you that my <app>
+                    <rdg wit="#df16 #fh">Heart</rdg>
+                    <rdg wit="#ce #poems2">heart</rdg>
                 </app></l>
                 <l n="8">Would split, for size of me<app>
-                    <rdg wit="#df16">&#8212;</rdg>
-                    <rdg wit="#ce">.</rdg>
+                    <rdg wit="#df16 #fh">&#8212;</rdg>
+                    <rdg wit="#ce #poems2">.</rdg>
                 </app></l>
             </lg>
             <lg>
                 <l n="9">The <app>
-                    <rdg wit="#df16">Meadows</rdg>
-                    <rdg wit="#ce">meadows</rdg>
+                    <rdg wit="#df16 #fh">Meadows</rdg>
+                    <rdg wit="#ce #poems2">meadows</rdg>
                 </app><app>
-                    <rdg wit="#df16">&#8212;</rdg>
-                    <rdg wit="#ce"> </rdg>
+                    <rdg wit="#df16 #fh">&#8212;</rdg>
+                    <rdg wit="#ce #poems2"> </rdg>
                 </app>mine<app>
-                    <rdg wit="#df16">&#8212;</rdg>
-                    <rdg wit="#ce">, </rdg>
+                    <rdg wit="#df16 #fh">&#8212;</rdg>
+                    <rdg wit="#ce #poems2">, </rdg>
                 </app><app>
-                    <rdg wit="#df16"></rdg>
-                    <rdg wit="#ce">the mountains mine,&#8212;</rdg>
+                    <rdg wit="#df16 #fh"></rdg>
+                    <rdg wit="#ce #poems2">the mountains mine,&#8212;</rdg>
                 </app></l>
                 <l n="10"><app>
-                    <rdg wit="#df16">The Mountains&#8212;mine&#8212;</rdg>
-                    <rdg wit="#ce"></rdg>
+                    <rdg wit="#df16 #fh">The Mountains&#8212;mine&#8212;</rdg>
+                    <rdg wit="#ce #poems2"></rdg>
                 </app></l>
                 <l n="11">All <app>
-                    <rdg wit="#df16">Forests</rdg>
-                    <rdg wit="#ce">forests</rdg>
+                    <rdg wit="#df16 #fh">Forests</rdg>
+                    <rdg wit="#ce #poems2">forests</rdg>
                 </app><app>
-                    <rdg wit="#df16">&#8212;</rdg>
-                    <rdg wit="#ce">, </rdg>
+                    <rdg wit="#df16 #fh">&#8212;</rdg>
+                    <rdg wit="#ce #poems2">, </rdg>
                 </app><app>
-                    <rdg wit="#df16">Stintless</rdg>
-                    <rdg wit="#ce">stintless</rdg>
+                    <rdg wit="#df16 #fh">Stintless</rdg>
+                    <rdg wit="#ce #poems2">stintless</rdg>
                 </app> <app>
-                    <rdg wit="#df16">Stars</rdg>
-                    <rdg wit="#ce">stars</rdg>
+                    <rdg wit="#df16 #fh">Stars</rdg>
+                    <rdg wit="#ce #poems2">stars</rdg>
                 </app><app>
-                    <rdg wit="#df16">&#8212;</rdg>
-                    <rdg wit="#ce">,</rdg>
+                    <rdg wit="#df16 #fh">&#8212;</rdg>
+                    <rdg wit="#ce #poems2">,</rdg>
                 </app></l>
-                <l n="12">As much of noon<app>
+                <l n="12">As much of <app>
+                    <rdg wit="#df16 #ce #poems2">noon</rdg>
+                    <rdg wit="#fh">Noon</rdg>
+                </app><app>
                     <rdg wit="#df16">,</rdg>
-                    <rdg wit="#ce"></rdg>
+                    <rdg wit="#ce #fh #poems2"></rdg>
                 </app> as I could take<app>
                     <rdg wit="#df16">&#8212;</rdg>
-                    <rdg wit="#ce"></rdg>
+                    <rdg wit="#ce #fh #poems2"></rdg>
                 </app></l>
                 <l n="13">Between my finite <app>
                     <rdg wit="#df16">Eyes</rdg>
-                    <rdg wit="#ce">eyes</rdg>
+                    <rdg wit="#ce #fh #poems2">eyes</rdg>
                 </app><app>
-                    <rdg wit="#df16">&#8212;</rdg>
-                    <rdg wit="#ce">.</rdg>
+                    <rdg wit="#df16 #fh">&#8212;</rdg>
+                    <rdg wit="#ce #poems2">.</rdg>
                 </app></l>
             </lg>
             <lg>
                 <l n="14">The <app>
-                    <rdg wit="#df16">Motions</rdg>
-                    <rdg wit="#ce">motions</rdg>
+                    <rdg wit="#df16 #fh">Motions</rdg>
+                    <rdg wit="#ce #poems2">motions</rdg>
                 </app> of the <app>
-                    <rdg wit="#df16">Dipping</rdg>
-                    <rdg wit="#ce">dipping</rdg>
+                    <rdg wit="#df16 #fh">Dipping</rdg>
+                    <rdg wit="#ce #poems2">dipping</rdg>
                 </app> <app>
-                    <rdg wit="#df16">Birds</rdg>
-                    <rdg wit="#ce">birds</rdg>
+                    <rdg wit="#df16 #fh">Birds</rdg>
+                    <rdg wit="#ce #poems2">birds</rdg>
                 </app><app>
-                    <rdg wit="#df16">&#8212;</rdg>
-                    <rdg wit="#ce">,</rdg>
+                    <rdg wit="#df16 #fh">&#8212;</rdg>
+                    <rdg wit="#ce #poems2">,</rdg>
                 </app></l>
                 <l n="15">The <app>
                     <rdg wit="#var0 #df16">Lightning's jointed Road&#8212;</rdg>
-                    <rdg wit="#var1 #df16">Morning's Amber Road&#8212;</rdg>
-                    <rdg wit="#ce">lightning's jointed road,</rdg>
+                    <rdg wit="#var1 #df16 #fh">Morning's Amber Road&#8212;</rdg>
+                    <rdg wit="#ce #poems2">lightning's jointed road,</rdg>
                 </app>
                 </l>
                 <l n="16">For mine<app>
-                    <rdg wit="#df16">&#8212;</rdg>
-                    <rdg wit="#ce"> </rdg>
-                </app>to look at when I liked,<app>
-                    <rdg wit="#df16"></rdg>
-                    <rdg wit="#ce">&#8212;</rdg>
+                    <rdg wit="#df16 #fh">&#8212;</rdg>
+                    <rdg wit="#ce #poems2"> </rdg>
+                </app>to look at when I liked<app>
+                    <rdg wit="#df16">,</rdg>
+                    <rdg wit="#ce #poems2">,&#8212;</rdg>
+                    <rdg wit="#fh">&#8212;</rdg>
                 </app></l>
-                <l n="17">The news would strike me dead<app>
-                    <rdg wit="#df16">&#8212;</rdg>
-                    <rdg wit="#ce">!</rdg>
+                <l n="17">The <app>
+                    <rdg wit="#df16 #ce #poems2">news</rdg>
+                    <rdg wit="#fh">News</rdg>
+                </app> would strike me dead<app>
+                    <rdg wit="#df16 #fh">&#8212;</rdg>
+                    <rdg wit="#ce #poems2">!</rdg>
                 </app></l>
             </lg>
             <lg>
                 <l n="18">So<app>
-                    <rdg wit="#df16"></rdg>
-                    <rdg wit="#ce">,</rdg>
+                    <rdg wit="#df16 #fh"></rdg>
+                    <rdg wit="#ce #poems2">,</rdg>
                 </app> safer<app>
-                    <rdg wit="#df16">&#8212;</rdg>
-                    <rdg wit="#ce">, </rdg>
+                    <rdg wit="#df16 #fh">&#8212;</rdg>
+                    <rdg wit="#ce #poems2">, </rdg>
                 </app>guess<app>
-                    <rdg wit="#df16">&#8212;</rdg>
-                    <rdg wit="#ce">, </rdg>
+                    <rdg wit="#df16 #fh">&#8212;</rdg>
+                    <rdg wit="#ce #poems2">, </rdg>
                 </app>with just my soul</l>
                 <l n="19">Upon the <app>
                     <rdg wit="#df16">window pane</rdg>
-                    <rdg wit="#ce">window-pane</rdg>
+                    <rdg wit="#ce #poems2">window-pane</rdg>
+                    <rdg wit="#fh">Window pane</rdg>
+                </app><app>
+                    <rdg wit="#df16 #ce #poems2"></rdg>
+                    <rdg wit="#fh">&#8212;</rdg>
                 </app></l>
                 <l n="20">Where other <app>
-                    <rdg wit="#df16">Creatures</rdg>
-                    <rdg wit="#ce">creatures</rdg>
+                    <rdg wit="#df16 #fh">Creatures</rdg>
+                    <rdg wit="#ce #poems2">creatures</rdg>
                 </app> put their <app>
                     <rdg wit="#df16">Eyes</rdg>
-                    <rdg wit="#ce">eyes</rdg>
+                    <rdg wit="#ce #fh #poems2">eyes</rdg>
                 </app><app>
-                    <rdg wit="#df16">&#8212;</rdg>
-                    <rdg wit="#ce">,</rdg>
+                    <rdg wit="#df16 #fh">&#8212;</rdg>
+                    <rdg wit="#ce #poems2">,</rdg>
                 </app></l>
                 <l n="21">Incautious<app>
-                    <rdg wit="#df16">&#8212;</rdg>
-                    <rdg wit="#ce"> </rdg>
+                    <rdg wit="#df16 #fh">&#8212;</rdg>
+                    <rdg wit="#ce #poems2"> </rdg>
                 </app>of the <app>
-                    <rdg wit="#df16">Sun</rdg>
-                    <rdg wit="#ce">sun</rdg>
+                    <rdg wit="#df16 #fh">Sun</rdg>
+                    <rdg wit="#ce #poems2">sun</rdg>
                 </app><app>
-                    <rdg wit="#df16">&#8212;</rdg>
-                    <rdg wit="#ce">.</rdg>
+                    <rdg wit="#df16 #fh">&#8212;</rdg>
+                    <rdg wit="#ce #poems2">.</rdg>
                 </app></l>
             </lg>
         </body>
