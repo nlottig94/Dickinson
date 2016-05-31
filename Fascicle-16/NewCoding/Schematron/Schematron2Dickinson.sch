@@ -23,8 +23,8 @@
     
     <pattern>
         <rule context="tei:app">
-            <assert test="count(tei:rdg)ge 1">
-                There must be at least one or more than one rdg element in an app element.
+            <assert test="count(tei:rdg) gt 1">
+                There must be more than one rdg element in an app element.
             </assert>
         </rule>
     </pattern>
