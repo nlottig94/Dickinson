@@ -23,8 +23,8 @@
     
     <pattern>
         <rule context="tei:app">
-            <assert test="count(tei:rdg) gt 1">
-                There must be more than one rdg element in an app element.
+            <assert test="count(tei:rdg)ge 1">
+                There must be at least one or more than one rdg element in an app element.
             </assert>
         </rule>
     </pattern>
@@ -48,13 +48,11 @@
         </rule>
     </pattern>-->
     
-    <let name="witList" value="doc('Dickinson6_listWit.xml')//@xml:id"/>
+    <let name="witList" value="doc('Dickinson_listWit.xml')//@xml:id"/>
     <pattern>
         <rule context="@wit">
             <let name="tokens" value="for $i in tokenize(., '\s+') return substring-after($i, '#')"/>
-            <assert test="every $token in $tokens satisfies $token = $witList or contains(., 'var')">
-                <!--2016-04-08 ebb: I have just added an "or" to this assert test, so that you have an alternative that approves the presence of tokens beginnning with var. 
-                    You could probably fine-tune this to try to ensure that the substring after var contains digits, and perhaps in a certain order if you think you need that.-->
+            <assert test="every $token in $tokens satisfies $token = $witList">
                 The attribute, after the hashtag (#) must match a defined @xml:id in the witList file!
             </assert>
         </rule>
@@ -62,9 +60,9 @@
     
     <pattern>
         <rule context="tei:app">
-            <let name="wit" value="tokenize(replace(string-join(.//@wit, ' '), '#df6', ''), '\s+')"/>
+            <let name="wit" value="tokenize(replace(string-join(.//@wit, ' '), '#df16', ''), '\s+')"/>
             <assert test="count($wit) eq count(distinct-values($wit))">
-                There should not be any repeating witnesses in a single app element other than the possibility of #df6.
+                There should not be any repeating witnesses in a single app element other than the possibility of #df16.
             </assert>
         </rule>
     </pattern>

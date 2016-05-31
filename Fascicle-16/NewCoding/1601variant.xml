@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="Schematron2Dickinson.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="Schematron/Schematron2Dickinson.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -48,6 +46,18 @@
                             <author>Emily Dickinson</author>
                         </bibl>
                     </witness>
+                    <witness xml:id="var0">
+                        <bibl>
+                            <title>ORIGINAL POEMS</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="var1">
+                        <bibl>
+                            <title>ORIGINAL POEMS</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
                     <witness xml:id="poems2">
                         <bibl>
                             <title>Poems, Second Series</title>
@@ -86,39 +96,39 @@
             <head>
                 <title>Poem 1 (J 327: 1862/1891)</title></head>
             <lg>
-                <l n="1">Before I got my eye put out—</l>
+                <l n="1">Before I got my Eye put out&#8212;</l>
                 <l n="2">I liked as well to see</l>
-                <l n="3">As other Creatures, that have Eyes—</l>
-                <l n="4">And know no other way—</l>
+                <l n="3">As other Creatures, that have Eyes&#8212;</l>
+                <l n="4">And know no other way&#8212;</l>
             </lg>
             <lg>
                 <l n="5">But were it told to me, Today,</l>
                 <l n="6">That I might have the Sky</l>
                 <l n="7">For mine, I tell you that my Heart</l>
-                <l n="8">Would split, for size of me—</l>
+                <l n="8">Would split, for size of me&#8212;</l>
             </lg>
             <lg>
-                <l n="9">The Meadows—mine—</l>
-                <l n="10">The Mountains—mine— </l>
-                <l n="11">All Forests—Stintless Stars—</l>
-                <l n="12">As much of noon, as I could take—</l>
-                <l n="13">Between my finite Eyes—</l>
+                <l n="9">The Meadows&#8212;mine&#8212;</l>
+                <l n="10">The Mountains&#8212;mine&#8212;</l>
+                <l n="11">All Forests&#8212;Stintless Stars&#8212;</l>
+                <l n="12">As much of noon, as I could take&#8212;</l>
+                <l n="13">Between my finite Eyes&#8212;</l>
             </lg>
             <lg>
-                <l n="14">The Motions of the Dipping Birds—</l>
+                <l n="14">The Motions of the Dipping Birds&#8212;</l>
                 <l n="15">The <app>
-                    <rdg wit="var0">Lightning's jointed Road—</rdg>
-                    <rdg wit="var1">Morning's Amber Road—</rdg>
+                    <rdg wit="#var0 #df16">Lightning's jointed Road&#8212;</rdg>
+                    <rdg wit="#var1 #df16">Morning's Amber Road&#8212;</rdg>
                 </app>
                 </l>
-                <l n="16">For mine—to look at when I liked </l>
-                <l n="17">The news would strike me dead—</l>
+                <l n="16">For mine&#8212;to look at when I liked,</l>
+                <l n="17">The news would strike me dead&#8212;</l>
             </lg>
             <lg>
-                <l n="18">So safer—guess—with just my soul</l>
+                <l n="18">So safer&#8212;guess&#8212;with just my soul</l>
                 <l n="19">Upon the window pane</l>
-                <l n="20">Where other Creatures put their Eyes</l>
-                <l n="21">Incautious of the Sun—</l>
+                <l n="20">Where other Creatures put their Eyes&#8212;</l>
+                <l n="21">Incautious&#8212;of the Sun&#8212;</l>
             </lg>
         </body>
     </text>
