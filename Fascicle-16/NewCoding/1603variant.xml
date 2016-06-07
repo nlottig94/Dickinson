@@ -2,12 +2,13 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="Schematron2Dickinson.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="Schematron/Schematron2Dickinson.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Poem 3 (J 279: 1861/1896)</title>
+                <title type="Poems3alt" corresp="#poems3">FAREWELL.</title>
                 <author>Emily Dickinson</author>
             </titleStmt>
             <publicationStmt>
@@ -43,6 +44,24 @@
             <div type="witness">
                 <listWit>
                     <witness xml:id="df16">
+                        <bibl>
+                            <title>ORIGINAL POEMS</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="var0">
+                        <bibl>
+                            <title>ORIGINAL POEMS</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="var1">
+                        <bibl>
+                            <title>ORIGINAL POEMS</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="var2">
                         <bibl>
                             <title>ORIGINAL POEMS</title>
                             <author>Emily Dickinson</author>
@@ -85,44 +104,124 @@
         <body>
             <head><title>Poem 3 (J 279: 1861/1896)</title></head>
             <lg>
-                <l>Tie the Strings to my Life, My Lord, </l>
-                <l>Then, I am ready to go!</l>
-                <l>Just look at the Horses—</l>
-                <l>Rapid! That will do!</l>
+                <l n="1">Tie the <app>
+                    <rdg wit="#df16 #fh">Strings</rdg>
+                    <rdg wit="#ce #poems3">strings</rdg>
+                </app> to my <app>
+                    <rdg wit="#df16 #fh">Life</rdg>
+                    <rdg wit="#ce #poems3">life</rdg>
+                </app>, <app>
+                    <rdg wit="#df16 #fh">My</rdg>
+                    <rdg wit="#ce #poems3">my</rdg>
+                </app> Lord,</l>
+                <l n="2">Then<app>
+                    <rdg wit="#df16 #fh">,</rdg>
+                    <rdg wit="#ce #poems3"></rdg>
+                </app> I am ready to go!</l>
+                <l n="3">Just a look at the <app>
+                    <rdg wit="#df16 #fh">Horses</rdg>
+                    <rdg wit="#ce #poems3">horses</rdg>
+                </app>&#8212;</l>
+                <l n="4">Rapid! That will do!</l>
             </lg>
             <lg>
-                <l>Put me in on the <app>
-                    <rdg wit="var0">firmest </rdg>
-                    <rdg wit="var1">tightest </rdg>
-                    <rdg wit="var2">highest—</rdg>
-                </app>side—</l>
-                <l>So I shall never fall—</l>
-                <l>For we must ride to the Judgment—</l>
-                <l>
-                    <app>
-                        <rdg wit="var0">And it's partly, down Hill—</rdg>
-                        <rdg wit="var1">And it's many a mile—the Hills—</rdg>
+                <l n="5">Put me <app>
+                    <rdg wit="#df16 #fh #poems3">in </rdg>
+                    <rdg wit="#ce"></rdg>
+                </app>on the <app>
+                    <rdg wit="#var0 #df16 #ce #fh #poems3">firmest </rdg>
+                    <rdg wit="#var1 #df16">tightest </rdg>
+                    <rdg wit="#var2 #df16">highest&#8212;</rdg>
+                </app>side<app>
+                    <rdg wit="#df16 #fh">&#8212;</rdg>
+                    <rdg wit="#ce #poems3">,</rdg>
+                </app></l>
+                <l n="6">So I shall never fall<app>
+                    <rdg wit="#df16 #fh">&#8212;</rdg>
+                    <rdg wit="#ce #poems3">;</rdg>
+                </app></l>
+                <l n="7">For we must ride to the Judgment<app>
+                    <rdg wit="#df16 #fh">&#8212;</rdg>
+                    <rdg wit="#ce #poems3">,</rdg>
+                </app></l>
+                <l n="8">And it's <app>
+                    <rdg wit="#var0 #df16 #fh">partly, down Hill&#8212;</rdg>
+                    <rdg wit="#var1 #df16">many a mile&#8212;the Hills</rdg>
+                    <rdg wit="#ce #poems3">partly down hill.</rdg>
                     </app>
                 </l>
             </lg>
             <lg>
-                <l>But I never mind the <app>
-                    <rdg wit="var0">steepest</rdg>
-                    <rdg wit="var1">Bridges</rdg>
+                <l n="9">But never I mind the <app>
+                    <rdg wit="#var0 #df16 #fh">steepest&#8212;</rdg>
+                    <rdg wit="#var1 #df16">Bridges</rdg>
+                    <rdg wit="#ce #poems3">bridges,</rdg>
                 </app>
                 </l>
-                <l>And I never mind the Sea—</l>
-                <l>Held fast in Everlasting Race—</l>
-                <l>By my own Choice, and Thee—</l>
+                <l n="10">And never I mind the <app>
+                    <rdg wit="#df16 #fh">Sea</rdg>
+                    <rdg wit="#ce #poems3">sea</rdg>
+                </app><app>
+                    <rdg wit="#df16 #fh">&#8212;</rdg>
+                    <rdg wit="#ce #poems3">;</rdg>
+                </app></l>
+                <l n="11">Held fast in <app>
+                    <rdg wit="#df16 #fh">Everlasting</rdg>
+                    <rdg wit="#ce #poems3">everlasting</rdg>
+                </app> <app>
+                    <rdg wit="#df16 #fh">Race</rdg>
+                    <rdg wit="#ce #poems3">race</rdg>
+                </app><app>
+                    <rdg wit="#df16 #fh">&#8212;</rdg>
+                    <rdg wit="#ce #poems3"></rdg>
+                </app></l>
+                <l n="12">By my own <app>
+                    <rdg wit="#df16 #fh">Choice</rdg>
+                    <rdg wit="#ce #poems3">choice</rdg>
+                </app><app>
+                    <rdg wit="#df16 #fh">,</rdg>
+                    <rdg wit="#ce #poems3"></rdg>
+                </app> and <app>
+                    <rdg wit="#df16 #fh">Thee</rdg>
+                    <rdg wit="#ce #poems3">thee</rdg>
+                </app><app>
+                    <rdg wit="#df16 #fh">&#8212;</rdg>
+                    <rdg wit="#ce #poems3">.</rdg>
+                </app></l>
             </lg>
             <lg>
-                <l>Goodbye to the Life I used to live—</l>
-                <l>And the World I used to know—</l>
-                <l>And kiss the Hills, for me, just once—</l>
-                <l><app>
-                    <rdg wit="var0">Then—</rdg>
-                    <rdg wit="var1">Now </rdg>
-                    <rdg wit="var2">Here's a keepsake for </rdg>
+                <l n="13"><app>
+                    <rdg wit="#df16">Good bye</rdg>
+                    <rdg wit="#ce #poems3">Good-by</rdg>
+                    <rdg wit="#fh">Goodbye</rdg>
+                </app> to the <app>
+                    <rdg wit="#df16 #fh">Life</rdg>
+                    <rdg wit="#ce #poems3">life</rdg>
+                </app> I used to live<app>
+                    <rdg wit="#df16 #fh">&#8212;</rdg>
+                    <rdg wit="#ce #poems3">,</rdg>
+                </app></l>
+                <l n="14">And the <app>
+                    <rdg wit="#df16 #fh">World</rdg>
+                    <rdg wit="#ce #poems3">world</rdg>
+                </app> I used to know<app>
+                    <rdg wit="#df16 #fh">&#8212;</rdg>
+                    <rdg wit="#ce #poems3">;</rdg>
+                </app></l>
+                <l n="15">And kiss the <app>
+                    <rdg wit="#df16 #fh">Hills</rdg>
+                    <rdg wit="#ce #poems3">hills</rdg>
+                </app><app>
+                    <rdg wit="#df16 #fh">,</rdg>
+                    <rdg wit="#ce #poems3"></rdg>
+                </app> for me, just once<app>
+                    <rdg wit="#df16 #fh">&#8212;</rdg>
+                    <rdg wit="#ce #poems3">;</rdg>
+                </app></l>
+                <l n="16"><app>
+                    <rdg wit="#var0 #df16 #fh">Then&#8212;</rdg>
+                    <rdg wit="#var1 #df16 #ce #poems3">Now </rdg>
+                    <rdg wit="#var2 #df16">Here's a keepsake for </rdg>
                 </app> I am ready to go!</l>
             </lg>
         </body>
