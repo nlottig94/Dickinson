@@ -49,6 +49,12 @@
                             <author>Emily Dickinson</author>
                         </bibl>
                     </witness>
+                    <witness xml:id="var0">
+                        <bibl>
+                            <title>ORIGINAL POEMS</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
                     <witness xml:id="poems1">
                         <bibl>
                             <title>Poems, First Series</title>
@@ -86,21 +92,61 @@
         <body>
             <head><title>Poem 4 (J 241: 1861/1890)</title></head>
             <lg>
-                <l>I like a look of Agony,</l>
-                <l>Because I know it's true—</l>
-                <l>Men do not sham Convulsion,</l>
-                <l>Nor simulate a Throe—</l>
+                <l n="1">I like a look of <app>
+                    <rdg wit="#df16 #fh">Agony</rdg>
+                    <rdg wit="#ce #poems1">agony</rdg>
+                </app>,</l>
+                <l n="2">Because I know it's true<app>
+                    <rdg wit="#df16 #fh">&#8212;</rdg>
+                    <rdg wit="#ce #poems1">;</rdg>
+                </app></l>
+                <l n="3">Men do not sham <app>
+                    <rdg wit="#df16 #fh">Convulsion</rdg>
+                    <rdg wit="#ce #poems1">convulsion</rdg>
+                </app>,</l>
+                <l n="4">Nor simulate<app>
+                    <rdg wit="#df16 #fh">,</rdg>
+                    <rdg wit="#ce #poems1"></rdg>
+                </app> a <app>
+                    <rdg wit="#df16 #fh">Throe</rdg>
+                    <rdg wit="#ce #poems1">throe</rdg>
+                </app><app>
+                    <rdg wit="#df16 #fh">&#8212;</rdg>
+                    <rdg wit="#ce #poems1">.</rdg>
+                </app></l>
             </lg>
             <lg>
-                <l>
+                <l n="5">
                     <app>
-                        <rdg wit="var0"><del rend="strikethrough">Death comes</del></rdg>
+                        <rdg wit="#var0 #df16"><del rend="strikethrough">Death Comes</del></rdg>
+                        <rdg wit="#ce #fh #poems1"></rdg>
                     </app>
                 </l>
-                <l>The Eyes glaze once—and—that is Death—</l>
-                <l>Impossible to feign</l>
-                <l>The Beads upon the Forehead</l>
-                <l>By homely Anguish strung.</l>
+                <l n="6">The <app>
+                    <rdg wit="#df16 #fh">Eyes</rdg>
+                    <rdg wit="#ce #poems1">eyes</rdg>
+                </app> glaze once<app>
+                    <rdg wit="#df16 #fh">&#8212;</rdg>
+                    <rdg wit="#ce #poems1">, </rdg>
+                </app>and that is <app>
+                    <rdg wit="#df16 #fh">Death</rdg>
+                    <rdg wit="#ce #poems1">death</rdg>
+                </app><app>
+                    <rdg wit="#df16 #fh">&#8212;</rdg>
+                    <rdg wit="#ce #poems1">.</rdg>
+                </app></l>
+                <l n="7">Impossible to feign</l>
+                <l n="8">The <app>
+                    <rdg wit="#df16 #fh">Beads</rdg>
+                    <rdg wit="#ce #poems1">beads</rdg>
+                </app> upon the <app>
+                    <rdg wit="#df16 #fh">Forehead</rdg>
+                    <rdg wit="#ce #poems1">forehead</rdg>
+                </app></l>
+                <l n="9">By homely <app>
+                    <rdg wit="#df16 #fh">Anguish</rdg>
+                    <rdg wit="#ce #poems1">anguish</rdg>
+                </app> strung.</l>
             </lg>
         </body>
     </text>
