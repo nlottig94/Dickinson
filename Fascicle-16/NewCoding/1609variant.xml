@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="Schematron2Dickinson.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="Schematron/Schematron2Dickinson.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -86,40 +86,157 @@
         <body>
             <head><title>Poem 9 (J 445: 1862/1896)</title></head>
             <lg>
-                <l>'Twas just this time, last year, I died.</l>
-                <l> I know I heard the Corn,</l>
-                <l>When I was carried by the Farms—</l>
-                <l>It had the Tassels on—</l>
+                <l n="1">'Twas just this time<app>
+                    <rdg wit="#df16">,</rdg>
+                    <rdg wit="#ce"></rdg>
+                </app> last year<app>
+                    <rdg wit="#df16">,</rdg>
+                    <rdg wit="#ce"></rdg>
+                </app> I died.</l>
+                <l n="2">I know I heard the <app>
+                    <rdg wit="#df16">Corn</rdg>
+                    <rdg wit="#ce">corn</rdg>
+                </app>,</l>
+                <l n="3">When I was <app>
+                    <rdg wit="#df16">Carried</rdg>
+                    <rdg wit="#ce">carried</rdg>
+                </app> by the <app>
+                    <rdg wit="#df16">Farms</rdg>
+                    <rdg wit="#ce">farms</rdg>
+                </app><app>
+                    <rdg wit="#df16">&#8212;</rdg>
+                    <rdg wit="#ce">,&#8212;</rdg>
+                </app></l>
+                <l n="4">It had the <app>
+                    <rdg wit="#df16">Tassels</rdg>
+                    <rdg wit="#ce">tassels</rdg>
+                </app> on<app>
+                    <rdg wit="#df16">&#8212;</rdg>
+                    <rdg wit="#ce">.</rdg>
+                </app></l>
             </lg>
             <lg>
-                <l>I thought how yellow it would look—</l>
-                <l>When Richard went to mill—</l>
-                <l>And then, I wanted to get out,</l>
-                <l>But something held my will.</l>
+                <l n="5">I thought how yellow it would look<app>
+                    <rdg wit="#df16">&#8212;</rdg>
+                    <rdg wit="#ce"></rdg>
+                </app></l>
+                <l n="6">When <persName>Richard</persName> went to mill<app>
+                    <rdg wit="#df16">&#8212;</rdg>
+                    <rdg wit="#ce">;</rdg>
+                </app></l>
+                <l n="7">And then<app>
+                    <rdg wit="#df16">,</rdg>
+                    <rdg wit="#ce"></rdg>
+                </app> I wanted to get out,</l>
+                <l n="8">But something held my will.</l>
             </lg>
             <lg>
-                <l>I thought just how red—Apples wedged</l>
-                <l>The Stubble's joints between—</l>
-                <l>And carts stooping round the fields</l>
-                <l>To take the Pumpkins in—</l>
+                <l n="9">I thought just how <app>
+                    <rdg wit="#df16">Red</rdg>
+                    <rdg wit="#ce">red</rdg>
+                </app><app>
+                    <rdg wit="#df16">&#8212;</rdg>
+                    <rdg wit="#ce"> </rdg>
+                </app><app>
+                    <rdg wit="#df16">Apples</rdg>
+                    <rdg wit="#ce">apples</rdg>
+                </app> wedged</l>
+                <l n="10">The <app>
+                    <rdg wit="#df16">Stubble's</rdg>
+                    <rdg wit="#ce">stubble's</rdg>
+                </app> joints between<app>
+                    <rdg wit="#df16">&#8212;</rdg>
+                    <rdg wit="#ce">;</rdg>
+                </app></l>
+                <l n="11">And <app>
+                    <rdg wit="#df16">Carts</rdg>
+                    <rdg wit="#ce">carts</rdg>
+                </app> went stooping round the fields</l>
+                <l n="12">To take the <app>
+                    <rdg wit="#df16">Pumpkins</rdg>
+                    <rdg wit="#ce">pumpkins</rdg>
+                </app> in<app>
+                    <rdg wit="#df16">&#8212;</rdg>
+                    <rdg wit="#ce">.</rdg>
+                </app></l>
             </lg>
             <lg>
-                <l>I wondered which would miss me, least,</l>
-                <l>And when Thanksgiving, came,</l>
-                <l>If father'd multiply the plates—</l>
-                <l>To make an even Sum—</l>
+                <l n="13">I wondered which would miss me<app>
+                    <rdg wit="#df16">,</rdg>
+                    <rdg wit="#ce"></rdg>
+                </app> least,</l>
+                <l n="14">And when Thanksgiving, came,</l>
+                <l n="15">If <app>
+                    <rdg wit="#df16">Father'd</rdg>
+                    <rdg wit="#ce">father'd</rdg>
+                </app> multiply the plates<app>
+                    <rdg wit="#df16">&#8212;</rdg>
+                    <rdg wit="#ce"></rdg>
+                </app></l>
+                <l n="16">To make an even <app>
+                    <rdg wit="#df16">Sum</rdg>
+                    <rdg wit="#ce">sum</rdg>
+                </app><app>
+                    <rdg wit="#df16">&#8212;</rdg>
+                    <rdg wit="#ce">.</rdg>
+                </app></l>
             </lg>
             <lg>
-                <l>And would it blur the Christmas glee</l>
-                <l>My Stocking hand too high</l>
-                <l>For any Santa Claus to reach</l>
-                <l>The Altitude of me—</l>
+                <l n="17"><app>
+                    <rdg wit="#df16">And would it blur the Christmas glee</rdg>
+                    <rdg wit="#ce">And if my stocking hung too high,</rdg>
+                </app></l>
+                <l n="18"><app>
+                    <rdg wit="#df16">My Stocking hang too high</rdg>
+                    <rdg wit="#ce">Would it blur the Christmas glee,</rdg>
+                </app></l>
+                <l n="19"><app>
+                    <rdg wit="#df16">For any</rdg>
+                    <rdg wit="#ce">That not a</rdg>
+                </app> Santa Claus to reach</l>
+                <l n="20">The <app>
+                    <rdg wit="#df16">Altitude</rdg>
+                    <rdg wit="#ce">altitude</rdg>
+                </app> of me<app>
+                    <rdg wit="#df16">&#8212;</rdg>
+                    <rdg wit="#ce">?</rdg>
+                </app></l>
             </lg>
             <lg>
-                <l>But this sort, grieved myself,</l>
-                <l>And so, I thought the other way,</l>
-                <l>And just this time, some perfect year—</l>
-                <l>Themself, should come to me—</l>
+                <l n="21">But this sort<app>
+                    <rdg wit="#df16">,</rdg>
+                    <rdg wit="#ce"></rdg>
+                </app> grieved myself,<app>
+                    <rdg wit="#df16"></rdg>
+                    <rdg wit="#ce"> and so</rdg>
+                </app></l>
+                <l n="22"><app>
+                    <rdg wit="#df16">And so, </rdg>
+                    <rdg wit="#ce"></rdg>
+                </app>I thought <app>
+                    <rdg wit="#df16">the other way</rdg>
+                    <rdg wit="#ce">how it would be</rdg>
+                </app><app>
+                    <rdg wit="#df16">,</rdg>
+                    <rdg wit="#ce"></rdg>
+                </app></l>
+                <l n="23"><app>
+                    <rdg wit="#df16">And</rdg>
+                    <rdg wit="#ce">When</rdg>
+                </app> just this time, some perfect year<app>
+                    <rdg wit="#df16">&#8212;</rdg>
+                    <rdg wit="#ce">,</rdg>
+                </app></l>
+                <l n="24"><app>
+                    <rdg wit="#df16">Themself</rdg>
+                    <rdg wit="#ce">Themselves</rdg>
+                </app><app>
+                    <rdg wit="#df16">,</rdg>
+                    <rdg wit="#ce"></rdg>
+                </app> should come to me<app>
+                    <rdg wit="#df16">&#8212;</rdg>
+                    <rdg wit="#ce">.</rdg>
+                </app></l>
             </lg>
         </body>
     </text>
