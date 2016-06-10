@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="Schematron2Dickinson.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="Schematron/Schematron2Dickinson.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -45,6 +45,18 @@
                             <author>Emily Dickinson</author>
                         </bibl>
                     </witness>
+                    <witness xml:id="var0">
+                        <bibl>
+                            <title>ORIGINAL POEMS</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="var1">
+                        <bibl>
+                            <title>ORIGINAL POEMS</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
                     <witness xml:id="fh">
                         <bibl>
                             <title>Final Harvest: Emily Dickinson's Poems</title>
@@ -61,48 +73,59 @@
         <body>
             <head><title>Poem 6 (J 281: 1861/1935)</title></head>
             <lg>
-                <l>"Tis so appalling—it exhilarates— </l>
-                <l>
-                    <app>
-                        <rdg wit="var0">So over Horror, it half Captivates—</rdg>
-                        <rdg wit="var1">So over Horror, it dumb fascinates—</rdg>
-                    </app>
-                </l>
-                <l>The Soul stares after it, secure— </l>
-                <l>
-                    <app>
-                        <rdg wit="var0">To know the worst, leaves no dread more—</rdg>
-                        <rdg wit="var1">A Sepulchre, fears frost, no more—</rdg>
-                    </app>
-                </l>
+                <l n="1">'Tis so appalling&#8212;it <app>
+                    <rdg wit="#df16">Exhilarates</rdg>
+                    <rdg wit="#fh">exhilarates</rdg>
+                </app>&#8212;</l>
+                <l n="2">So over Horror, <app>
+                    <rdg wit="#var0 #df16 #fh">it half Captivates&#8212;</rdg>
+                    <rdg wit="#var1 #df16">it dumb fascinates&#8212;</rdg>
+                </app></l>
+                <l n="3">The Soul stares after it, secure&#8212;</l>
+                <l n="4"><app>
+                    <rdg wit="#var0 #df16">To know the worst, leaves no dread more&#8212;</rdg>
+                    <rdg wit="#var1 #df16 #fh">A Sepulchre, fears frost, no more&#8212;</rdg>
+                </app></l>
             </lg>
             <lg>
-                <l>To scan a Ghost, is faint— </l>
-                <l>But grappling, conquers it— </l>
-                <l>How easy Torment, now— </l>
-                <l>Suspense kept sawing so— </l>
+                <l n="5">To scan a Ghost, is faint&#8212;</l>
+                <l n="6">But grappling, <app>
+                    <rdg wit="#df16">Conquers</rdg>
+                    <rdg wit="#fh">conquers</rdg>
+                </app> it&#8212;</l>
+                <l n="7">How easy, Torment, now&#8212;</l>
+                <l n="8">Suspense kept sawing so&#8212;</l>
             </lg>
             <lg>
-                <l>The Truth, is Bald, and Cold— </l>
-                <l>But that will hold— </l>
-                <l>If any are not sure— </l>
-                <l>We show them—prayer— </l>
-                <l>But we, who know, </l>
-                <l>Stop hoping, now— </l>
+                <l n="9">The Truth, is Bald<app>
+                    <rdg wit="#df16">&#8212;</rdg>
+                    <rdg wit="#fh">, </rdg>
+                </app>and Cold&#8212;</l>
+                <l n="10">But that will hold&#8212;</l>
+                <l n="11">If any are not sure&#8212;</l>
+                <l n="12">We show them&#8212;prayer&#8212;</l>
+                <l n="13">But we, who know,</l>
+                <l n="14">Stop hoping, now&#8212;</l>
             </lg>
             <lg>
-                <l>Looking at Death, is Dying— </l>
-                <l>Just let go the Breath— </l>
-                <l>And not the pillow at your Cheek </l>
-                <l>So Slumbereth— </l>
+                <l n="15">Looking at Death, is Dying&#8212;</l>
+                <l n="16">Just let go the Breath&#8212;</l>
+                <l n="17">And not the pillow at your Cheek</l>
+                <l n="18">So Slumbereth&#8212;</l>
             </lg>
             <lg>
-                <l>Others, Can wrestle— </l>
-                <l>Yours, is done— </l>
-                <l>And so of Woe, bleak dreaded—come, </l>
-                <l>It sets the Fright at liberty— </l>
-                <l>And Terror's free— </l>
-                <l>Gay, Ghastly, Holiday! </l>
+                <l n="19">Others, Can wrestle&#8212;</l>
+                <l n="20">Yours, is done&#8212;</l>
+                <l n="21">And so of <app>
+                    <rdg wit="#df16">Wo</rdg>
+                    <rdg wit="#fh">Woe</rdg>
+                </app>, bleak dreaded&#8212;<app>
+                    <rdg wit="#df16">Come</rdg>
+                    <rdg wit="#fh">come</rdg>
+                </app>,</l>
+                <l n="22">It sets the Fright at liberty&#8212;</l>
+                <l n="23">And Terror's free&#8212;</l>
+                <l n="24">Gay, Ghastly, Holiday!</l>
             </lg>
         </body>
     </text>
