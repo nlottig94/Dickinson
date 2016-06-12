@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="Schematron2Dickinson.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="Schematron/Schematron2Dickinson.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -47,6 +47,18 @@
                             <author>Emily Dickinson</author>
                         </bibl>
                     </witness>
+                    <witness xml:id="var0">
+                        <bibl>
+                            <title>ORIGINAL POEMS</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="var1">
+                        <bibl>
+                            <title>ORIGINAL POEMS</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
                     <witness xml:id="poems1">
                         <bibl>
                             <title>Poems, First Series</title>
@@ -84,31 +96,75 @@
         <body>
             <head><title>Poem 10 (J 608: 1862/1890)</title></head>
             <lg>
-                <l>Afraid! Of whom am I afraid?</l>
-                <l>Not Death—for who is He?</l>
-                <l>The Porter of my father's Lodge</l>
-                <l>As much abasheth me!</l>
+                <l n="1">Afraid! Of whom am I afraid?</l>
+                <l n="2">Not <app>
+                    <rdg wit="#df16">Death</rdg>
+                    <rdg wit="#ce">death</rdg>
+                </app><app>
+                    <rdg wit="#df16">&#8212;</rdg>
+                    <rdg wit="#ce">; </rdg>
+                </app>for who is <app>
+                    <rdg wit="#df16">He</rdg>
+                    <rdg wit="#ce">he</rdg>
+                </app>?</l>
+                <l n="3">The <app>
+                    <rdg wit="#df16">Porter</rdg>
+                    <rdg wit="#ce">porter</rdg>
+                </app> of my <app>
+                    <rdg wit="#df16">Father's</rdg>
+                    <rdg wit="#ce">father's</rdg>
+                </app> <app>
+                    <rdg wit="#df16">Lodge</rdg>
+                    <rdg wit="#ce">lodge</rdg>
+                </app></l>
+                <l n="4">As much abasheth me<app>
+                    <rdg wit="#df16">!</rdg>
+                    <rdg wit="#ce">.</rdg>
+                </app></l>
             </lg>
             <lg>
-                <l>Of Life? 'Twere odd I fear thing</l>
-                <l>That comprehendeth me</l>
-                <l>In one or <app>
-                    <rdg wit="var0">two existences</rdg>
-                    <rdg wit="var1">more—existences</rdg>
-                </app>
-                </l>
-                <l><app>
-                    <rdg wit="var0">Just as the case may be</rdg>
-                    <rdg wit="var1">As Deity decree—</rdg>
-                </app>
-                </l>
+                <l n="5">Of <app>
+                    <rdg wit="#df16">Life</rdg>
+                    <rdg wit="#ce">life</rdg>
+                </app>? 'Twere odd I fear thing</l>
+                <l n="6">That comprehendeth me</l>
+                <l n="7">In one or <app>
+                    <rdg wit="#var0 #df16">two </rdg>
+                    <rdg wit="#var1 #df16">more&#8212;</rdg>
+                    <rdg wit="#ce">more </rdg>
+                </app><app>
+                    <rdg wit="#df16">Existences</rdg>
+                    <rdg wit="#ce">existences</rdg>
+                </app><app>
+                    <rdg wit="#df16">&#8212;</rdg>
+                    <rdg wit="#ce"></rdg>
+                </app></l>
+                <l n="8"><app>
+                    <rdg wit="#var0 #df16">Just as the case may be</rdg>
+                    <rdg wit="#var1 #df16">As Deity decree</rdg>
+                    <rdg wit="#ce">At Deity's decree</rdg>
+                </app><app>
+                    <rdg wit="#df16">&#8212;</rdg>
+                    <rdg wit="#ce">.</rdg>
+                </app></l>
             </lg>
             <lg>
-                
-                <l>Of Resurrection? Is the East</l>
-                <l>Afraid to trust the Morn</l>
-                <l>With her fastidious forehead?</l>
-                <l>As soon impeach my Crown!</l>
+                <l n="9">Of <app>
+                    <rdg wit="#df16">Resurrection</rdg>
+                    <rdg wit="#ce">resurrection</rdg>
+                </app>? Is the <app>
+                    <rdg wit="#df16">East</rdg>
+                    <rdg wit="#ce">east</rdg>
+                </app></l>
+                <l n="10">Afraid to trust the <app>
+                    <rdg wit="#df16">Morn</rdg>
+                    <rdg wit="#ce">morn</rdg>
+                </app></l>
+                <l n="11">With her fastidious forehead?</l>
+                <l n="12">As soon impeach my <app>
+                    <rdg wit="#df16">Crown</rdg>
+                    <rdg wit="#ce">crown</rdg>
+                </app>!</l>
             </lg>
         </body>
     </text>
