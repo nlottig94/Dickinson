@@ -98,72 +98,76 @@
             <lg>
                 <l n="1">Afraid! Of whom am I afraid?</l>
                 <l n="2">Not <app>
-                    <rdg wit="#df16">Death</rdg>
-                    <rdg wit="#ce">death</rdg>
+                    <rdg wit="#df16 #fh">Death</rdg>
+                    <rdg wit="#ce #poems1">death</rdg>
                 </app><app>
-                    <rdg wit="#df16">&#8212;</rdg>
-                    <rdg wit="#ce">; </rdg>
+                    <rdg wit="#df16 #fh">&#8212;</rdg>
+                    <rdg wit="#ce #poems1">; </rdg>
                 </app>for who is <app>
-                    <rdg wit="#df16">He</rdg>
-                    <rdg wit="#ce">he</rdg>
+                    <rdg wit="#df16 #fh">He</rdg>
+                    <rdg wit="#ce #poems1">he</rdg>
                 </app>?</l>
                 <l n="3">The <app>
-                    <rdg wit="#df16">Porter</rdg>
-                    <rdg wit="#ce">porter</rdg>
+                    <rdg wit="#df16 #fh">Porter</rdg>
+                    <rdg wit="#ce #poems1">porter</rdg>
                 </app> of my <app>
-                    <rdg wit="#df16">Father's</rdg>
-                    <rdg wit="#ce">father's</rdg>
+                    <rdg wit="#df16 #fh">Father's</rdg>
+                    <rdg wit="#ce #poems1">father's</rdg>
                 </app> <app>
-                    <rdg wit="#df16">Lodge</rdg>
-                    <rdg wit="#ce">lodge</rdg>
+                    <rdg wit="#df16 #fh">Lodge</rdg>
+                    <rdg wit="#ce #poems1">lodge</rdg>
                 </app></l>
                 <l n="4">As much abasheth me<app>
-                    <rdg wit="#df16">!</rdg>
-                    <rdg wit="#ce">.</rdg>
+                    <rdg wit="#df16 #fh">!</rdg>
+                    <rdg wit="#ce #poems1">.</rdg>
                 </app></l>
             </lg>
             <lg>
                 <l n="5">Of <app>
-                    <rdg wit="#df16">Life</rdg>
-                    <rdg wit="#ce">life</rdg>
-                </app>? 'Twere odd I fear thing</l>
+                    <rdg wit="#df16 #fh">Life</rdg>
+                    <rdg wit="#ce #poems1">life</rdg>
+                </app>? 'Twere odd I fear <app>
+                    <rdg wit="#df16"></rdg>
+                    <rdg wit="#ce #poems1">a </rdg>
+                    <rdg wit="#fh">[a] </rdg>
+                </app>thing</l>
                 <l n="6">That comprehendeth me</l>
                 <l n="7">In one or <app>
-                    <rdg wit="#var0 #df16">two </rdg>
+                    <rdg wit="#var0 #df16 #fh">two </rdg>
                     <rdg wit="#var1 #df16">more&#8212;</rdg>
-                    <rdg wit="#ce">more </rdg>
+                    <rdg wit="#ce #poems1">more </rdg>
                 </app><app>
                     <rdg wit="#df16">Existences</rdg>
-                    <rdg wit="#ce">existences</rdg>
+                    <rdg wit="#ce #fh #poems1">existences</rdg>
                 </app><app>
-                    <rdg wit="#df16">&#8212;</rdg>
-                    <rdg wit="#ce"></rdg>
+                    <rdg wit="#df16 #fh">&#8212;</rdg>
+                    <rdg wit="#ce #poems1"></rdg>
                 </app></l>
                 <l n="8"><app>
                     <rdg wit="#var0 #df16">Just as the case may be</rdg>
-                    <rdg wit="#var1 #df16">As Deity decree</rdg>
-                    <rdg wit="#ce">At Deity's decree</rdg>
+                    <rdg wit="#var1 #df16 #fh">As Deity decree</rdg>
+                    <rdg wit="#ce #poems1">At Deity's decree</rdg>
                 </app><app>
-                    <rdg wit="#df16">&#8212;</rdg>
-                    <rdg wit="#ce">.</rdg>
+                    <rdg wit="#df16 #fh">&#8212;</rdg>
+                    <rdg wit="#ce #poems1">.</rdg>
                 </app></l>
             </lg>
             <lg>
                 <l n="9">Of <app>
-                    <rdg wit="#df16">Resurrection</rdg>
-                    <rdg wit="#ce">resurrection</rdg>
+                    <rdg wit="#df16 #fh">Resurrection</rdg>
+                    <rdg wit="#ce #poems1">resurrection</rdg>
                 </app>? Is the <app>
-                    <rdg wit="#df16">East</rdg>
-                    <rdg wit="#ce">east</rdg>
+                    <rdg wit="#df16 #fh">East</rdg>
+                    <rdg wit="#ce #poems1">east</rdg>
                 </app></l>
                 <l n="10">Afraid to trust the <app>
-                    <rdg wit="#df16">Morn</rdg>
-                    <rdg wit="#ce">morn</rdg>
+                    <rdg wit="#df16 #fh">Morn</rdg>
+                    <rdg wit="#ce #poems1">morn</rdg>
                 </app></l>
                 <l n="11">With her fastidious forehead?</l>
                 <l n="12">As soon impeach my <app>
-                    <rdg wit="#df16">Crown</rdg>
-                    <rdg wit="#ce">crown</rdg>
+                    <rdg wit="#df16 #fh">Crown</rdg>
+                    <rdg wit="#ce #poems1">crown</rdg>
                 </app>!</l>
             </lg>
         </body>
