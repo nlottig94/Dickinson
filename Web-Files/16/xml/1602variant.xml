@@ -51,18 +51,6 @@
                             <author>Emily Dickinson</author>
                         </bibl>
                     </witness>
-                    <witness xml:id="var0">
-                        <bibl>
-                            <title>ORIGINAL POEMS</title>
-                            <author>Emily Dickinson</author>
-                        </bibl>
-                    </witness>
-                    <witness xml:id="var1">
-                        <bibl>
-                            <title>ORIGINAL POEMS</title>
-                            <author>Emily Dickinson</author>
-                        </bibl>
-                    </witness>
                     <witness xml:id="fp">
                         <bibl>
                             <title>Further Poems</title>
@@ -169,8 +157,8 @@
                     <rdg wit="#am #ce #fp"></rdg>
                 </app></l>
                 <l n="8"><app>
-                        <rdg wit="#var0 #df16 #fh">The</rdg>
-                        <rdg wit="#var1 #df16 #am #ce #fp">Our</rdg>
+                        <rdg wit="#df16 #fh" type="var0">The</rdg>
+                        <rdg wit="#df16 #am #ce #fp" type="var1">Our</rdg>
                 </app> <app>
                     <rdg wit="#df16 #fh">Mouldering</rdg>
                     <rdg wit="#am #ce #fp">moldering</rdg>

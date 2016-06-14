@@ -49,12 +49,6 @@
                             <author>Emily Dickinson</author>
                         </bibl>
                     </witness>
-                    <witness xml:id="var0">
-                        <bibl>
-                            <title>ORIGINAL POEMS</title>
-                            <author>Emily Dickinson</author>
-                        </bibl>
-                    </witness>
                     <witness xml:id="poems1">
                         <bibl>
                             <title>Poems, First Series</title>
@@ -118,7 +112,7 @@
             <lg>
                 <l n="5">
                     <app>
-                        <rdg wit="#var0 #df16"><del rend="strikethrough">Death Comes</del></rdg>
+                        <rdg wit="#df16"><del rend="strikethrough">Death Comes</del></rdg>
                         <rdg wit="#ce #fh #poems1"></rdg>
                     </app>
                 </l>

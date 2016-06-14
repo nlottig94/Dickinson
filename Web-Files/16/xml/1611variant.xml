@@ -48,18 +48,6 @@
                             <author>Emily Dickinson</author>
                         </bibl>
                     </witness>
-                    <witness xml:id="var0">
-                        <bibl>
-                            <title>ORIGINAL POEMS</title>
-                            <author>Emily Dickinson</author>
-                        </bibl>
-                    </witness>
-                    <witness xml:id="var1">
-                        <bibl>
-                            <title>ORIGINAL POEMS</title>
-                            <author>Emily Dickinson</author>
-                        </bibl>
-                    </witness>
                     <witness xml:id="ce">
                         <bibl>
                             <title>The Poems of Emily Dickinson: Centenary Edition</title>
@@ -213,8 +201,8 @@
                     <rdg wit="#ce"></rdg>
                 </app></l>
                 <l n="16"><app>
-                    <rdg wit="#var0 #df16">The steadier, as my face withdrew&#8212;</rdg>
-                    <rdg wit="#var1 #df16">The larger&#8212;as my face withdrew&#8212;</rdg>
+                    <rdg wit="#df16" type="var0">The steadier, as my face withdrew&#8212;</rdg>
+                    <rdg wit="#df16" type="var1">The larger&#8212;as my face withdrew&#8212;</rdg>
                     <rdg wit="#lSD">The larger, as her face withdrew&#8212;</rdg>
                     <rdg wit="#ce"></rdg>
                 </app></l>

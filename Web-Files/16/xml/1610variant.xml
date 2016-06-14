@@ -47,18 +47,6 @@
                             <author>Emily Dickinson</author>
                         </bibl>
                     </witness>
-                    <witness xml:id="var0">
-                        <bibl>
-                            <title>ORIGINAL POEMS</title>
-                            <author>Emily Dickinson</author>
-                        </bibl>
-                    </witness>
-                    <witness xml:id="var1">
-                        <bibl>
-                            <title>ORIGINAL POEMS</title>
-                            <author>Emily Dickinson</author>
-                        </bibl>
-                    </witness>
                     <witness xml:id="poems1">
                         <bibl>
                             <title>Poems, First Series</title>
@@ -133,8 +121,8 @@
                 </app>thing</l>
                 <l n="6">That comprehendeth me</l>
                 <l n="7">In one or <app>
-                    <rdg wit="#var0 #df16 #fh">two </rdg>
-                    <rdg wit="#var1 #df16">more&#8212;</rdg>
+                    <rdg wit="#df16 #fh" type="var0">two </rdg>
+                    <rdg wit="#df16" type="var1">more&#8212;</rdg>
                     <rdg wit="#ce #poems1">more </rdg>
                 </app><app>
                     <rdg wit="#df16">Existences</rdg>
@@ -144,8 +132,8 @@
                     <rdg wit="#ce #poems1"></rdg>
                 </app></l>
                 <l n="8"><app>
-                    <rdg wit="#var0 #df16">Just as the case may be</rdg>
-                    <rdg wit="#var1 #df16 #fh">As Deity decree</rdg>
+                    <rdg wit="#df16" type="var0">Just as the case may be</rdg>
+                    <rdg wit="#df16 #fh" type="var1">As Deity decree</rdg>
                     <rdg wit="#ce #poems1">At Deity's decree</rdg>
                 </app><app>
                     <rdg wit="#df16 #fh">&#8212;</rdg>

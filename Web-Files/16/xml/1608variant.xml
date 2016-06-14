@@ -44,24 +44,6 @@
                             <author>Emily Dickinson</author>
                         </bibl>
                     </witness>
-                    <witness xml:id="var0">
-                        <bibl>
-                            <title>ORIGINAL POEMS</title>
-                            <author>Emily Dickinson</author>
-                        </bibl>
-                    </witness>
-                    <witness xml:id="var1">
-                        <bibl>
-                            <title>ORIGINAL POEMS</title>
-                            <author>Emily Dickinson</author>
-                        </bibl>
-                    </witness>
-                    <witness xml:id="var2">
-                        <bibl>
-                            <title>ORIGINAL POEMS</title>
-                            <author>Emily Dickinson</author>
-                        </bibl>
-                    </witness>
                     <witness xml:id="bm">
                         <bibl>
                             <title>Bolts of Melody: New Poems of Emily Dickinson</title>
@@ -135,8 +117,8 @@
                     <rdg wit="#df16">&#8212;</rdg>
                     <rdg wit="#bm"></rdg>
                 </app><app>
-                    <rdg wit="#var0 #df16 #bm">shall stand</rdg>
-                    <rdg wit="#var1 #df16">stand up</rdg>
+                    <rdg wit="#df16" type="var1">stand up</rdg>
+                    <rdg wit="#df16 #bm" type="var0">shall stand</rdg>
                 </app><app>
                     <rdg wit="#df16">&#8212;</rdg>
                     <rdg wit="#bm"></rdg>
@@ -148,8 +130,8 @@
                     <rdg wit="#df16">,</rdg>
                     <rdg wit="#bm"></rdg>
                 </app> <app>
-                    <rdg wit="#var0 #df16">scares away</rdg>
-                    <rdg wit="#var1 #df16">drives</rdg><!-- 2016-06-10: nll: I believe in Dickinson's variations, 'away' is not in the second variation because of the dash after it on the image.-->
+                    <rdg wit="#df16" type="var0">scares away</rdg>
+                    <rdg wit="#df16" type="var1">drives</rdg><!-- 2016-06-10: nll: I believe in Dickinson's variations, 'away' is not in the second variation because of the dash after it on the image.-->
                     <rdg wit="#bm">drives away</rdg>
                 </app><app>
                     <rdg wit="#df16">&#8212;</rdg>
@@ -168,9 +150,9 @@
                     <rdg wit="#bm">,</rdg>
                 </app></l>
                 <l n="10">They bear their <app>
-                    <rdg wit="#var0 #df16">dauntless </rdg>
-                    <rdg wit="#var1 #df16">fearless&#8212;</rdg>
-                    <rdg wit="#var2 #df16">tranquil&#8212;</rdg>
+                    <rdg wit="#df16" type="var0">dauntless </rdg>
+                    <rdg wit="#df16" type="var1">fearless&#8212;</rdg>
+                    <rdg wit="#df16" type="var2">tranquil&#8212;</rdg>
                     <rdg wit="#bm">tranquil</rdg>
                 </app><app>
                     <rdg wit="#df16">Heads</rdg>
@@ -183,8 +165,8 @@
                     <rdg wit="#df16">,</rdg>
                     <rdg wit="#bm"></rdg>
                 </app> dare not <app>
-                    <rdg wit="#var0 #df16">go at Noon,</rdg>
-                    <rdg wit="#var1 #df16">walk at noon&#8212;</rdg>
+                    <rdg wit="#df16" type="var0">go at Noon,</rdg>
+                    <rdg wit="#df16" type="var1">walk at noon&#8212;</rdg>
                     <rdg wit="#bm">go at noon,</rdg>
                 </app></l>
                 <l n="12">Protected by their deeds<app>
@@ -218,8 +200,8 @@
                     <rdg wit="#bm">proof</rdg>
                 </app>,</l>
                 <l n="16">As if <app>
-                    <rdg wit="#var0 #df16">An Axle, held&#8212;</rdg>
-                    <rdg wit="#var1 #df16">A Muscle&#8212;held</rdg>
+                    <rdg wit="#df16" type="var0">An Axle, held&#8212;</rdg>
+                    <rdg wit="#df16" type="var1">A Muscle&#8212;held</rdg>
                     <rdg wit="#bm">an axle held.</rdg>
                 </app></l>
             </lg>

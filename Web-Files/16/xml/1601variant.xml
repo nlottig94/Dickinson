@@ -46,18 +46,6 @@
                             <author>Emily Dickinson</author>
                         </bibl>
                     </witness>
-                    <!--<witness xml:id="var0">
-                        <bibl>
-                            <title>ORIGINAL POEMS</title>
-                            <author>Emily Dickinson</author>
-                        </bibl>
-                    </witness>
-                    <witness xml:id="var1">
-                        <bibl>
-                            <title>ORIGINAL POEMS</title>
-                            <author>Emily Dickinson</author>
-                        </bibl>
-                    </witness>-->
                     <witness xml:id="poems2">
                         <bibl>
                             <title>Poems, Second Series</title>

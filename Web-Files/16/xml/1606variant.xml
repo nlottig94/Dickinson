@@ -45,18 +45,6 @@
                             <author>Emily Dickinson</author>
                         </bibl>
                     </witness>
-                    <witness xml:id="var0">
-                        <bibl>
-                            <title>ORIGINAL POEMS</title>
-                            <author>Emily Dickinson</author>
-                        </bibl>
-                    </witness>
-                    <witness xml:id="var1">
-                        <bibl>
-                            <title>ORIGINAL POEMS</title>
-                            <author>Emily Dickinson</author>
-                        </bibl>
-                    </witness>
                     <witness xml:id="fh">
                         <bibl>
                             <title>Final Harvest: Emily Dickinson's Poems</title>
@@ -78,13 +66,13 @@
                     <rdg wit="#fh">exhilarates</rdg>
                 </app>&#8212;</l>
                 <l n="2">So over Horror, <app>
-                    <rdg wit="#var0 #df16 #fh">it half Captivates&#8212;</rdg>
-                    <rdg wit="#var1 #df16">it dumb fascinates&#8212;</rdg>
+                    <rdg wit="#df16" type="var1">it dumb fascinates&#8212;</rdg>
+                    <rdg wit="#df16 #fh" type="var0">it half Captivates&#8212;</rdg>
                 </app></l>
                 <l n="3">The Soul stares after it, secure&#8212;</l>
                 <l n="4"><app>
-                    <rdg wit="#var0 #df16">To know the worst, leaves no dread more&#8212;</rdg>
-                    <rdg wit="#var1 #df16 #fh">A Sepulchre, fears frost, no more&#8212;</rdg>
+                    <rdg wit="#df16" type="var0">To know the worst, leaves no dread more&#8212;</rdg>
+                    <rdg wit="#df16 #fh" type="var1">A Sepulchre, fears frost, no more&#8212;</rdg>
                 </app></l>
             </lg>
             <lg>

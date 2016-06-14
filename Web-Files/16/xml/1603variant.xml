@@ -49,24 +49,6 @@
                             <author>Emily Dickinson</author>
                         </bibl>
                     </witness>
-                    <witness xml:id="var0">
-                        <bibl>
-                            <title>ORIGINAL POEMS</title>
-                            <author>Emily Dickinson</author>
-                        </bibl>
-                    </witness>
-                    <witness xml:id="var1">
-                        <bibl>
-                            <title>ORIGINAL POEMS</title>
-                            <author>Emily Dickinson</author>
-                        </bibl>
-                    </witness>
-                    <witness xml:id="var2">
-                        <bibl>
-                            <title>ORIGINAL POEMS</title>
-                            <author>Emily Dickinson</author>
-                        </bibl>
-                    </witness>
                     <witness xml:id="poems3">
                         <bibl>
                             <title>Poems, Third Series</title>
@@ -103,6 +85,7 @@
         </front>
         <body>
             <head><title>Poem 3 (J 279: 1861/1896)</title></head>
+            <!-- 2016-06-14: nll: Okay, so it's odd that the rdgs with ONLY a #df16 variation MUST come first... -->
             <lg>
                 <l n="1">Tie the <app>
                     <rdg wit="#df16 #fh">Strings</rdg>
@@ -129,9 +112,9 @@
                     <rdg wit="#df16 #fh #poems3">in </rdg>
                     <rdg wit="#ce"></rdg>
                 </app>on the <app>
-                    <rdg wit="#var0 #df16 #ce #fh #poems3">firmest </rdg>
-                    <rdg wit="#var1 #df16">tightest </rdg>
-                    <rdg wit="#var2 #df16">highest&#8212;</rdg>
+                    <rdg wit="#df16" type="var1">tightest </rdg>
+                    <rdg wit="#df16" type="var2">highest&#8212;</rdg>
+                    <rdg wit="#df16 #ce #fh #poems3" type="var0">firmest </rdg>
                 </app>side<app>
                     <rdg wit="#df16 #fh">&#8212;</rdg>
                     <rdg wit="#ce #poems3">,</rdg>
@@ -145,16 +128,16 @@
                     <rdg wit="#ce #poems3">,</rdg>
                 </app></l>
                 <l n="8">And it's <app>
-                    <rdg wit="#var0 #df16 #fh">partly, down Hill&#8212;</rdg>
-                    <rdg wit="#var1 #df16">many a mile&#8212;the Hills</rdg>
+                    <rdg wit="#df16 #fh" type="var0">partly, down Hill&#8212;</rdg>
+                    <rdg wit="#df16" type="var1">many a mile&#8212;the Hills</rdg>
                     <rdg wit="#ce #poems3">partly down hill.</rdg>
                     </app>
                 </l>
             </lg>
             <lg>
                 <l n="9">But never I mind the <app>
-                    <rdg wit="#var0 #df16 #fh">steepest&#8212;</rdg>
-                    <rdg wit="#var1 #df16">Bridges</rdg>
+                    <rdg wit="#df16 #fh" type="var0">steepest&#8212;</rdg>
+                    <rdg wit="#df16" type="var1">Bridges</rdg>
                     <rdg wit="#ce #poems3">bridges,</rdg>
                 </app>
                 </l>
@@ -219,9 +202,9 @@
                     <rdg wit="#ce #poems3">;</rdg>
                 </app></l>
                 <l n="16"><app>
-                    <rdg wit="#var0 #df16 #fh">Then&#8212;</rdg>
-                    <rdg wit="#var1 #df16 #ce #poems3">Now </rdg>
-                    <rdg wit="#var2 #df16">Here's a keepsake for </rdg>
+                    <rdg wit="#df16" type="var2">Here's a keepsake for </rdg>
+                    <rdg wit="#df16 #fh" type="var0">Then&#8212;</rdg>
+                    <rdg wit="#df16 #ce #poems3" type="var1">Now </rdg>
                 </app> I am ready to go!</l>
             </lg>
         </body>

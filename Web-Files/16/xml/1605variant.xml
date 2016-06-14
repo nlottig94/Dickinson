@@ -49,18 +49,6 @@
                             <author>Emily Dickinson</author>
                         </bibl>
                     </witness>
-                    <witness xml:id="var0">
-                        <bibl>
-                            <title>ORIGINAL POEMS</title>
-                            <author>Emily Dickinson</author>
-                        </bibl>
-                    </witness>
-                    <witness xml:id="var1">
-                        <bibl>
-                            <title>ORIGINAL POEMS</title>
-                            <author>Emily Dickinson</author>
-                        </bibl>
-                    </witness>
                     <witness xml:id="poems3">
                         <bibl>
                             <title>Poems, Third Series</title>
@@ -246,13 +234,13 @@
                     <rdg wit="#ce #poems3"></rdg>
                 </app></l>
                 <l n="19"><app>
-                    <rdg wit="#var0 #df16 #fh">And hit a World, at every plunge,</rdg>
-                    <rdg wit="#var1 #df16">And hit a World, at every Crash&#8212;</rdg>
+                    <rdg wit="#df16 #fh" type="var0">And hit a World, at every plunge,</rdg>
+                    <rdg wit="#df16" type="var1">And hit a World, at every Crash&#8212;</rdg>
                     <rdg wit="#ce #poems3"></rdg>
                 </app></l>
                 <l n="20"><app>
-                    <rdg wit="#var0 #df16 #fh">And Finished knowing&#8212;then&#8212;</rdg>
-                    <rdg wit="#var1 #df16">And Got through&#8212;knowing&#8212;then&#8212;</rdg>
+                    <rdg wit="#df16 #fh" type="var0">And Finished knowing&#8212;then&#8212;</rdg>
+                    <rdg wit="#df16" type="var1">And Got through&#8212;knowing&#8212;then&#8212;</rdg>
                     <rdg wit="#ce #poems3"></rdg>
                 </app></l>
             </lg>

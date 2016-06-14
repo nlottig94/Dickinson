@@ -48,24 +48,6 @@
                             <author>Emily Dickinson</author>
                         </bibl>
                     </witness>
-                    <witness xml:id="var0">
-                        <bibl>
-                            <title>ORIGINAL POEMS</title>
-                            <author>Emily Dickinson</author>
-                        </bibl>
-                    </witness>
-                    <witness xml:id="var1">
-                        <bibl>
-                            <title>ORIGINAL POEMS</title>
-                            <author>Emily Dickinson</author>
-                        </bibl>
-                    </witness>
-                    <witness xml:id="var2">
-                        <bibl>
-                            <title>ORIGINAL POEMS</title>
-                            <author>Emily Dickinson</author>
-                        </bibl>
-                    </witness>
                     <witness xml:id="fp">
                         <bibl>
                             <title>Further Poems</title>
@@ -168,9 +150,9 @@
             </lg>
             <lg>
                 <l n="10">Why didn't we <app>
-                    <rdg wit="#var0 #df16 #fh">detain Them</rdg>
-                    <rdg wit="#var1 #df16">retain Them</rdg>
-                    <rdg wit="#var2 #df16">detain it</rdg>
+                    <rdg wit="#df16 #fh" type="var0">detain Them</rdg>
+                    <rdg wit="#df16" type="var1">retain Them</rdg>
+                    <rdg wit="#df16" type="var2">detain it</rdg>
                     <rdg wit="#ce #fp">detain them</rdg>
                 </app>?</l>
                 <l n="11">The Heavens with a smile<app>
@@ -190,8 +172,8 @@
                     <rdg wit="#fp">Heads,</rdg>
                 </app></l>
                 <l n="14"><app>
-                    <rdg wit="#var0 #df16 #fh">Without a syllable&#8212;</rdg>
-                    <rdg wit="#var1 #df16">But deign no syllable</rdg>
+                    <rdg wit="#df16 #fh" type="var0">Without a syllable&#8212;</rdg>
+                    <rdg wit="#df16" type="var1">But deign no syllable</rdg>
                     <rdg wit="#ce #fp">But deign no syllable.</rdg>
                 </app></l>
             </lg>
