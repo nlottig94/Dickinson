@@ -46,7 +46,7 @@
                             <author>Emily Dickinson</author>
                         </bibl>
                     </witness>
-                    <witness xml:id="var0">
+                    <!--<witness xml:id="var0">
                         <bibl>
                             <title>ORIGINAL POEMS</title>
                             <author>Emily Dickinson</author>
@@ -57,7 +57,7 @@
                             <title>ORIGINAL POEMS</title>
                             <author>Emily Dickinson</author>
                         </bibl>
-                    </witness>
+                    </witness>-->
                     <witness xml:id="poems2">
                         <bibl>
                             <title>Poems, Second Series</title>
@@ -221,8 +221,8 @@
                     <rdg wit="#ce #poems2">,</rdg>
                 </app></l>
                 <l n="15">The <app>
-                    <rdg wit="#var0 #df16">Lightning's jointed Road&#8212;</rdg>
-                    <rdg wit="#var1 #df16 #fh">Morning's Amber Road&#8212;</rdg>
+                    <rdg wit="#df16" type="var0">Lightning's jointed Road&#8212;</rdg>
+                    <rdg wit="#df16 #fh" type="var1">Morning's Amber Road&#8212;</rdg>
                     <rdg wit="#ce #poems2">lightning's jointed road,</rdg>
                 </app>
                 </l>
