@@ -62,9 +62,10 @@
             <head><title>Poem 6 (J 281: 1861/1935)</title></head>
             <lg>
                 <l n="1">'Tis so appalling&#8212;it <app>
-                    <rdg wit="#df16">Exhilarates</rdg>
-                    <rdg wit="#fh">exhilarates</rdg>
-                </app>&#8212;</l>
+                    <rdg wit="#df16">Exhilarates&#8212;</rdg>
+                    <rdg wit="#fh">exhilarates&#8212;</rdg>
+                    <!-- 2016-06-23: nll: The XSLT to grab and count all of the dashes for the Dash Reduction SVG Graph (xsl:analyze-string) would not grab two dashes within the text only of the l element (not to do with anything in the rdg element), so I had to improvise and put the dashes inside the rdg elements. it ended up counting the dashes correctly. I'm hoping to fix this problem as soon as possible!! -->
+                </app></l>
                 <l n="2">So over Horror, <app>
                     <rdg wit="#df16" type="var1">it dumb fascinates&#8212;</rdg>
                     <rdg wit="#df16 #fh" type="var0">it half Captivates&#8212;</rdg>
