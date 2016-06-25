@@ -6,6 +6,12 @@
             <author>Emily Dickinson</author>
         </bibl>
     </witness>
+    <witness xml:id="LP">
+        <bibl>
+            <title>Loose Poem</title>
+            <author>Emily Dickinson</author>
+        </bibl>
+    </witness>
     <witness xml:id="poems1">
         <bibl>
             <title>Poems, First Series</title>

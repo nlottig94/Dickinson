@@ -38,28 +38,48 @@
                             <author>Emily Dickinson</author>
                         </bibl>
                     </witness>
+                    <witness xml:id="LP">
+                        <bibl>
+                            <title>Loose Poem</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
                 </listWit>
             </div>
         </front>
         <body>
-            <!-- 2016-06-25: nll: There are two separate Dickinson manuscripts. One is from the Fascicle bundle, but the other is a loose sheet. If there are variations between the two, I will be coding it with the version from the fascicle as 'var0' and the loose sheet version as 'var1'. -->
             <head>
                 <title>Poem 2 (J 6: 1830-1886)</title>
             </head>
             <lg>
                 <l n="1">Frequently the woods are pink&#8212;</l>
-                <l n="2">Frequently, are brown.</l>
-                <l n="3">Frequentlythe hills undress</l>
-                <l n="4">Behind my native town&#8212;</l>
+                <l n="2">Frequently<app>
+                    <rdg wit="#df1">,</rdg>
+                    <rdg wit="#LP"></rdg>
+                </app> are brown.</l>
+                <l n="3">Frequently the hills undress</l>
+                <l n="4">Behind my native town<app>
+                    <rdg wit="#df1">&#8212;</rdg>
+                    <rdg wit="#LP">.</rdg>
+                </app></l>
                 <l n="5">Oft a head is crested</l>
                 <l n="6">I was wont to see&#8212;</l>
                 <l n="7">And as oft a cranny</l>
                 <l n="8">Where it used to be&#8212;</l>
-                <l n="9">And the Earth&#8212;they tell me</l>
+                <l n="9">And the <app>
+                    <rdg wit="#df1">Earth&#8212;</rdg>
+                    <rdg wit="#LP"><del rend="strikethrough">world&#8212;</del>Earth&#8212;</rdg><!-- 2016-06-25: nll: 'Earth&#8212;' is written above the deleted 'world&#8212;'. -->
+                </app>they tell me</l>
                 <l n="10">On it's Axis turned!</l>
-                <l n="11">Wonderful rotation&#8212;</l><!-- 2016-06-25: nll: Dickinson has a scribble to the right of the dash in this line (11). Brooke or Becca, what should I do with this?? -->
+                <l n="11">Wonderful <app>
+                    <rdg wit="#df1">rotation</rdg>
+                    <rdg wit="#LP">Rotation</rdg>
+                </app><app>
+                    <rdg wit="#df1">&#8212;</rdg>
+                    <rdg wit="#LP">!</rdg>
+                </app></l><!-- 2016-06-25: nll: Dickinson has a scribble to the right of the dash in this line (11) of fs102a. Brooke or Becca, what should I do with this?? -->
                 <l n="12">By but twelve performed!</l>
-                <!-- 2016-06-25: nll: Is the word 'twelve underlined here, or is it separating poems?? I think the latter. Brooke? Becca? -->
+                <!-- 2016-06-25: nll: Is the word 'twelve' underlined here (in fs102a and fs102b!), or is it separating poems?? I think the latter. Brooke? Becca? -->
             </lg>
         </body>
     </text>
