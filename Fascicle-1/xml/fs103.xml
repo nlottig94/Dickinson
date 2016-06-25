@@ -7,7 +7,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Fascicle 1: Poem 1. 101/18/variant</title>
+                <title>Fascicle 1: Poem 3. 103/19/variant</title>
                 <author>Emily Dickinson</author>
             </titleStmt>
             <publicationStmt>
@@ -17,7 +17,7 @@
                 <msDesc>
                     <msIdentifier>
                         <repository></repository>
-                        <idno>101</idno></msIdentifier>
+                        <idno>103</idno></msIdentifier>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -26,8 +26,8 @@
         <front>
             <div type="references">
                 <listRef>
-                    <ptr target="xml/fs101.xml"/>
-                    <ptr target="img/101/fs101.jpg"/>
+                    <ptr target="xml/fs103.xml"/>
+                    <ptr target="img/103/fs103.jpg"/>
                 </listRef>
             </div>
             <div type="witness">
@@ -43,34 +43,8 @@
         </front>
         <body>
             <head>
-                <title>Poem 1 (J 18: 1830-1886)</title>
+                <title>Poem 3 (J 19: 1830-1886)</title>
             </head>
-            <lg>
-                <l n="1">The Gentian weaves her fringes&#8212;</l>
-                <l n="2">The Maple's loom is red&#8212;</l>
-                <l n="3">My departing blossoms</l>
-                <l n="4">Obviate parade.</l>
-            </lg>
-            <lg>
-                <l n="5">A brief, but patient illness&#8212;</l>
-                <l n="6">An hour to prepare,</l>
-                <l n="7">And one below, this morning</l>
-                <l n="8">Is where the Angels are&#8212;</l>
-                <l n="9">It was a short procession,</l>
-                <l n="10">The Bobolink was there&#8212;</l>
-                <l n="11">An aged Bee addressed us&#8212;</l>
-                <l n="12">And then we knelt in prayer&#8212;</l>
-                <l n="13">We trust that she was willing&#8212;</l>
-                <l n="14">We ask that we may be&#8212;</l>
-                <l n="15">Summer&#8212;Sister&#8212;Seraph!</l>
-                <l n="16">Let us go with thee!</l>
-            </lg>
-            <lg>
-                <l n="17">In the name of the Bee&#8212;</l>
-                <l n="18">And of the Buttefly&#8212;</l>
-                <l n="19">And of the Breeze&#8212;Amen!</l>
-            </lg>
         </body>
     </text>
 </TEI>
-
