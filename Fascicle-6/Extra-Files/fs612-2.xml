@@ -1,0 +1,232 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="Schematron2Dickinson.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fascicle 6: Poem 12. 612/216/variant/version 2</title>
+                <author>Emily Dickinson</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Fascicle 6: Dickinson's variants and published versions</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno>612-2</idno></msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="references">
+                <listRef>
+                    <ptr target="xml/612-2.xml"/>
+                    <ptr target="img/612-2/fs612-2.jpg"/>
+                    <ptr target="img/612-2/fs612-2-Map.jpg"/>
+                    <ptr target="img/612-2/612ce.jpg"/>
+                    <ptr target="img/612-2/612ce-Map.jpg"/>
+                    <ptr target="img/612-2/612CP.jpg"/>
+                    <ptr target="img/612-2/612CP-Map.jpg"/>
+                    <ptr target="img/612-2/612D.jpg"/>
+                    <ptr target="img/612-2/612D-Map.jpg"/>
+                    <ptr target="img/612-2/612fh.jpg"/>
+                    <ptr target="img/612-2/612fh-Map.jpg"/>
+                    <ptr target="img/612-2/612lSDa.jpg"/>
+                    <ptr target="img/612-2/612lSDb.jpg"/>
+                    <ptr target="img/612-2/612lSD-Map.jpg"/>
+                    <ptr target="img/612-2/612poems1.jpg"/>
+                    <ptr target="img/612-2/612poems1-Map.jpg"/>
+                </listRef>
+            </div>
+            <div type="witness">
+                <listWit>
+                    <witness xml:id="df6">
+                        <bibl>
+                            <title>ORIGINAL POEMS: Fascicle 6</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="CP">
+                        <bibl>
+                            <title>The Complete Poems of Emily Dickinson</title>
+                            <author>Dickinson</author>
+                            <editor>Thomas H. Johnson</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Little, Brown and Company</publisher>
+                            <date>1960</date>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="ce">
+                        <bibl>
+                            <title>The Poems of Emily Dickinson, Centenary Edition</title>
+                            <author>Emily Dickinson</author>
+                            <editor>Martha Dickinson Bianchi and Alfred Leete Hampson</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Little, Brown, and Company</publisher>
+                            <date>1930</date>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="fh">
+                        <bibl>
+                            <title>Final Harvest: Emily Dickinson's Poems</title>
+                            <author>Emily Dickinson</author>
+                            <editor>Thomas H. Johnson</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Little, Brown and Company</publisher>
+                            <date>1961</date>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="D">
+                        <bibl>
+                            <title>Dickinson</title>
+                            <author>Helen Vendler</author>
+                            <pubPlace>Cambridge, Massachusetts</pubPlace>
+                            <publisher>The Belknap Press of Harvard University Press</publisher>
+                            <date>2010</date>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="lSD">
+                        <bibl>
+                            <title>LETTER TO SISTER-IN-LAW (Susan Dickinson)</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="poems1">
+                        <bibl>
+                            <title>Poems, First Series</title>
+                            <author>Emily Dickinson</author>
+                            <editor>Mabel loomis Todd and Thomas Wentworth Higginson</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Roberts Brothers</publisher>
+                            <date>1890</date>
+                            <ref target="http://www.ibiblio.org/ebooks/Dickinson/Dickinson_Poems1.htm">oems by Emily Dickinson, First Series (html version)</ref>
+                        </bibl>
+                    </witness>
+                </listWit>
+            </div>
+        </front>
+        <body>
+            <head>
+                <title>Poem 12 (J 216: 1830-1886)</title>
+            </head>
+            <lg>
+                <l n="1">Safe in their <app>
+                    <rdg wit="#df6 #CP #D #fh #lSD">Alabaster Chambers</rdg>
+                    <rdg wit="#ce #poems1">alabaster chambers</rdg>
+                </app><app>
+                    <rdg wit="#df6 #CP #D #fh">&#8212;</rdg>
+                    <rdg wit="#ce #lSD #poems1">,</rdg>
+                </app></l>
+                <l n="2">Untouched by <app>
+                    <rdg wit="#df6 #CP #D #fh">Morning&#8212;</rdg>
+                    <rdg wit="#lSD">morning&#8212;</rdg>
+                    <rdg wit="#ce #poems1">morning and untouched by noon,</rdg>
+                </app></l>
+                <l n="3"><app>
+                    <rdg wit="#df6 #CP #fh">And untouched by Noon&#8212;</rdg>
+                    <rdg wit="#D #lSD">And untouched by noon&#8212;</rdg>
+                    <rdg wit="#ce #poems1"></rdg>
+                </app></l>
+                <l n="4"><app>
+                    <rdg wit="#df6 #CP #fh #lSD">Lie</rdg>
+                    <rdg wit="#ce #D #poems1">Sleep</rdg>
+                </app> the meek members of the <app>
+                    <rdg wit="#df6 #CP #D #fh #lSD">Resurrection</rdg>
+                    <rdg wit="#ce #poems1">resurrection</rdg>
+                </app><app>
+                    <rdg wit="#df6 #CP #fh #lSD">&#8212;</rdg>
+                    <rdg wit="#ce #D #poems1">,</rdg>
+                </app></l>
+                <l n="5">Rafter of <app>
+                    <rdg wit="#df6 #CP #D #fh #lSD">Satin</rdg>
+                    <rdg wit="#ce #poems1">satin</rdg>
+                </app><app>
+                    <rdg wit="#df6 #CP #fh #lSD">&#8212;</rdg>
+                    <rdg wit="#ce #poems1">, </rdg>
+                    <rdg wit="#D"> </rdg>
+                </app><app>
+                    <rdg wit="#df6 #lSD">And</rdg>
+                    <rdg wit="#ce #CP #D #fh #poems1">and</rdg>
+                </app> <app>
+                    <rdg wit="#df6 #CP #D #fh #lSD">Roof</rdg>
+                    <rdg wit="#ce #poems1">roof</rdg>
+                </app> of <app>
+                    <rdg wit="#df6 #CP #D #fh #lSD">Stone</rdg>
+                    <rdg wit="#ce #poems1">stone</rdg>
+                </app><app>
+                    <rdg wit="#df6 #CP #fh">!</rdg>
+                    <rdg wit="#ce #poems1">.</rdg>
+                    <rdg wit="#D #lSD">&#8212;</rdg>
+                </app></l>
+            </lg>
+            <lg>
+                <l n="6"><app>
+                    <rdg wit="#df6 #CP #D #fh #lSD"></rdg>
+                    <rdg wit="#ce #poems1">Light laughs the breeze in her castle of sunshine;</rdg>
+                </app></l>
+                <l n="7"><app>
+                    <rdg wit="#df6 #CP #D #fh #lSD"></rdg>
+                    <rdg wit="#ce #poems1">Babbles the bee in a stolid ear;</rdg>
+                </app></l>
+                <l n="8"><app>
+                    <rdg wit="#df6 #CP #D #fh #lSD"></rdg>
+                    <rdg wit="#ce #poems1">Pipe the sweet birds in ignorant cadence,&#8212;</rdg>
+                </app></l>
+                <l n="9"><app>
+                    <rdg wit="#df6 #CP #D #fh #lSD"></rdg>
+                    <rdg wit="#ce #poems1">Ah, what sagacity perished here!</rdg>
+                </app></l>
+            </lg>
+            <lg>
+                <l n="10">Grand go the <app>
+                    <rdg wit="#df6 #CP #D #fh #lSD">Years</rdg>
+                    <rdg wit="#ce #poems1">years</rdg>
+                </app><app>
+                    <rdg wit="#df6 #CP #fh #lSD">&#8212;</rdg>
+                    <rdg wit="#ce #poems1"> </rdg>
+                    <rdg wit="#D">,</rdg>
+                </app><app>
+                    <rdg wit="#df6 #CP #fh #lSD">in the Crescent&#8212;above them&#8212;</rdg>
+                    <rdg wit="#ce #poems1">in the crescent above them;</rdg>
+                    <rdg wit="#D"></rdg>
+                </app></l>
+                <l n="11"><app>
+                    <rdg wit="#df6 #ce #CP #fh #lSD #poems1"></rdg>
+                    <rdg wit="#D">In the Crescent above them&#8212;</rdg>
+                </app></l>
+                <l n="12">Worlds scoop their <app>
+                    <rdg wit="#df6 #CP #D #fh #lSD">Arcs&#8212;</rdg>
+                    <rdg wit="#ce #poems1">arcs, and firmaments row,</rdg>
+                </app></l>
+                <l n="13"><app>
+                    <rdg wit="#df6 #CP #D #fh #lSD">And Firmaments&#8212;row&#8212;</rdg>
+                    <rdg wit="#ce #poems1"></rdg>
+                </app></l>
+                <l n="14"><app>
+                    <rdg wit="#df6">Diadems&#8212;drop&#8212;And Doges&#8212;surrender&#8212;</rdg>
+                    <rdg wit="#ce #poems1">Diadems drop and Doges surrender,</rdg>
+                    <rdg wit="#CP #fh #lSD">Diadems&#8212;drop&#8212;and Doges&#8212;surrender&#8212;</rdg>
+                    <rdg wit="#D">Diadems&#8212;drop&#8212;</rdg>
+                </app></l>
+                <l n="15"><app>
+                    <rdg wit="#df6 #ce #CP #fh #lSD #poems1"></rdg>
+                    <rdg wit="#D">And Doges&#8212;surrender&#8212;</rdg>
+                </app></l>
+                <l n="16"><app>
+                    <rdg wit="#df6 #CP #fh #lSD">Soundless as dots&#8212;on a Disc of Snow&#8212;</rdg>
+                    <rdg wit="#ce #poems1">Soundless as dots on a disk of snow.</rdg>
+                    <rdg wit="#D">Soundless as Dots,</rdg>
+                </app></l>
+                <l n="17"><app>
+                    <rdg wit="#df6 #ce #CP #fh #lSD #poems1"></rdg>
+                    <rdg wit="#D">On a Disc of Snow.</rdg>
+                </app></l>
+            </lg>
+        </body>
+    </text>
+</TEI>
