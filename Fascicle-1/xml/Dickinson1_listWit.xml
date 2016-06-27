@@ -81,6 +81,12 @@
             <author>Emily Dickinson</author>
         </bibl>
     </witness>
+    <witness xml:id="LH">
+        <bibl>
+            <title>Letter to Thomas Wentworth Higginson</title>
+            <author>Emily Dickinson</author>
+        </bibl>
+    </witness>
     <witness xml:id="LETTER">
         <bibl>
             <title>LETTER</title>
