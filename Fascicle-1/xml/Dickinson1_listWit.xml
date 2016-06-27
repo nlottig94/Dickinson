@@ -12,6 +12,12 @@
             <author>Emily Dickinson</author>
         </bibl>
     </witness>
+    <witness xml:id="MF">
+        <bibl>
+            <title>Mixed Fascicle Packet</title>
+            <author>Emily Dickinson</author>
+        </bibl>
+    </witness>
     <witness xml:id="poems1">
         <bibl>
             <title>Poems, First Series</title>

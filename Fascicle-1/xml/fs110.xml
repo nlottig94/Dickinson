@@ -7,7 +7,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Fascicle 1: Poem 9. 109/323/variant</title>
+                <title>Fascicle 1: Poem 10. 110/25/variant</title>
                 <author>Emily Dickinson</author>
             </titleStmt>
             <publicationStmt>
@@ -17,7 +17,7 @@
                 <msDesc>
                     <msIdentifier>
                         <repository></repository>
-                        <idno>109</idno></msIdentifier>
+                        <idno>110</idno></msIdentifier>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -26,11 +26,8 @@
         <front>
             <div type="references">
                 <listRef>
-                    <ptr target="xml/fs109.xml"/>
-                    <ptr target="img/109/fs109.jpg"/>
-                    <ptr target="img/109/109am.jpg"/>
-                    <ptr target="img/109/109LHa.jpg"/>
-                    <ptr target="img/109/109LHb.jpg"/>
+                    <ptr target="xml/fs110.xml"/>
+                    <ptr target="img/110/fs110.jpg"/>
                 </listRef>
             </div>
             <div type="witness">
@@ -46,7 +43,7 @@
         </front>
         <body>
             <head>
-                <title>Poem 9 (J 323: 1830-1886)</title>
+                <title>Poem 10 (J 25: 1830-1886)</title>
             </head>
         </body>
     </text>
