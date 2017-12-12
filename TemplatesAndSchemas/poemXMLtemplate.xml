@@ -7,7 +7,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Fascicle 1: Poem 4. 104/20/variant</title>
+                <title>Fascicle 1: Poem 3. 103/19/variant</title>
                 <author>Emily Dickinson</author>
             </titleStmt>
             <publicationStmt>
@@ -17,7 +17,7 @@
                 <msDesc>
                     <msIdentifier>
                         <repository></repository>
-                        <idno>104</idno></msIdentifier>
+                        <idno>103</idno></msIdentifier>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -26,8 +26,8 @@
         <front>
             <div type="references">
                 <listRef>
-                    <ptr target="xml/fs104.xml"/>
-                    <ptr target="img/104/fs104.jpg"/>
+                    <ptr target="xml/fs103.xml"/>
+                    <ptr target="img/103/fs103.jpg"/>
                 </listRef>
             </div>
             <div type="witness">
@@ -43,8 +43,16 @@
         </front>
         <body>
             <head>
-                <title>Poem 4 (J 20: 1830-1886)</title>
+                <title>Poem 3 (J 19: 1830-1886)</title>
             </head>
+            <lg>
+                <l n="1"></l>
+            </lg>
+           <!-- 2017-12-05: nll: This is how the lines will look if there are variants.
+               <l n="4">Behind my native town<app>
+                <rdg wit="#df1">&#8212;</rdg>
+                <rdg wit="#LP">.</rdg>
+            </app></l>-->
         </body>
     </text>
 </TEI>
