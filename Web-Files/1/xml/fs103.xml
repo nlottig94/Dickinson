@@ -7,7 +7,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Fascicle 1: Poem 3. 103/19/variant</title>
+                <title>Fascicle 1: Poem 3. 103/J18/F23/variant</title>
                 <author>Emily Dickinson</author>
             </titleStmt>
             <publicationStmt>
@@ -25,7 +25,7 @@
     <text>
         <front>
             <div type="references">
-                <listRef> <!-- 2017-12-12: nll: These will change with the poem, and you will add more images. -->
+                <listRef>
                     <ptr target="xml/fs103.xml"/>
                     <ptr target="img/103/fs103.jpg"/>
                 </listRef>
@@ -34,7 +34,7 @@
                 <listWit>
                     <witness xml:id="df1">
                         <bibl>
-                            <title>ORIGINAL POEMS: Fascicle #</title>
+                            <title>ORIGINAL POEMS: Fascicle 1</title>
                             <author>Emily Dickinson</author>
                         </bibl>
                     </witness>
@@ -43,10 +43,12 @@
         </front>
         <body>
             <head>
-                <title>Poem 3 (J 19: 1830-1886)</title>
+                <title>Poem 3 (J18/F23: 1830-1886)</title>
             </head>
             <lg>
-                <l n="1"></l>
+                <l n="1">In the name of the Bee&#8212;</l>
+                <l n="2">And of the Butterfly&#8212;</l>
+                <l n="3">And of the Breeze&#8212;Amen!</l>
             </lg>
             <!-- 2017-12-05: nll: This is how the lines will look if there are variants.
                <l n="4">Behind my native town<app>

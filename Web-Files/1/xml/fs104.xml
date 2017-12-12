@@ -2,12 +2,12 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="../../../TemplatesAndSchemas/Dickinson1Schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../../TemplatesAndSchemas/Dickinson1Schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- 2017-12-12: nll: This is telling us it's an invalid schema location right now, but it will be correct when you use it in the fascicle poems. -->
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Fascicle 1: Poem 2. 102/J18/F22/variant</title>
+                <title>Fascicle 1: Poem 4. 104/J6/F24/variant</title>
                 <author>Emily Dickinson</author>
             </titleStmt>
             <publicationStmt>
@@ -17,7 +17,7 @@
                 <msDesc>
                     <msIdentifier>
                         <repository></repository>
-                        <idno>102</idno></msIdentifier>
+                        <idno>104</idno></msIdentifier>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -25,23 +25,23 @@
     <text>
         <front>
             <div type="references">
-                <listRef>
-                    <ptr target="xml/fs102.xml"/>
-                    <ptr target="img/102/fs102a.jpg"/>
-                    <ptr target="img/102/102LP.jpg"/>
+                <listRef> <!-- 2017-12-12: nll: These will change with the poem, and you will add more images. -->
+                    <ptr target="xml/fs104.xml"/>
+                    <ptr target="img/104/fs104.jpg"/>
+                    <ptr target="img/104/104lSD"/>
                 </listRef>
             </div>
             <div type="witness">
                 <listWit>
                     <witness xml:id="df1">
                         <bibl>
-                            <title>ORIGINAL POEMS: Fascicle 1</title>
+                            <title>ORIGINAL POEMS: Fascicle #</title>
                             <author>Emily Dickinson</author>
                         </bibl>
                     </witness>
-                    <witness xml:id="LP">
+                    <witness xml:id="lSD">
                         <bibl>
-                            <title>Loose Poem</title>
+                            <title>Letter to Susan Dickinson (Sister-in-law)</title>
                             <author>Emily Dickinson</author>
                         </bibl>
                     </witness>
@@ -50,38 +50,42 @@
         </front>
         <body>
             <head>
-                <title>Poem 2 (J18/F22: 1830-1886)</title>
+                <title>Poem 4 (J6/F24: 1830-1886)</title>
             </head>
             <lg>
                 <l n="1">Frequently the woods are pink&#8212;</l>
                 <l n="2">Frequently<app>
                     <rdg wit="#df1">,</rdg>
-                    <rdg wit="#LP"></rdg>
+                    <rdg wit="#lSD"></rdg>
                 </app> are brown.</l>
                 <l n="3">Frequently the hills undress</l>
                 <l n="4">Behind my native town<app>
                     <rdg wit="#df1">&#8212;</rdg>
-                    <rdg wit="#LP">.</rdg>
+                    <rdg wit="#lSD">.</rdg>
                 </app></l>
                 <l n="5">Oft a head is crested</l>
                 <l n="6">I was wont to see&#8212;</l>
                 <l n="7">And as oft a cranny</l>
                 <l n="8">Where it used to be&#8212;</l>
                 <l n="9">And the <app>
-                    <rdg wit="#df1">Earth&#8212;</rdg>
-                    <rdg wit="#LP"><del rend="strikethrough">world&#8212;</del>Earth&#8212;</rdg><!-- 2016-06-25: nll: 'Earth&#8212;' is written above the deleted 'world&#8212;'. -->
-                </app>they tell me</l>
+                    <rdg wit="#df1">Earth</rdg>
+                    <rdg wit="#lSD"><del rend="strikethrough">World</del><add place="above">Earth</add></rdg>
+                </app>&#8212;they tell me</l>
                 <l n="10">On it's Axis turned!</l>
                 <l n="11">Wonderful <app>
                     <rdg wit="#df1">rotation</rdg>
-                    <rdg wit="#LP">Rotation</rdg>
+                    <rdg wit="#lSD">Rotation</rdg>
                 </app><app>
                     <rdg wit="#df1">&#8212;</rdg>
-                    <rdg wit="#LP">!</rdg>
-                </app></l><!-- 2016-06-25: nll: Dickinson has a scribble to the right of the dash in this line (11) of fs102a. Brooke or Becca, what should I do with this?? -->
-                <l n="12">By but twelve performed!</l>
-                <!-- 2016-06-25: nll: Is the word 'twelve' underlined here (in fs102a and fs102b!), or is it separating poems?? I think the latter. Brooke? Becca? -->
+                    <rdg wit="#lSD">!</rdg>
+                </app></l>
+                <l n="12">By but <emph rend="underline">twelve</emph> performed!</l>
             </lg>
+            <!-- 2017-12-05: nll: This is how the lines will look if there are variants.
+               <l n="4">Behind my native town<app>
+                <rdg wit="#df1">&#8212;</rdg>
+                <rdg wit="#LP">.</rdg>
+            </app></l>-->
         </body>
     </text>
 </TEI>

@@ -191,11 +191,11 @@
     </witness>
     <witness xml:id="lSD">
         <bibl>
-            <title>LETTER TO SISTER-IN-LAW (Susan Dickinson)</title>
+            <title>Letter to Susan Dickinson (Sister-in-law)</title>
             <author>Emily Dickinson</author>
         </bibl>
     </witness>
-    <witness xml:id="LH">
+    <witness xml:id="lTWH">
         <bibl>
             <title>Letter to Thomas Wentworth Higginson</title>
             <author>Emily Dickinson</author>
@@ -204,6 +204,48 @@
     <witness xml:id="LETTER">
         <bibl>
             <title>LETTER</title>
+            <author>Emily Dickinson</author>
+        </bibl>
+    </witness>
+    <witness xml:id="lRESD">
+        <bibl>
+            <title>Letter to Reverend Edward S. Dwight</title>
+            <author>Emily Dickinson</author>
+        </bibl>
+    </witness>
+    <witness xml:id="lMW">
+        <bibl>
+            <title>Letter to Maria Whitney</title>
+            <author>Emily Dickinson</author>
+        </bibl>
+    </witness>
+    <witness xml:id="lCST">
+        <bibl>
+            <title>Letter to Catherine Scott Turner</title>
+            <author>Emily Dickinson</author>
+        </bibl>
+    </witness>
+    <witness xml:id="lMB">
+        <bibl>
+            <title>Letter to Mary Bowles</title>
+            <author>Emily Dickinson</author>
+        </bibl>
+    </witness>
+    <witness xml:id="lSB">
+        <bibl>
+            <title>Letter to Samuel Bowles</title>
+            <author>Emily Dickinson</author>
+        </bibl>
+    </witness>
+    <witness xml:id="lAD">
+        <bibl>
+            <title>Letter to (William) Austin Dickinson (Brother/Susan Dickinson's Husband)</title>
+            <author>Emily Dickinson</author>
+        </bibl>
+    </witness>
+    <witness xml:id="lUnknown">
+        <bibl>
+            <title>Letter to Unknown Recipient</title>
             <author>Emily Dickinson</author>
         </bibl>
     </witness>
