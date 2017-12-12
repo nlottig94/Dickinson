@@ -48,7 +48,7 @@
         </rule>
     </pattern>-->
     
-    <let name="witList" value="doc('Dickinson1_listWit.xml')//@xml:id"/>
+    <let name="witList" value="doc('Dickinson_listWit.xml')//@xml:id"/>
     <pattern>
         <rule context="@wit">
             <let name="tokens" value="for $i in tokenize(., '\s+') return substring-after($i, '#')"/>
