@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../../TemplatesAndSchemas/Dickinson1Schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- 2017-12-12: nll: This is telling us it's an invalid schema location right now, but it will be correct when you use it in the fascicle poems. -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fascicle 1: Poem 5. 105/J19/F25/variant</title>
+                <title type="Poems3alt" corresp="#poems3">A ROSE.</title>
+                <author>Emily Dickinson</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Fascicle 1: Dickinson's variants and published versions</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno>105</idno></msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="references">
+                <listRef> <!-- 2017-12-12: nll: These will change with the poem, and you will add more images. -->
+                    <ptr target="xml/fs105.xml"/>
+                    <ptr target="img/105/fs105.jpg"/>
+                    <ptr target="img/105/105poems3.jpg"/>
+                </listRef>
+            </div>
+            <div type="witness">
+                <listWit>
+                    <witness xml:id="df1">
+                        <bibl>
+                            <title>ORIGINAL POEMS: Fascicle #</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="poems3">
+                        <bibl>
+                            <title>Poems, Third Series</title>
+                            <author>Emily Dickinson</author>
+                            <editor>Mabel Loomis Todd</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Little, Brown and Company</publisher>
+                            <date>1896</date>
+                            <ref target="http://catalog.hathitrust.org/Record/100654113">Hathi Trust Digital Library</ref>
+                        </bibl>
+                    </witness>
+                </listWit>
+            </div>
+        </front>
+        <body>
+            <head>
+                <title>Poem 5 (J19/F25: 1830-1886)</title>
+                <title type="Poems3alt" corresp="#poems3">A ROSE.</title>
+            </head>
+            <lg>
+                <l n="1">A sepal<app>
+                    <rdg wit="#df1">.</rdg>
+                    <rdg wit="#poems3">,</rdg>
+                </app> petal<app>
+                    <rdg wit="#df1">.</rdg>
+                    <rdg wit="#poems3">,</rdg>
+                </app> and a thorn</l>
+                <l n="2">Upon a common summer's morn<app>
+                    <rdg wit="#df1">&#8212;</rdg>
+                    <rdg wit="#poems3">,</rdg>
+                </app></l>
+                <l n="3">A <app>
+                    <rdg wit="#df1">flask</rdg>
+                    <rdg wit="#poems3">flash</rdg>
+                </app> of <app>
+                    <rdg wit="#df1">Dew</rdg>
+                    <rdg wit="#poems3">dew</rdg>
+                </app><app>
+                    <rdg wit="#df1">&#8212;</rdg>
+                    <rdg wit="#poems3">, </rdg>
+                </app><app>
+                    <rdg wit="#df1">A</rdg>
+                    <rdg wit="#poems3">a</rdg>
+                </app> <app>
+                    <rdg wit="#df1">Bee</rdg>
+                    <rdg wit="#poems3">bee</rdg>
+                </app> or two<app>
+                    <rdg wit="#df1">&#8212;</rdg>
+                    <rdg wit="#poems3">,</rdg>
+                </app></l>
+                <l n="4">A <app>
+                    <rdg wit="#df1">Breeze</rdg>
+                    <rdg wit="#poems3">breeze</rdg>
+                </app><app>
+                    <rdg wit="#df1">&#8212;a'caper in the trees&#8212;</rdg>
+                    <rdg wit="#poems3"></rdg>
+                </app></l>
+                <l n="5"><app>
+                    <rdg wit="#df1" rend="indent">And I'm a Rose!</rdg>
+                    <rdg wit="#poems3">A caper in the trees,&#8212;</rdg>
+                </app></l>
+                <l n="6"><app>
+                    <rdg wit="#df1"></rdg>
+                    <rdg wit="#poems3" rend="indent">And I'm a rose!</rdg>
+                </app></l>
+            </lg>
+            <!-- 2017-12-05: nll: This is how the lines will look if there are variants.
+               <l n="4">Behind my native town<app>
+                <rdg wit="#df1">&#8212;</rdg>
+                <rdg wit="#LP">.</rdg>
+            </app></l>-->
+        </body>
+    </text>
+</TEI>
