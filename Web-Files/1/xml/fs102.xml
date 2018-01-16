@@ -53,34 +53,18 @@
                 <title>Poem 2 (J18/F22: 1830-1886)</title>
             </head>
             <lg>
-                <l n="1">Frequently the woods are pink&#8212;</l>
-                <l n="2">Frequently<app>
-                    <rdg wit="#df1">,</rdg>
-                    <rdg wit="#LP"></rdg>
-                </app> are brown.</l>
-                <l n="3">Frequently the hills undress</l>
-                <l n="4">Behind my native town<app>
-                    <rdg wit="#df1">&#8212;</rdg>
-                    <rdg wit="#LP">.</rdg>
-                </app></l>
-                <l n="5">Oft a head is crested</l>
-                <l n="6">I was wont to see&#8212;</l>
-                <l n="7">And as oft a cranny</l>
-                <l n="8">Where it used to be&#8212;</l>
-                <l n="9">And the <app>
-                    <rdg wit="#df1">Earth&#8212;</rdg>
-                    <rdg wit="#LP"><del rend="strikethrough">world&#8212;</del>Earth&#8212;</rdg><!-- 2016-06-25: nll: 'Earth&#8212;' is written above the deleted 'world&#8212;'. -->
-                </app>they tell me</l>
-                <l n="10">On it's Axis turned!</l>
-                <l n="11">Wonderful <app>
-                    <rdg wit="#df1">rotation</rdg>
-                    <rdg wit="#LP">Rotation</rdg>
-                </app><app>
-                    <rdg wit="#df1">&#8212;</rdg>
-                    <rdg wit="#LP">!</rdg>
-                </app></l><!-- 2016-06-25: nll: Dickinson has a scribble to the right of the dash in this line (11) of fs102a. Brooke or Becca, what should I do with this?? -->
-                <l n="12">By but twelve performed!</l>
-                <!-- 2016-06-25: nll: Is the word 'twelve' underlined here (in fs102a and fs102b!), or is it separating poems?? I think the latter. Brooke? Becca? -->
+                <l n="1">A brief, but patient illness&#8212;</l>
+                <l n="2">An hour to prepare&#8212;</l>
+                <l n="3">And one below, this morning</l>
+                <l n="4">Is where the angels are&#8212;</l>
+                <l n="5">It was a short procession&#8212;</l>
+                <l n="6">The Bobolink was there&#8212;</l>
+                <l n="7">An aged Bee addressed us&#8212;</l>
+                <l n="8">And then we knelt in prayer&#8212;</l>
+                <l n="9">We trust that she was willing&#8212;</l>
+                <l n="10">We ask that we may be&#8212;</l>
+                <l n="11">Summer&#8212;Sister&#8212;Seraph!</l>
+                <l n="12">Let us go with thee!</l>
             </lg>
         </body>
     </text>

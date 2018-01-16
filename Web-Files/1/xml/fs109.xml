@@ -7,17 +7,17 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Fascicle #: Poem #. fascicleAndPoem#/J#/F#/variant</title>
+                <title>Fascicle 1: Poem 9. 109/J22/F29/variant</title>
                 <author>Emily Dickinson</author>
             </titleStmt>
             <publicationStmt>
-                <p>Fascicle #: Dickinson's variants and published versions</p>
+                <p>Fascicle 1: Dickinson's variants and published versions</p>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
                         <repository></repository>
-                        <idno>fascicleAndPoem#</idno></msIdentifier>
+                        <idno>109</idno></msIdentifier>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -26,15 +26,15 @@
         <front>
             <div type="references">
                 <listRef> <!-- 2017-12-12: nll: These will change with the poem, and you will add more images. -->
-                    <ptr target="xml/fs103.xml"/>
-                    <ptr target="img/103/fs103.jpg"/>
+                    <ptr target="xml/fs109.xml"/>
+                    <ptr target="img/109/fs109.jpg"/>
                 </listRef>
             </div>
             <div type="witness">
                 <listWit>
                     <witness xml:id="df1">
                         <bibl>
-                            <title>ORIGINAL POEMS: Fascicle #</title>
+                            <title>ORIGINAL POEMS: Fascicle 1</title>
                             <author>Emily Dickinson</author>
                         </bibl>
                     </witness>
@@ -43,12 +43,18 @@
         </front>
         <body>
             <head>
-                <title>Poem # (J#/F#: 1830-1886)</title>
+                <title>Poem 9 (J22/F29: 1830-1886)</title>
             </head>
             <lg>
-                <l n="1"></l>
+                <l n="1">All these my banners be.</l>
+                <l n="2">I sow my pageantry</l>
+                <l n="3">In May&#8212;</l>
+                <l n="4">It rises train by train&#8212;</l>
+                <l n="5">Then sleeps in state again&#8212;</l>
+                <l n="6">My chancel&#8212;all the plain</l>
+                <l n="7" rend="indent">Today.</l>
             </lg>
-           <!-- 2017-12-05: nll: This is how the lines will look if there are variants.
+            <!-- 2017-12-05: nll: This is how the lines will look if there are variants.
                <l n="4">Behind my native town<app>
                 <rdg wit="#df1">&#8212;</rdg>
                 <rdg wit="#LP">.</rdg>
