@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../../TemplatesAndSchemas/Dickinson1Schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- 2017-12-12: nll: This is telling us it's an invalid schema location right now, but it will be correct when you use it in the fascicle poems. -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fascicle 1: Poem 14. 114/J323/F14/variant</title>
+                <author>Emily Dickinson</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Fascicle 1: Dickinson's variants and published versions</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno>114</idno></msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="references">
+                <listRef> <!-- 2017-12-12: nll: These will change with the poem, and you will add more images. -->
+                    <ptr target="xml/fs114.xml"/>
+                    <ptr target="img/114/fs114.jpg"/>
+                    <ptr target="img/114/114lTWHa.jpg"/>
+                    <ptr target="img/114/114lTWHb.jpg"/>
+                    <ptr target="img/114/114lUnknowna.jpg"/>
+                    <ptr target="img/114/114lUnknownb.jpg"/>
+                    <ptr target="img/114/114lUnknownc.jpg"/>
+                </listRef>
+            </div>
+            <div type="witness">
+                <listWit>
+                    <witness xml:id="df1">
+                        <bibl>
+                            <title>ORIGINAL POEMS: Fascicle 1</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="lTWH">
+                        <bibl>
+                            <title>Letter to Thomas Wentworth Higginson</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="lUnknown">
+                        <bibl>
+                            <title>Letter to Unknown Recipient</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
+                </listWit>
+            </div>
+        </front>
+        <body>
+            <head>
+                <title>Poem 14 (J323/F14: 1830-1886)</title>
+            </head>
+            <lg>
+                <l n="1">As if I asked a common <app>
+                    <rdg wit="#df1">alms</rdg>
+                    <rdg wit="#lTWH #lUnknown">Alms</rdg>
+                </app><app>
+                    <rdg wit="#df1">&#8212;</rdg>
+                    <rdg wit="#lTWH">,</rdg>
+                    <rdg wit="#lUnknown"/>
+                </app></l>
+                <l n="2">And in my wondering <app>
+                    <rdg wit="#df1 #lTWH">hand</rdg>
+                    <rdg wit="#lUnknown">Hand</rdg>
+                </app><app>
+                    <rdg wit="#df1">,</rdg>
+                    <rdg wit="#lTWH #lUnknown"/>
+                </app></l>
+                <l n="3">A <app>
+                    <rdg wit="#df1 #lUnknown">stranger</rdg>
+                    <rdg wit="#lTWH">Stranger</rdg>
+                </app> pressed a <app>
+                    <rdg wit="#df1">kingdom</rdg>
+                    <rdg wit="#lTWH #lUnknown">Kingdom</rdg>
+                </app><app>
+                    <rdg wit="#df1">&#8212;</rdg>
+                    <rdg wit="#lTWH">,</rdg>
+                    <rdg wit="#lUnknown">, and I bewildered stand,</rdg><!-- 2018-01-23: nll: And this is where the fun starts.... -->
+                </app></l>
+                <l n="4">And I<app>
+                    <rdg wit="#df1">&#8212;</rdg>
+                    <rdg wit="#lTWH">, </rdg>
+                </app>bewildered<app>
+                    <rdg wit="#df1"/>
+                    <rdg wit="#lTWH">,</rdg>
+                </app> stand&#8212;</l>
+                <l n="5">As if I asked the Orient</l>
+                <l n="6">Had it for me a morn<app>
+                    <rdg wit="#df1">?</rdg>
+                    <rdg wit="#lTWH">&#8212;</rdg>
+                </app></l>
+                <l n="7">And it <app>
+                    <rdg wit="#df1">sh'd</rdg>
+                    <rdg wit="#lTWH">should</rdg>
+                </app> lift it's purple <app>
+                    <rdg wit="#df1">dikes</rdg>
+                    <rdg wit="#lTWH">Dikes</rdg>
+                </app><app>
+                    <rdg wit="#df1"/>
+                    <rdg wit="#lTWH">,</rdg>
+                </app></l>
+                <l n="8">And <app>
+                    <rdg wit="#df1">flood</rdg>
+                    <rdg wit="#lTWH">shatter</rdg>
+                </app> me with <app>
+                    <rdg wit="#df1">the </rdg>
+                    <rdg wit="#lTWH"/>
+                </app>Dawn!</l>
+            </lg>
+            <!-- 2017-12-05: nll: This is how the lines will look if there are variants.
+               <l n="4">Behind my native town<app>
+                <rdg wit="#df1">&#8212;</rdg>
+                <rdg wit="#LP">.</rdg>
+            </app></l>-->
+        </body>
+    </text>
+</TEI>
