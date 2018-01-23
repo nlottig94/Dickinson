@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../../TemplatesAndSchemas/Dickinson1Schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- 2017-12-12: nll: This is telling us it's an invalid schema location right now, but it will be correct when you use it in the fascicle poems. -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fascicle 1: Poem 13. 113/J#/F#/variant</title>
+                <author>Emily Dickinson</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Fascicle 1: Dickinson's variants and published versions</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno>113</idno></msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="references">
+                <listRef> <!-- 2017-12-12: nll: These will change with the poem, and you will add more images. -->
+                    <ptr target="xml/fs113.xml"/>
+                    <ptr target="img/113/fs113a.jpg"/>
+                    <ptr target="img/113/fs113b.jpg"/>
+                </listRef>
+            </div>
+            <div type="witness">
+                <listWit>
+                    <witness xml:id="df1">
+                        <bibl>
+                            <title>ORIGINAL POEMS: Fascicle 1</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
+                </listWit>
+            </div>
+        </front>
+        <body>
+            <head>
+                <title>Poem 13 (J#/F#: 1830-1886)</title>
+            </head>
+            <lg>
+                <l n="1">There is a morn by men unseen&#8212;</l>
+                <l n="2">Whose maids opon remoter green</l>
+                <l n="3">Keep their seraphic May&#8212;</l>
+                <l n="4">And all day long, with dance and game,</l>
+                <l n="5">And gambol I may never name&#8212;</l>
+                <l n="6">Employ their holiday.</l>
+            </lg>
+            <lg>
+                <l n="7">Here to light measure, move the feet</l>
+                <l n="8">Which walk no more the village street&#8212;</l>
+                <l n="9">Nor by the wood are found&#8212;</l>
+                <l n="10">Here are the birds that sought the sun</l>
+                <l n="11">When last year's distaff idle hung</l>
+                <l n="12">And summer's brows were bound.</l>
+            </lg>
+            <lg>
+                <l n="13">Ne'er saw I such a wondrous scene&#8212;</l>
+                <l n="14">Ne'er such a ring on such a green&#8212;</l>
+                <l n="15">Nor so serene array&#8212;</l>
+                <l n="16">As if the stars some summer night</l>
+                <l n="17">Should swing their Cups of Chrysolite&#8212;</l>
+                <l n="18">And revel all the day&#8212;</l>
+            </lg>
+            <lg>
+                <l n="19">Like thee to dance&#8212;like thee to sing&#8212;</l>
+                <l n="20">People opon that mystic green&#8212;</l>
+                <l n="21">I ask, each new May morn.</l>
+                <l n="22">I wait thy far&#8212;fantastic bells&#8212;</l>
+                <l n="23">Announcing me in other dells&#8212;</l>
+                <l n="24">Unto the different dawn!</l>
+            </lg>
+            <!-- 2017-12-05: nll: This is how the lines will look if there are variants.
+               <l n="4">Behind my native town<app>
+                <rdg wit="#df1">&#8212;</rdg>
+                <rdg wit="#LP">.</rdg>
+            </app></l>-->
+        </body>
+    </text>
+</TEI>
