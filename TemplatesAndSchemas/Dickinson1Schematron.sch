@@ -1,6 +1,4 @@
-<     <pattern>
-        <rule context="tei:l">
-      ?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <schema xmlns:sch="http://purl.oclc.org/dsdl/schematron" queryBinding="xslt2"
     xmlns:sqf="http://www.schematron-quickfix.com/validator/process"
     xmlns="http://purl.oclc.org/dsdl/schematron">
@@ -14,7 +12,6 @@
             </assert>
         </rule>
     </pattern>-->
-    
 
     <!-- 2018-01-23: nll: In this rule I'm trying to keep track of @n to make sure human error on line counting hasn't happened...-->
         <pattern>
