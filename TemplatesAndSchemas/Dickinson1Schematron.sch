@@ -13,14 +13,14 @@
         </rule>
     </pattern>-->
     
-    <!-- 2018-01-23: nll: In this rule I'm trying to keep track of @n to make sure human error on line counting hasn't happened...
+    <!-- 2018-01-23: nll: In this rule I'm trying to keep track of @n to make sure human error on line counting hasn't happened...-->
         <pattern>
         <rule context="tei:l">
-            <report test="not(@n='{preceding::[tei:l[@n]] +1}')">
+            <report test="not(@n = count(preceding::tei:l) +1)">
                 Watch your line numbers!
             </report>
         </rule>
-    </pattern>-->
+    </pattern>
     
     <pattern>
         <rule context="tei:rdg">
