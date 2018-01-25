@@ -63,8 +63,8 @@
                 <l n="12">And summer's brows were bound.</l>
             </lg>
             <lg>
-                <l n="13">Ne'er saw I such a wondrous scene&#8212;</l>
-                <l n="14">Ne'er such a ring on such a green&#8212;</l>
+                <app><rdg wit="#df1"><l n="13">Ne'er saw I such a wondrous scene&#8212;</l></rdg>
+                <rdg wit="#df1"><l n="14">Ne'er such a ring on such a green&#8212;</l></rdg></app>
                 <l n="15">Nor so serene array&#8212;</l>
                 <l n="16">As if the stars some summer night</l>
                 <l n="17">Should swing their Cups of Chrysolite&#8212;</l>
