@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Emily Dickinson Project ODD File</title>
+        <author>Nicole Lottig</author>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Prepared in TEI 5 by Nicole Lottig for the Dickinson Project team on newtfire.org. Github repository <ref target="https://github.com/nlottig94/Dickinson"/>. Date last worked on: <date when="2018-01-29"/></authority>
+        <availability><licence><!-- licence to go here --></licence></availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Born digital.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <schemaSpec ident="oddex1" start="TEI">
+        <moduleRef key="header"/>
+        <moduleRef key="core"/>
+        <moduleRef key="tei"/>
+        <moduleRef key="textstructure"/>
+      </schemaSpec>
+    </body>
+  </text>
+</TEI>
