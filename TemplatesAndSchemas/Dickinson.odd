@@ -18,7 +18,7 @@
   </teiHeader>
   <text>
     <body>
-      <schemaSpec ident="oddex1" start="TEI">
+      <schemaSpec ident="Dickinson" start="TEI">
         <moduleRef key="header"/>
         <moduleRef key="core"/>
         <moduleRef key="tei"/>
