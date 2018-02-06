@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_corpus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_corpus.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../../TemplatesAndSchemas/Dickinson1Schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+     <teiHeader>
+         <fileDesc>
+             <titleStmt>
+                 <title>Emily Dickinson Fascicle 1: Poems 1-27</title>
+                 <respStmt>
+                     <resp>Transcribed from original manuscripts</resp>
+                     <name>Nicole Lottig</name>
+                 </respStmt>
+             </titleStmt>
+	        <publicationStmt>
+	            <p>Fascicle 1: Dickinson's variants and published versions</p>
+	        </publicationStmt>
+	        <sourceDesc>
+	           <p>Information about the source</p>
+	        </sourceDesc>
+         </fileDesc>
+     </teiHeader>
+     <TEI xml:id="fs101">
+         <teiHeader>
+             <fileDesc>
+                 <titleStmt>
+                     <title>Fascicle 1: Poem 1. 101/J18/f21/variant</title>
+                     <author>Emily Dickinson</author>
+                 </titleStmt>
+                 <publicationStmt>
+                     <p>Fascicle 1: Dickinson's variants and published versions</p>
+                 </publicationStmt>
+                 <sourceDesc>
+                     
+                     <msDesc></msDesc>
+                 </sourceDesc>
+             </fileDesc>
+         </teiHeader>
+         <text>
+                 <front>
+                     <div type="references">
+                         <listRef>
+                             <ptr target="xml/fs101.xml"/>
+                             <ptr target="img/101/fs101.jpg"/>
+                         </listRef>
+                     </div>
+                     <div type="witness">
+                         <listWit>
+                             <witness xml:id="df1">
+                                 <bibl>
+                                     <title>ORIGINAL POEMS: Fascicle 1</title>
+                                     <author>Emily Dickinson</author>
+                                 </bibl>
+                             </witness>
+                         </listWit>
+                     </div>
+                 </front>
+                 <body>
+                     <head>
+                         <title>Poem 1 (J18/F21: 1830-1886)</title>
+                     </head>
+                     <lg>
+                         <l n="1">The Gentian weaves her fringes&#8212;</l>
+                         <l n="2">The Maple's loom is red&#8212;</l>
+                         <l n="3">My departing blossoms</l>
+                         <l n="4">Obviate parade.</l>
+                     </lg>
+                     <lg>
+                         <l n="5">A brief, but patient illness&#8212;</l>
+                         <l n="6">An hour to prepare,</l>
+                         <l n="7">And one below, this morning</l>
+                         <l n="8">Is where the Angels are&#8212;</l>
+                         <l n="9">It was a short procession,</l>
+                         <l n="10">The Bobolink was there&#8212;</l>
+                         <l n="11">An aged Bee addressed us&#8212;</l>
+                         <l n="12">And then we knelt in prayer&#8212;</l>
+                         <l n="13">We trust that she was willing&#8212;</l>
+                         <l n="14">We ask that we may be&#8212;</l>
+                         <l n="15">Summer&#8212;Sister&#8212;Seraph!</l>
+                         <l n="16">Let us go with thee!</l>
+                     </lg>
+                     <lg>
+                         <l n="17">In the name of the Bee&#8212;</l>
+                         <l n="18">And of the Buttefly&#8212;</l>
+                         <l n="19">And of the Breeze&#8212;Amen!</l>
+                     </lg>
+             </body>
+         </text>
+     </TEI>
+     <TEI xml:id="MyTextNumber2">
+         <teiHeader>
+             <fileDesc>
+                 <titleStmt>
+                     <title/>
+                     <author/>
+                 </titleStmt>
+                 <publicationStmt>
+                     <p/>
+                 </publicationStmt>
+                 <sourceDesc>
+                     <p/>
+                 </sourceDesc>
+             </fileDesc>
+         </teiHeader>
+         <text>
+             <body>
+                 <div>
+                     <p/>
+                 </div>
+             </body>
+         </text>
+     </TEI>
+     
+</teiCorpus>
