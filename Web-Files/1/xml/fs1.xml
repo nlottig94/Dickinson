@@ -649,11 +649,420 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title></title>
+                    <title>Fascicle 1: Poem 10. 110/J22/F30/variant</title>
+                    <author>Emily Dickinson</author>
                 </titleStmt>
-                <publicationStmt></publicationStmt>
-                <sourceDesc></sourceDesc>
+                <publicationStmt>
+                    <p>Fascicle 1: Dickinson's variants and published versions</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <msDesc>
+                        <msIdentifier>
+                            <repository></repository>
+                            <idno>110</idno></msIdentifier>
+                    </msDesc>
+                </sourceDesc>
             </fileDesc>
         </teiHeader>
+        <text>
+            <front>
+                <div type="references">
+                    <listRef> <!-- 2017-12-12: nll: These will change with the poem, and you will add more images. -->
+                        <ptr target="xml/fs110.xml"/>
+                        <ptr target="img/110/fs110.jpg"/>
+                    </listRef>
+                </div>
+                <div type="witness">
+                    <listWit>
+                        <witness xml:id="df1">
+                            <bibl>
+                                <title>ORIGINAL POEMS: Fascicle 1</title>
+                                <author>Emily Dickinson</author>
+                            </bibl>
+                        </witness>
+                    </listWit>
+                </div>
+            </front>
+            <body>
+                <head>
+                    <title>Poem 10 (J22/F30: 1830-1886)</title>
+                </head>
+                <lg>
+                    <l n="1">To lose&#8212;if One can find again&#8212;</l>
+                    <l n="2">To miss&#8212;if One shall meet&#8212;</l>
+                    <l n="3">The Burglar cannot rob&#8212;then&#8212;</l>
+                    <l n="4">The Broker cannot cheat.</l>
+                    <l n="5">So build the hillocks gaily,</l>
+                    <l n="6">Thou little spade of mine</l>
+                    <l n="7">Leaving nookds for Daisy</l>
+                    <l n="8">And for Columbine&#8212;</l>
+                    <l n="9">You and I the secret</l>
+                    <l n="10">Of the Crocus know&#8212;</l>
+                    <l n="11">Let us chant it softly&#8212;</l>
+                    <l n="12"><q rend="double" type="spoken"><emph rend="underline">There</emph> is no more snow</q>!</l>
+                </lg>
+                <!-- 2017-12-05: nll: This is how the lines will look if there are variants.
+               <l n="4">Behind my native town<app>
+                <rdg wit="#df1">&#8212;</rdg>
+                <rdg wit="#LP">.</rdg>
+            </app></l>-->
+            </body>
+        </text>
+    </TEI>
+    <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Fascicle 1: Poem 11. 111/J22/F31/variant</title>
+                    <author>Emily Dickinson</author>
+                </titleStmt>
+                <publicationStmt>
+                    <p>Fascicle 1: Dickinson's variants and published versions</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <msDesc>
+                        <msIdentifier>
+                            <repository></repository>
+                            <idno>111</idno></msIdentifier>
+                    </msDesc>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <front>
+                <div type="references">
+                    <listRef> <!-- 2017-12-12: nll: These will change with the poem, and you will add more images. -->
+                        <ptr target="xml/fs111.xml"/>
+                        <ptr target="img/111/fs111.jpg"/>
+                    </listRef>
+                </div>
+                <div type="witness">
+                    <listWit>
+                        <witness xml:id="df1">
+                            <bibl>
+                                <title>ORIGINAL POEMS: Fascicle 1</title>
+                                <author>Emily Dickinson</author>
+                            </bibl>
+                        </witness>
+                    </listWit>
+                </div>
+            </front>
+            <body>
+                <head>
+                    <title>Poem 11 (J22/F31: 1830-1886)</title>
+                </head>
+                <lg>
+                    <l n="1">To him who keeps an Orchis' heart&#8212;</l>
+                    <l n="2">The Swamps are pink with June.</l>
+                </lg>
+                <!-- 2017-12-05: nll: This is how the lines will look if there are variants.
+               <l n="4">Behind my native town<app>
+                <rdg wit="#df1">&#8212;</rdg>
+                <rdg wit="#LP">.</rdg>
+            </app></l>-->
+            </body>
+        </text>
+    </TEI>
+    <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Fascicle 1: Poem 12. 112/J23/F12/variant</title>
+                    <author>Emily Dickinson</author>
+                </titleStmt>
+                <publicationStmt>
+                    <p>Fascicle 1: Dickinson's variants and published versions</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <msDesc>
+                        <msIdentifier>
+                            <repository></repository>
+                            <idno>112</idno></msIdentifier>
+                    </msDesc>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <front>
+                <div type="references">
+                    <listRef> <!-- 2017-12-12: nll: These will change with the poem, and you will add more images. -->
+                        <ptr target="xml/fs112.xml"/>
+                        <ptr target="img/112/fs112a.jpg"/>
+                        <ptr target="img/112/fs112b.jpg"/>
+                    </listRef>
+                </div>
+                <div type="witness">
+                    <listWit>
+                        <witness xml:id="df1">
+                            <bibl>
+                                <title>ORIGINAL POEMS: Fascicle 1</title>
+                                <author>Emily Dickinson</author>
+                            </bibl>
+                        </witness>
+                    </listWit>
+                </div>
+            </front>
+            <body>
+                <head>
+                    <title>Poem 12 (J23/F12: 1830-1886)</title>
+                </head>
+                <lg>
+                    <l n="1">I had a guinea golden&#8212;</l>
+                    <l n="2">I lost it in the sand&#8212;</l>
+                    <l n="3">And tho' the sum was simple</l>
+                    <l n="4">And pounds were in the land&#8212;</l>
+                    <l n="5">Still, had it such a value</l>
+                    <l n="6">Unto my frugal Eye&#8212;</l>
+                    <l n="7">That when I could not find it&#8212;</l>
+                    <l n="8">I sat me down to sigh.</l>
+                </lg>
+                <lg>
+                    <l n="9">I had a crimson Robin&#8212;</l>
+                    <l n="10">Who sang full many a day</l>
+                    <l n="11">But when the woods were painted&#8212;</l>
+                    <l n="12">He&#8212;too&#8212;did fly away&#8212;</l>
+                    <l n="13">Time brought me other Robins&#8212;</l>
+                    <l n="14">Their ballads were the same&#8212;</l>
+                    <l n="15">Still, for my missing Troubadour</l>
+                    <l n="16">I kept the <q rend="double" type="emph">house at hame</q>.</l>
+                </lg>
+                <lg>
+                    <l n="17">I had a star in heaven&#8212;</l>
+                    <l n="18">One <q rend="double" type="soCalled">Pleiad</q> was its' name&#8212;</l>
+                    <l n="19">And when I was not heeding,</l>
+                    <l n="20">It wandered from the same&#8212;</l>
+                    <l n="21">And tho' the skies are crowded&#8212;</l>
+                    <l n="22">And all the night ashine&#8212;</l>
+                    <l n="23">I do not care about it&#8212;</l>
+                    <l n="24">Since none of them are mine.</l>
+                </lg>
+                <lg>
+                    <l n="25">My story has a moral&#8212;</l>
+                    <l n="26">I have a missing friend&#8212;</l>
+                    <l n="27"><q rend="double" type="soCalled">Pleiad</q> its' name&#8212;and Robin&#8212;</l>
+                    <l n="28">And guinea in the sand&#8212;</l>
+                    <l n="29">And when this mournful dirty</l>
+                    <l n="30">Accompanied with tear&#8212;</l>
+                    <l n="31">Shall meet the Eye of traitor</l>
+                    <l n="32">In country far from here&#8212;</l>
+                    <l n="33">Grant that repentance solumn</l>
+                    <l n="34">May seize upon his mind&#8212;</l>
+                    <l n="35">And he no consolation</l>
+                    <l n="36">eneath the sun may find.</l>
+                </lg>
+                <!-- 2017-12-05: nll: This is how the lines will look if there are variants.
+               <l n="4">Behind my native town<app>
+                <rdg wit="#df1">&#8212;</rdg>
+                <rdg wit="#LP">.</rdg>
+            </app></l>-->
+            </body>
+        </text>
+    </TEI>
+    <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Fascicle 1: Poem 13. 113/J24/F13/variant</title>
+                    <author>Emily Dickinson</author>
+                </titleStmt>
+                <publicationStmt>
+                    <p>Fascicle 1: Dickinson's variants and published versions</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <msDesc>
+                        <msIdentifier>
+                            <repository></repository>
+                            <idno>113</idno></msIdentifier>
+                    </msDesc>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <front>
+                <div type="references">
+                    <listRef> <!-- 2017-12-12: nll: These will change with the poem, and you will add more images. -->
+                        <ptr target="xml/fs113.xml"/>
+                        <ptr target="img/113/fs113a.jpg"/>
+                        <ptr target="img/113/fs113b.jpg"/>
+                    </listRef>
+                </div>
+                <div type="witness">
+                    <listWit>
+                        <witness xml:id="df1">
+                            <bibl>
+                                <title>ORIGINAL POEMS: Fascicle 1</title>
+                                <author>Emily Dickinson</author>
+                            </bibl>
+                        </witness>
+                    </listWit>
+                </div>
+            </front>
+            <body>
+                <head>
+                    <title>Poem 13 (J24/F13: 1830-1886)</title>
+                </head>
+                <lg>
+                    <l n="1">There is a morn by men unseen&#8212;</l>
+                    <l n="2">Whose maids opon remoter green</l>
+                    <l n="3">Keep their seraphic May&#8212;</l>
+                    <l n="4">And all day long, with dance and game,</l>
+                    <l n="5">And gambol I may never name&#8212;</l>
+                    <l n="6">Employ their holiday.</l>
+                </lg>
+                <lg>
+                    <l n="7">Here to light measure, move the feet</l>
+                    <l n="8">Which walk no more the village street&#8212;</l>
+                    <l n="9">Nor by the wood are found&#8212;</l>
+                    <l n="10">Here are the birds that sought the sun</l>
+                    <l n="11">When last year's distaff idle hung</l>
+                    <l n="12">And summer's brows were bound.</l>
+                </lg>
+                <lg>
+                    <app><rdg wit="#df1"><l n="13">Ne'er saw I such a wondrous scene&#8212;</l></rdg>
+                        <rdg wit="#df1"><l n="14">Ne'er such a ring on such a green&#8212;</l></rdg></app>
+                    <l n="15">Nor so serene array&#8212;</l>
+                    <l n="16">As if the stars some summer night</l>
+                    <l n="17">Should swing their Cups of Chrysolite&#8212;</l>
+                    <l n="18">And revel all the day&#8212;</l>
+                </lg>
+                <lg>
+                    <l n="19">Like thee to dance&#8212;like thee to sing&#8212;</l>
+                    <l n="20">People opon that mystic green&#8212;</l>
+                    <l n="21">I ask, each new May morn.</l>
+                    <l n="22">I wait thy far&#8212;fantastic bells&#8212;</l>
+                    <l n="23">Announcing me in other dells&#8212;</l>
+                    <l n="24">Unto the different dawn!</l>
+                </lg>
+                <!-- 2017-12-05: nll: This is how the lines will look if there are variants.
+               <l n="4">Behind my native town<app>
+                <rdg wit="#df1">&#8212;</rdg>
+                <rdg wit="#LP">.</rdg>
+            </app></l>-->
+            </body>
+        </text>
+    </TEI>
+    <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Fascicle 1: Poem 14. 114/J323/F14/variant</title>
+                    <author>Emily Dickinson</author>
+                </titleStmt>
+                <publicationStmt>
+                    <p>Fascicle 1: Dickinson's variants and published versions</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <msDesc>
+                        <msIdentifier>
+                            <repository></repository>
+                            <idno>114</idno></msIdentifier>
+                    </msDesc>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <front>
+                <div type="references">
+                    <listRef> <!-- 2017-12-12: nll: These will change with the poem, and you will add more images. -->
+                        <ptr target="xml/fs114.xml"/>
+                        <ptr target="img/114/fs114.jpg"/>
+                        <ptr target="img/114/114lTWHa.jpg"/>
+                        <ptr target="img/114/114lTWHb.jpg"/>
+                        <ptr target="img/114/114lUnknowna.jpg"/>
+                        <ptr target="img/114/114lUnknownb.jpg"/>
+                        <ptr target="img/114/114lUnknownc.jpg"/>
+                    </listRef>
+                </div>
+                <div type="witness">
+                    <listWit>
+                        <witness xml:id="df1">
+                            <bibl>
+                                <title>ORIGINAL POEMS: Fascicle 1</title>
+                                <author>Emily Dickinson</author>
+                            </bibl>
+                        </witness>
+                        <witness xml:id="lTWH">
+                            <bibl>
+                                <title>Letter to Thomas Wentworth Higginson</title>
+                                <author>Emily Dickinson</author>
+                            </bibl>
+                        </witness>
+                        <witness xml:id="lUnknown">
+                            <bibl>
+                                <title>Letter to Unknown Recipient</title>
+                                <author>Emily Dickinson</author>
+                            </bibl>
+                        </witness>
+                    </listWit>
+                </div>
+            </front>
+            <body>
+                <head>
+                    <title>Poem 14 (J323/F14: 1830-1886)</title>
+                </head>
+                <lg>
+                    <l n="1">As if I asked a common <app>
+                        <rdg wit="#df1">alms</rdg>
+                        <rdg wit="#lTWH #lUnknown">Alms</rdg>
+                    </app><app>
+                        <rdg wit="#df1">&#8212;</rdg>
+                        <rdg wit="#lTWH">,</rdg>
+                        <rdg wit="#lUnknown"/>
+                    </app></l>
+                    <l n="2">And in my wondering <app>
+                        <rdg wit="#df1 #lTWH">hand</rdg>
+                        <rdg wit="#lUnknown">Hand</rdg>
+                    </app><app>
+                        <rdg wit="#df1">,</rdg>
+                        <rdg wit="#lTWH #lUnknown"/>
+                    </app></l>
+                    <l n="3">A <app>
+                        <rdg wit="#df1 #lUnknown">stranger</rdg>
+                        <rdg wit="#lTWH">Stranger</rdg>
+                    </app> pressed a <app>
+                        <rdg wit="#df1">kingdom</rdg>
+                        <rdg wit="#lTWH #lUnknown">Kingdom</rdg>
+                    </app><app>
+                        <rdg wit="#df1">&#8212;</rdg>
+                        <rdg wit="#lTWH">,</rdg>
+                        <rdg wit="#lUnknown">, and I bewildered stand,</rdg><!-- 2018-01-23: nll: And this is where the fun starts.... -->
+                    </app></l>
+                    <l n="4">And I<app>
+                        <rdg wit="#df1">&#8212;</rdg>
+                        <rdg wit="#lTWH">, </rdg>
+                    </app>bewildered<app>
+                        <rdg wit="#df1"/>
+                        <rdg wit="#lTWH">,</rdg>
+                    </app> stand&#8212;</l>
+                    <l n="5">As if I asked the Orient</l>
+                    <l n="6">Had it for me a morn<app>
+                        <rdg wit="#df1">?</rdg>
+                        <rdg wit="#lTWH">&#8212;</rdg>
+                    </app></l>
+                    <l n="7">And it <app>
+                        <rdg wit="#df1">sh'd</rdg>
+                        <rdg wit="#lTWH">should</rdg>
+                    </app> lift it's purple <app>
+                        <rdg wit="#df1">dikes</rdg>
+                        <rdg wit="#lTWH">Dikes</rdg>
+                    </app><app>
+                        <rdg wit="#df1"/>
+                        <rdg wit="#lTWH">,</rdg>
+                    </app></l>
+                    <l n="8">And <app>
+                        <rdg wit="#df1">flood</rdg>
+                        <rdg wit="#lTWH">shatter</rdg>
+                    </app> me with <app>
+                        <rdg wit="#df1">the </rdg>
+                        <rdg wit="#lTWH"/>
+                    </app>Dawn!</l>
+                </lg>
+                <!-- 2017-12-05: nll: This is how the lines will look if there are variants.
+               <l n="4">Behind my native town<app>
+                <rdg wit="#df1">&#8212;</rdg>
+                <rdg wit="#LP">.</rdg>
+            </app></l>-->
+            </body>
+        </text>
     </TEI>
 </teiCorpus>
