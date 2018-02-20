@@ -97,27 +97,27 @@
                 <l n="5"><app>
                     <rdg wit="#df1 #lTWH">As if I asked the Orient</rdg>
                 </app></l>
-                <l n="6">Had it for me a morn<app>
+                <l n="6"><app><rdg wit="#df1 #lTWH">Had it for me a morn</rdg>
                     <rdg wit="#df1">?</rdg>
                     <rdg wit="#lTWH">&#8212;</rdg>
                 </app></l>
-                <l n="7">And it <app>
+                <l n="7"><app><rdg wit="#df1 #lTWH">And it </rdg>
                     <rdg wit="#df1">sh'd</rdg>
                     <rdg wit="#lTWH">should</rdg>
-                </app> lift it's purple <app>
+                    <rdg wit="#df1 #lTWH">lift it's purple </rdg>
                     <rdg wit="#df1">dikes</rdg>
                     <rdg wit="#lTWH">Dikes</rdg>
-                </app><app>
                     <rdg wit="#df1"/>
                     <rdg wit="#lTWH">,</rdg>
                 </app></l>
-                <l n="8">And <app>
+                <l n="8"><app><rdg wit="#df1 #lTWH">And </rdg>
                     <rdg wit="#df1">flood</rdg>
                     <rdg wit="#lTWH">shatter</rdg>
-                </app> me with <app>
+                    <rdg wit="#df1 #lTWH">me with </rdg>
                     <rdg wit="#df1">the </rdg>
                     <rdg wit="#lTWH"/>
-                </app>Dawn!</l>
+                    <rdg wit="#df1 #lTWH">Dawn!</rdg>
+                </app></l>
             </lg>
             <!-- 2017-12-05: nll: This is how the lines will look if there are variants.
                <l n="4">Behind my native town<app>
