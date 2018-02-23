@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../../TemplatesAndSchemas/Dickinson1Schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- 2017-12-12: nll: This is telling us it's an invalid schema location right now, but it will be correct when you use it in the fascicle poems. -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fascicle 1: Poem 16. 116/J7/F16/variant</title>
+                <author>Emily Dickinson</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Fascicle 1: Dickinson's variants and published versions</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno>116</idno></msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="references">
+                <listRef> <!-- 2017-12-12: nll: These will change with the poem, and you will add more images. -->
+                    <ptr target="xml/fs116.xml"/>
+                    <ptr target="img/116/fs116a.jpg"/>
+                    <ptr target="img/116/fs116b.jpg"/>
+                    <ptr target="img/116/1409LPa.jpg"/>
+                    <ptr target="img/116/1409LPb.jpg"/>
+                    <ptr target="img/116/1409lSDa.jpg"/>
+                    <ptr target="img/116/1409lSDb.jpg"/>
+                    <ptr target="img/116/1409lSDc.jpg"/>
+                    <ptr target="img/116/fs1409a.jpg"/>
+                    <ptr target="img/116/fs1409b.jpg"/>
+                </listRef>
+            </div>
+            <div type="witness">
+                <listWit>
+                    <witness xml:id="df1">
+                        <bibl>
+                            <title>ORIGINAL POEMS: Fascicle 1</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="df14">
+                        <bibl>
+                            <title>ORIGINAL POEMS: Fascicle 14</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="LP">
+                        <bibl>
+                            <title>Loose Poem</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="lSD">
+                        <bibl>
+                            <title>Letter to Susan Dickinson (Sister-in-law)</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
+                </listWit>
+            </div>
+        </front>
+        <body>
+            <head>
+                <title>Poem 16 (J7/F16: 1830-1886)</title>
+            </head>
+            <lg>
+                <l n="1">The feet of people walking home</l>
+                <l n="2">With gayer sandals go&#8212;</l>
+                <l n="3">The Crocus&#8212;will she rises&#8212;</l>
+                <l n="4">The vassal of the snow&#8212;</l>
+                <l n="5">The lipsat Hallelujah</l>
+                <l n="6">Long years of practise bore&#8212;</l>
+                <l n="7">Till bye and bye, these Bargemen</l>
+                <l n="8">Walked&#8212;singing&#8212;on the shore.</l>
+            </lg>
+            <lg>
+                <l n="9">Pearls are the Diver's farthings,</l>
+                <l n="10">Extorted from the sea&#8212;</l>
+                <l n="11">Pinions&#8212;</l>
+            </lg>
+            <!-- 2017-12-05: nll: This is how the lines will look if there are variants.
+               <l n="4">Behind my native town<app>
+                <rdg wit="#df1">&#8212;</rdg>
+                <rdg wit="#LP">.</rdg>
+            </app></l>-->
+        </body>
+    </text>
+</TEI>
