@@ -89,6 +89,7 @@
                     <rdg wit="#lTWH">,</rdg>
                     <rdg wit="#lUnknown">, and I bewildered stand,</rdg><!-- 2018-01-23: nll: And this is where the fun starts.... -->
                 </app></l>
+                <app><rdg wit="#lUnknown"><l>extra line</l></rdg></app>
                 <l n="4">And I<app>
                     <rdg wit="#df1">&#8212;</rdg>
                     <rdg wit="#lTWH">, </rdg>
