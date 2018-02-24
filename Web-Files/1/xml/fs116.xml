@@ -29,11 +29,11 @@
                     <ptr target="xml/fs116.xml"/>
                     <ptr target="img/116/fs116a.jpg"/>
                     <ptr target="img/116/fs116b.jpg"/>
-                    <ptr target="img/116/1409LPa.jpg"/>
-                    <ptr target="img/116/1409LPb.jpg"/>
-                    <ptr target="img/116/1409lSDa.jpg"/>
-                    <ptr target="img/116/1409lSDb.jpg"/>
-                    <ptr target="img/116/1409lSDc.jpg"/>
+                    <ptr target="img/116/116LPa.jpg"/>
+                    <ptr target="img/116/116LPb.jpg"/>
+                    <ptr target="img/116/116lSDa.jpg"/>
+                    <ptr target="img/116/116lSDb.jpg"/>
+                    <ptr target="img/116/116lSDc.jpg"/>
                     <ptr target="img/116/fs1409a.jpg"/>
                     <ptr target="img/116/fs1409b.jpg"/>
                 </listRef>
@@ -72,19 +72,105 @@
                 <title>Poem 16 (J7/F16: 1830-1886)</title>
             </head>
             <lg>
-                <l n="1">The feet of people walking home</l>
+                <l n="1">The feet of people walking home<app>
+                    <rdg wit="#df1 #df14 #LP"/>
+                    <rdg wit="#lSD">&#8212;</rdg>
+                </app></l>
                 <l n="2">With gayer sandals go&#8212;</l>
-                <l n="3">The Crocus&#8212;will she rises&#8212;</l>
+                <l n="3">The Crocus<app>
+                    <rdg wit="#df1 #df14">&#8212;</rdg>
+                    <rdg wit="#LP #lSD">, </rdg>
+                </app>till she rises<app>
+                    <rdg wit="#df1">&#8212;</rdg>
+                    <rdg wit="#df14 #LP #lSD"/>
+                </app></l>
                 <l n="4">The vassal of the snow&#8212;</l>
-                <l n="5">The lipsat Hallelujah</l>
-                <l n="6">Long years of practise bore&#8212;</l>
-                <l n="7">Till bye and bye, these Bargemen</l>
-                <l n="8">Walked&#8212;singing&#8212;on the shore.</l>
+                <l n="5">The lips at Hallelujah</l><!-- 2018-02-24: nll: At the beginning of this line, #lSD starts a new line group. I'm not sure how this will affect the coding. We will see. I'm going to move to the next poem and ask Becca after her meeting today. -->
+                <l n="6">Long years of practise bore<app>
+                    <rdg wit="#df1">&#8212;</rdg>
+                    <rdg wit="#df14 #LP"/>
+                </app></l>
+                <l n="7">Till bye and bye<app>
+                    <rdg wit="#df1">, </rdg>
+                    <rdg wit="#df14 #LP"> </rdg>
+                </app><app>
+                    <rdg wit="#df1 #LP">these</rdg>
+                    <rdg wit="#df14">These</rdg>
+                </app> Bargemen</l>
+                <l n="8">Walked<app>
+                    <rdg wit="#df1">&#8212;</rdg>
+                    <rdg wit="#df14 #LP"> </rdg>
+                </app>singing<app>
+                    <rdg wit="#df1">&#8212;</rdg>
+                    <rdg wit="#df14"> </rdg>
+                    <rdg wit="#LP">, </rdg>
+                </app>on the shore<app>
+                    <rdg wit="#df1 #df14">.</rdg>
+                    <rdg wit="#LP">!</rdg>
+                </app></l>
             </lg>
             <lg>
-                <l n="9">Pearls are the Diver's farthings,</l>
+                <l n="9">Pearls are the Diver's farthings<app>
+                    <rdg wit="#df1">,</rdg>
+                    <rdg wit="#df14"/>
+                    <rdg wit="#LP">&#8212;</rdg>
+                </app></l>
                 <l n="10">Extorted from the sea&#8212;</l>
-                <l n="11">Pinions&#8212;</l>
+                <l n="11">Pinions&#8212;the Seraph's wagon<app>
+                    <rdg wit="#df1 #LP">&#8212;</rdg>
+                    <rdg wit="#df14"/>
+                </app></l>
+                <l n="12">Pedestrian once<app>
+                    <rdg wit="#df1 #df14">&#8212;</rdg>
+                    <rdg wit="#LP">, </rdg>
+                </app>as we&#8212;</l>
+                <l n="13">Night is the morning's <app>
+                    <rdg wit="#df1">canvas</rdg>
+                    <rdg wit="#df14 #LP">Canvas</rdg>
+                </app><app>
+                    <rdg wit="#df1 #LP">&#8212;</rdg>
+                    <rdg wit="#df14"/>
+                </app></l>
+                <l n="14">Larceny&#8212;<app>
+                    <rdg wit="#df1 #df14">legacy</rdg>
+                    <rdg wit="#LP"><emph rend="underline">legacy</emph></rdg>
+                </app>&#8212;</l>
+                <l n="15">Death<app>
+                    <rdg wit="#df1">&#8212;</rdg>
+                    <rdg wit="#df14 #LP">, </rdg>
+                </app>but our rapt attention</l>
+                <l n="16">To <app>
+                    <rdg wit="#df1 #LP">immortality</rdg>
+                    <rdg wit="#df14">Immortality</rdg>
+                </app>.</l>
+            </lg>
+            <lg>
+                <l n="17">My figures <app>
+                    <rdg wit="#df1">faill</rdg>
+                    <rdg wit="#df14 #LP">fail</rdg>
+                </app> to tell me</l>
+                <l n="18">How far the village lies&#8212;</l>
+                <l n="19">Whose peasants are the <app>
+                    <rdg wit="#df1 #df14">Angels</rdg>
+                    <rdg wit="#LP">angels</rdg>
+                </app>&#8212;</l>
+                <l n="20">Whose <app>
+                    <rdg wit="#df1">cantons</rdg>
+                    <rdg wit="#df14 #LP">Cantons</rdg>
+                </app> dot the skies&#8212;</l>
+                <l n="21">My Classics vail their faces&#8212;</l>
+                <l n="22">My faith that <app>
+                    <rdg wit="#df1 #df14">Dark</rdg>
+                    <rdg wit="#LP">dark</rdg>
+                </app> adores&#8212;</l>
+                <l n="23">Which from it's solemn abbeys<app>
+                    <rdg wit="#df1">&#8212;</rdg>
+                    <rdg wit="#df14"/>
+                </app></l>
+                <l n="24">Such resurrection pours<app>
+                    <rdg wit="#df1 #LP">!</rdg>
+                    <rdg wit="#df14"/>
+                </app></l>
             </lg>
             <!-- 2017-12-05: nll: This is how the lines will look if there are variants.
                <l n="4">Behind my native town<app>
