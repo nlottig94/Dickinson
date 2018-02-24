@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../../TemplatesAndSchemas/Dickinson1Schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- 2017-12-12: nll: This is telling us it's an invalid schema location right now, but it will be correct when you use it in the fascicle poems. -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fascicle 1: Poem 17. 117/J26/F17/variant</title>
+                <author>Emily Dickinson</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Fascicle 1: Dickinson's variants and published versions</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno>117</idno></msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="references">
+                <listRef> <!-- 2017-12-12: nll: These will change with the poem, and you will add more images. -->
+                    <ptr target="xml/fs117.xml"/>
+                    <ptr target="img/117/fs117.jpg"/>
+                </listRef>
+            </div>
+            <div type="witness">
+                <listWit>
+                    <witness xml:id="df1">
+                        <bibl>
+                            <title>ORIGINAL POEMS: Fascicle 1</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
+                </listWit>
+            </div>
+        </front>
+        <body>
+            <head>
+                <title>Poem 17 (J26/F17: 1830-1886)</title>
+            </head>
+            <lg>
+                <l n="1">It's all I have to bring today&#8212;</l>
+                <l n="2">This, and my heart beside&#8212;</l>
+                <l n="3">This, and my heart, and all the fields&#8212;</l>
+                <l n="4">And all the meadows wide&#8212;</l>
+                <l n="5">Be sure you count&#8212;sh'd I forget</l>
+                <l n="6">Some one the sum could tell&#8212;</l>
+                <l n="7">This, and my heart, and all the Bees</l>
+                <l n="8">Which in the Clover dwell.</l>
+            </lg>
+            <!-- 2017-12-05: nll: This is how the lines will look if there are variants.
+               <l n="4">Behind my native town<app>
+                <rdg wit="#df1">&#8212;</rdg>
+                <rdg wit="#LP">.</rdg>
+            </app></l>-->
+        </body>
+    </text>
+</TEI>
