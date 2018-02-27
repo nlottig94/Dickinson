@@ -7,17 +7,17 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Fascicle #: Poem #. fascicleAndPoem#/J#/F#/variant</title>
+                <title>Fascicle 1: Poem 22. 122/J31/F7/variant</title>
                 <author>Emily Dickinson</author>
             </titleStmt>
             <publicationStmt>
-                <p>Fascicle #: Dickinson's variants and published versions</p>
+                <p>Fascicle 1: Dickinson's variants and published versions</p>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
                         <repository></repository>
-                        <idno>fascicleAndPoem#</idno></msIdentifier>
+                        <idno>122</idno></msIdentifier>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -26,30 +26,40 @@
         <front>
             <div type="references">
                 <listRef> <!-- 2017-12-12: nll: These will change with the poem, and you will add more images. -->
-                    <ptr target="xml/fs103.xml"/>
-                    <ptr target="img/103/fs103.jpg"/>
+                    <ptr target="xml/fs122.xml"/>
+                    <ptr target="img/122/fs122a.jpg"/>
+                    <ptr target="img/122/fs122b.jpg"/>
                 </listRef>
             </div>
             <div type="witness">
                 <listWit>
-                    <witness xml:id="df1"> <!-- 2018-02-27: nll: This xml:id will change depending on the fascicle. -->
+                    <witness xml:id="df1">
                         <bibl>
-                            <title>ORIGINAL POEMS: Fascicle #</title>
+                            <title>ORIGINAL POEMS: Fascicle 1</title>
                             <author>Emily Dickinson</author>
                         </bibl>
                     </witness>
-                    <!-- 2018-02-27: nll: You will insert other witnesses that have variations of this poem from the "Dickinson_listWit.xml"  -->
                 </listWit>
             </div>
         </front>
         <body>
             <head>
-                <title>Poem # (J#/F#: 1830-1886)</title>
+                <title>Poem 22 (J31/F7: 1830-1886)</title>
             </head>
             <lg>
-                <l n="1"></l>
+                <l n="1">Summer for thee, grant I may be</l>
+                <l n="2">When Summer days are flown!</l>
+                <l n="3">Thy music still, when Whippowil</l>
+                <l n="4">And Oriole&#8212;are done!</l>
             </lg>
-           <!-- 2017-12-05: nll: This is how the lines will look if there are variants.
+            <lg>
+                <l n="5">For thee to bloom, I'll skip the tomb</l>
+                <l n="6">And row my blossoms o'er!</l>
+                <l n="7">Pray gather me&#8212;</l>
+                <l n="8" rend="indent">Anemone&#8212;</l>
+                <l n="9">Thy flower&#8212;forevermore!</l>
+            </lg>
+            <!-- 2017-12-05: nll: This is how the lines will look if there are variants.
                <l n="4">Behind my native town<app>
                 <rdg wit="#df1">&#8212;</rdg>
                 <rdg wit="#LP">.</rdg>
