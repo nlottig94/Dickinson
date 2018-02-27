@@ -7,7 +7,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Fascicle 1: Poem 24. 124/J32/F9/variant</title>
+                <title>Fascicle 1: Poem 27. 127/J35/F11/variant</title>
                 <author>Emily Dickinson</author>
             </titleStmt>
             <publicationStmt>
@@ -17,7 +17,7 @@
                 <msDesc>
                     <msIdentifier>
                         <repository></repository>
-                        <idno>124</idno></msIdentifier>
+                        <idno>127</idno></msIdentifier>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -26,9 +26,9 @@
         <front>
             <div type="references">
                 <listRef> <!-- 2017-12-12: nll: These will change with the poem, and you will add more images. -->
-                    <ptr target="xml/fs124.xml"/>
-                    <ptr target="img/124/fs124a.jpg"/>
-                    <ptr target="img/124/fs124b.jpg"/>
+                    <ptr target="xml/fs127.xml"/>
+                    <ptr target="img/127/fs127.jpg"/>
+                    <ptr target="img/127/127LP.jpg"/>
                 </listRef>
             </div>
             <div type="witness">
@@ -39,25 +39,60 @@
                             <author>Emily Dickinson</author>
                         </bibl>
                     </witness>
+                    <witness xml:id="LP">
+                        <bibl>
+                            <title>Loose Poem</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
                     <!-- 2018-02-27: nll: You will insert other witnesses that have variations of this poem from the "Dickinson_listWit.xml"  -->
                 </listWit>
             </div>
         </front>
         <body>
             <head>
-                <title>Poem 24 (J32/F9: 1830-1886)</title>
+                <title>Poem 27 (J35/F11: 1830-1886)</title>
             </head>
             <lg>
-                <l n="1"><emph rend="underline">Oh</emph> if remembering were forgetting&#8212;</l>
-                <l n="2">Then I remember not!</l>
-                <l n="3">And if forgetting&#8212;recollecting&#8212;</l>
-                <l n="4">How near I had forgot!</l>
-            </lg>
-            <lg>
-                <l n="5">And if to miss&#8212;were merry&#8212;</l>
-                <l n="6">And to mourn were gay,</l>
-                <l n="7">How very blithe the maiden</l>
-                <l n="8">Who gathered these today!</l>
+                <l n="1">Nobody knows this little Rose<app>
+                    <rdg wit="#df1">&#8212;</rdg>
+                    <rdg wit="#LP">.</rdg>
+                </app></l>
+                <l n="2">It might a pilgrim be</l>
+                <l n="3">Did I not take it from the ways</l>
+                <l n="4">And lift it up to thee.<app>
+                    <rdg wit="#df1"/>
+                    <rdg wit="#LP">&#8212;</rdg>
+                </app></l>
+                <l n="5">Only a Bee will miss it&#8212;</l>
+                <l n="6">Only a Butterfly,</l>
+                <l n="7">Hastening from far journey<app>
+                    <rdg wit="#df1">&#8212;</rdg>
+                    <rdg wit="#LP"/>
+                </app></l>
+                <l n="8">On it's breast<app>
+                    <rdg wit="#df1"> </rdg>
+                    <rdg wit="#LP">&#8212;</rdg>
+                </app>to lie&#8212;</l>
+                <l n="9">Only a Bird<app>
+                    <rdg wit="#df1"> </rdg>
+                    <rdg wit="#LP">&#8212;</rdg>
+                </app>will wonder&#8212;</l>
+                <l n="10">Only a Breeze will sigh<app>
+                    <rdg wit="#df1">&#8212;</rdg>
+                    <rdg wit="#LP">,</rdg>
+                </app></l>
+                <l n="11">Ah<app>
+                    <rdg wit="#df1"/>
+                    <rdg wit="#LP">,</rdg>
+                </app> Little Rose<app>
+                    <rdg wit="#df1">&#8212;</rdg>
+                    <rdg wit="#LP">!</rdg>
+                </app><app>
+                    <rdg wit="#df1">how easy</rdg>
+                    <rdg wit="#LP"/>
+                </app></l>
+                <l n="12">For such as thee to die!</l>
             </lg>
             <!-- 2017-12-05: nll: This is how the lines will look if there are variants.
                <l n="4">Behind my native town<app>

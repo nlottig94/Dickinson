@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../../TemplatesAndSchemas/Dickinson1Schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- 2017-12-12: nll: This is telling us it's an invalid schema location right now, but it will be correct when you use it in the fascicle poems. -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fascicle 1: Poem 25. f125/J4/F3/variant</title>
+                <author>Emily Dickinson</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Fascicle 1: Dickinson's variants and published versions</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno>125</idno></msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="references">
+                <listRef> <!-- 2017-12-12: nll: These will change with the poem, and you will add more images. -->
+                    <ptr target="xml/fs125.xml"/>
+                    <ptr target="img/125/fs125.jpg"/>
+                    <ptr target="img/125/125lSD.jpg"/>
+                </listRef>
+            </div>
+            <div type="witness">
+                <listWit>
+                    <witness xml:id="df1"> <!-- 2018-02-27: nll: This xml:id will change depending on the fascicle. -->
+                        <bibl>
+                            <title>ORIGINAL POEMS: Fascicle 1</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="lSD">
+                        <bibl>
+                            <title>Letter to Susan Dickinson (Sister-in-law)</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
+                    <!-- 2018-02-27: nll: You will insert other witnesses that have variations of this poem from the "Dickinson_listWit.xml"  -->
+                </listWit>
+            </div>
+        </front>
+        <body>
+            <head>
+                <title>Poem 25 (J4/F3: 1830-1886)</title>
+            </head>
+            <lg>
+                <l n="1">On this wondrous sea<app>
+                    <rdg wit="#df1">&#8212;</rdg>
+                    <rdg wit="#lSD"></rdg>
+                </app>sailing silently<app>
+                    <rdg wit="#df1">&#8212;</rdg>
+                    <rdg wit="#lSD">,</rdg>
+                </app></l>
+                <l n="2">Ho! Pilot<app>
+                    <rdg wit="#df1">!</rdg>
+                    <rdg wit="#lSD">,</rdg>
+                </app> <app>
+                    <rdg wit="#df1">Ho</rdg>
+                    <rdg wit="#lSD">ho</rdg>
+                </app>!</l>
+                <l n="3">Knowest thou the shore</l>
+                <l n="4">Where no breakers roar&#8212;</l>
+                <l n="5">Where the storm is o'er?</l>
+            </lg>
+            <lg>
+                <l n="6">In the <app>
+                    <rdg wit="#df1">silent</rdg>
+                    <rdg wit="#lSD">fearful</rdg>
+                </app> <app>
+                    <rdg wit="#df1">West</rdg>
+                    <rdg wit="#lSD">west</rdg>
+                </app></l>
+                <l n="7">Many<app>
+                    <rdg wit="#df1">&#8212;</rdg>
+                    <rdg wit="#lSD"> </rdg>
+                </app>the sails at rest&#8212;</l>
+                <l n="8">The <app>
+                    <rdg wit="#df1">Anchors</rdg>
+                    <rdg wit="#lSD">anchors</rdg>
+                </app> fast<app>
+                    <rdg wit="#df1">.</rdg>
+                    <rdg wit="#lSD">&#8212;</rdg>
+                </app></l>
+                <l n="9">Thither I pilot <app>
+                    <rdg wit="#df1">thee</rdg>
+                    <rdg wit="#lSD"><emph rend="underline">thee</emph></rdg>
+                </app>&#8212;</l>
+                <l n="10">Land<app>
+                    <rdg wit="#df1">!</rdg>
+                    <rdg wit="#lSD">,</rdg>
+                </app> Ho! Eternity!</l>
+                <l n="11">Ashore at last!</l>
+            </lg>
+            <!-- 2017-12-05: nll: This is how the lines will look if there are variants.
+               <l n="4">Behind my native town<app>
+                <rdg wit="#df1">&#8212;</rdg>
+                <rdg wit="#LP">.</rdg>
+            </app></l>-->
+        </body>
+    </text>
+</TEI>
