@@ -11,7 +11,7 @@
     <!--ebb and djb: Witness is anything with a hash that is not df16-->
   
     <xsl:template match="/">
-        <html>
+        <html xml:lang="en">
             <head>
                 <link rel="stylesheet" type="text/css" href="../css/styles.css"/>
                 <script type="text/javascript" src="../scripts/dickinson.js"/>

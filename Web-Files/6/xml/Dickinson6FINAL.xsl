@@ -10,7 +10,7 @@
     <xsl:variable name="witness"
         select="//front/descendant::witness/@xml:id"/>
     <xsl:template match="/">
-        <html>
+        <html xml:lang="en">
             <head>
                 <link rel="stylesheet" type="text/css" href="../css/styles.css"/>
                 <script type="text/javascript" src="../scripts/dickinson.js"/>
