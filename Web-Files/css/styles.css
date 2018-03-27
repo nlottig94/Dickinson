@@ -505,6 +505,7 @@ button {
 }
 .origXML:hover, .regButton:hover {
     color:#000000;
+    background-color: #a6a6a6;
 }
 .origImg {
     color:#000000;
