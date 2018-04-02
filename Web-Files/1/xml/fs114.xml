@@ -89,18 +89,27 @@
                     <rdg wit="#lTWH">,</rdg>
                     <rdg wit="#lUnknown">, and I bewildered stand,</rdg><!-- 2018-01-23: nll: And this is where the fun starts.... -->
                 </app></l>
-                <app><rdg wit="#lUnknown"><l>extra line</l></rdg></app>
-                <l n="4">And I<app>
-                    <rdg wit="#df1">&#8212;</rdg>
-                    <rdg wit="#lTWH">, </rdg>
-                </app>bewildered<app>
-                    <rdg wit="#df1"/>
-                    <rdg wit="#lTWH">,</rdg>
-                </app> stand&#8212;</l>
-                <l n="5">As if I asked the Orient</l>
-                <l n="6">Had it for me a morn<app>
-                    <rdg wit="#df1">?</rdg>
-                    <rdg wit="#lTWH">&#8212;</rdg>
+                <!--<app><rdg wit="#lUnknown"><l>extra line</l></rdg></app>-->
+                <l n="4"><app>
+                    <rdg wit="#df1 #lTWH">And I<app>
+                        <rdg wit="#df1">&#8212;</rdg>
+                        <rdg wit="#lTWH">, </rdg>
+                    </app>bewildered<app>
+                        <rdg wit="#df1"/>
+                        <rdg wit="#lTWH">,</rdg>
+                    </app> stand&#8212;</rdg>
+                    <rdg wit="#lUnknown">As if I asked the Orient had it for me a morn,</rdg>
+                </app></l>
+                <l n="5"><app>
+                    <rdg wit="#df1 #lTWH">As if I asked the Orient</rdg>
+                    <rdg wit="#lUnknown">And it should lift it's Purple Dikes, and shatter me with Dawn&#8212;</rdg>
+                </app></l>
+                <l n="6"><app>
+                    <rdg wit="#df1 #lTWH">Had it for me a morn<app>
+                        <rdg wit="#df1">?</rdg>
+                        <rdg wit="#lTWH">&#8212;</rdg></app>
+                    </rdg>
+                    <rdg wit="#lUnknown"></rdg>
                 </app></l>
                 <l n="7">And it <app>
                     <rdg wit="#df1">sh'd</rdg>
