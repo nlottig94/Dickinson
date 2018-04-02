@@ -92,7 +92,10 @@
                     <rdg wit="#df1">how easy</rdg>
                     <rdg wit="#LP"/>
                 </app></l>
-                <l n="12">For such as thee to die!</l>
+                <l n="12"><app>
+                    <rdg wit="#df1">For such as thee to die!</rdg>
+                    <rdg wit="#LP">How Easy, for such as thee, to die!</rdg>
+                </app></l>
             </lg>
             <!-- 2017-12-05: nll: This is how the lines will look if there are variants.
                <l n="4">Behind my native town<app>
