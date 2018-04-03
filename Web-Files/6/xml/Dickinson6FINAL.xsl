@@ -331,14 +331,19 @@
        <!--2016-04-20 ebb: It doesn't seem to be necessary to declare this variable a sequence because of course current() is going to be a new
            value each time the template match on `<l>` fires.-->
          
-                <xsl:for-each select="$witness"><table>
+                <xsl:for-each select="$witness"><table><xsl:choose>
                     <!-- ebb: removed @class="current()" from table element to output variants only inside cells.-->
            
                    <!--<xsl:value-of select="current()"/>-->                 
-                    <xsl:apply-templates select="$current" mode="row">
+                    <xsl:when test="$current//rdg">
+                        <xsl:apply-templates select="$current" mode="row">
                         <xsl:with-param name="wit" select="current()" as="xs:string" tunnel="yes"/>
                     </xsl:apply-templates>
-                </table>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:apply-templates select="$current" mode="row"/>
+                    </xsl:otherwise>
+                </xsl:choose></table>
             </xsl:for-each>
             </div>
         </div>
@@ -346,20 +351,22 @@
     <xsl:template match="l" mode="row">
         <xsl:param name="wit" tunnel="yes"/>
         
-        <tr class="{$wit}Toggle"><xsl:for-each select="node()">
-                        <xsl:choose>
-                            <xsl:when test="current()/rdg[contains(@wit, $wit)]">
+        <xsl:choose>
+            <xsl:when test="descendant::rdg">
+                <tr class="{$wit}Toggle"><xsl:for-each select="node()">
+                        
+                            <xsl:if test="current()/rdg[contains(@wit, $wit)]">
                 <td class="{$wit}"><xsl:apply-templates select="."/>
-                </td></xsl:when>
+                </td></xsl:if>
             
-            <xsl:otherwise>
-                <td class="{$wit}text">
-                    <xsl:apply-templates select="."/>
-                </td>
-                
-            </xsl:otherwise>
-            </xsl:choose>
-        </xsl:for-each></tr>
+            
+        </xsl:for-each></tr></xsl:when>
+        <!--<xsl:when test="not(descendant::rdg)">
+            <tr>
+                <td class="noVariant"><xsl:apply-templates select="."/></td>
+            </tr>
+        </xsl:when>-->
+        </xsl:choose>
     </xsl:template>
     <xsl:template match="app">
         <xsl:param name="wit" tunnel="yes"/>
