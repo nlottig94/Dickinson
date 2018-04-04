@@ -361,11 +361,11 @@
             
             
         </xsl:for-each></tr></xsl:when>
-        <!--<xsl:when test="not(descendant::rdg)">
+        <xsl:when test="not(descendant::rdg)">
             <tr>
-                <td class="noVariant"><xsl:apply-templates select="."/></td>
+                <td class="noVariant"><xsl:apply-templates/></td>
             </tr>
-        </xsl:when>-->
+        </xsl:when>
         </xsl:choose>
     </xsl:template>
     <xsl:template match="app">
