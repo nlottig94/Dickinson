@@ -331,7 +331,8 @@
        <!--2016-04-20 ebb: It doesn't seem to be necessary to declare this variable a sequence because of course current() is going to be a new
            value each time the template match on `<l>` fires.-->
          
-                <xsl:for-each select="$witness"><table><xsl:choose>
+             <xsl:choose>
+                 <xsl:when test="descendant::rdg">   <xsl:for-each select="$witness"><table><xsl:choose>
                     <!-- ebb: removed @class="current()" from table element to output variants only inside cells.-->
            
                    <!--<xsl:value-of select="current()"/>-->                 
@@ -343,8 +344,19 @@
                     <xsl:otherwise>
                         <xsl:apply-templates select="$current" mode="row"/>
                     </xsl:otherwise>
-                </xsl:choose></table>
-            </xsl:for-each>
+                </xsl:choose>
+                 </table>
+ </xsl:for-each>
+                 </xsl:when>
+             
+             <xsl:otherwise>
+ <table>
+                 <xsl:apply-templates select="$current" mode="row"/></table>
+             </xsl:otherwise>
+           
+             
+             
+             </xsl:choose>
             </div>
         </div>
     </xsl:template>
@@ -353,14 +365,26 @@
         
         <xsl:choose>
             <xsl:when test="descendant::rdg">
-                <tr class="{$wit}Toggle"><xsl:for-each select="node()">
+                <tr class="{$wit}Toggle">
+                    <xsl:for-each select="node()">
+                    <!--2018-04-03 ebb: I just remembered what node() is processing here: It's each literal node() child of the <l> element: sometimes its a text-node() and sometimes it's an <app> element! So node() is a way to match on *any* kind of child like this. (Without it, the understanding is you either match on text() or on an element child). You have your first condition firing when the current node() is an app element. You have another firing when it's not. (We deleted one of these in the Advanced Praxis group meeting today, but I'm restoring it because without it we are only processing the app contents and missing the rest of the line.)  -->
                         
-                            <xsl:if test="current()/rdg[contains(@wit, $wit)]">
+                           <xsl:choose> 
+                  <!--ebb: The first condition below catches the <app> child of the <l>, and puts it in a special table cell. -->
+                               <xsl:when test="current()/rdg[contains(@wit, $wit)]">
                 <td class="{$wit}"><xsl:apply-templates select="."/>
-                </td></xsl:if>
-            
-            
-        </xsl:for-each></tr></xsl:when>
+                </td></xsl:when>
+                  <!--ebb: The otherwise condition gets the text nodes surrounding the witness it and puts them in their own special cells.-->
+                     <xsl:otherwise>
+                        <td class="{$wit}text">
+                            <xsl:apply-templates select="."/>
+                        </td>
+                      </xsl:otherwise>
+                           </xsl:choose>
+        </xsl:for-each>
+                </tr>
+            </xsl:when>
+            <!--ebb: Now we have a special condition for when there isn't an <rdg> descendant of <l>.  -->
         <xsl:when test="not(descendant::rdg)">
             <tr>
                 <td class="noVariant"><xsl:apply-templates/></td>
