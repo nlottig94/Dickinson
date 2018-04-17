@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+    <!-- Poem 1601 Image Mapping Code -->
+    <div id="dfMap">
+        <img src="img/1601/fs1601Map.jpg" alt="Image map for Poem 1" usemap="#fs1601Map" />
+        <map name="fs1601Map" id="fs1601Map">
+            <area alt="Before I got my eye put out&#8212;" title="Before I got my eye put out&#8212;" href="#fs1601Map" shape="rect" coords="322,64,332,75" />
+            <area alt="As other Creatures, that have Eyes&#8212;" title="As other Creatures, that have Eyes&#8212;" href="#fs1601Map" shape="rect" coords="114,108,208,127" />
+            <area alt="As other Creatures, that have Eyes&#8212;" title="As other Creatures, that have Eyes&#8212;" href="#fs1601Map" shape="rect" coords="308,108,344,133" />
+            <area alt="And know no other way&#8212;" title="And know no other way&#8212;" href="#fs1601Map" shape="rect" coords="287,144,297,155" />
+            <area alt="But were it told to me, Today," title="But were it told to me, Today," href="#fs1601Map" shape="rect" coords="272,178,342,198" />
+            <area alt="That I might have the Sky" title="That I might have the Sky" href="#fs1601Map" shape="rect" coords="275,199,313,226" />
+            <area alt="For mine, I tell you that my Heart" title="For mine, I tell you that my Heart" href="#fs1601Map" shape="rect" coords="95,235,105,245" />
+            <area alt="For mine, I tell you that my Heart" title="For mine, I tell you that my Heart" href="#fs1601Map" shape="rect" coords="9,246,64,268" />
+            <area alt="Would split, for size of me&#8212;" title="Would split, for size of me&#8212;" href="#fs1601Map" shape="rect" coords="320,274,334,291" />
+            <area alt="The Meadows&#8212;mine&#8212;" title="The Meadows&#8212;mine&#8212;" href="#fs1601Map" shape="rect" coords="8,311,264,339" />
+            <area alt="The Mountains&#8212;mine&#8212;" title="The Mountains&#8212;mine&#8212;" href="#fs1601Map" shape="rect" coords="10,340,291,358" />
+            <area alt="All Forests&#8212;Stintless Stars&#8212;" title="All Forests&#8212;Stintless Stars&#8212;" href="#fs1601Map" shape="rect" coords="5,362,324,386" />
+            <area alt="As much of noon, as I could take&#8212;" title="As much of noon, as I could take&#8212;" href="#fs1601Map" shape="rect" coords="164,390,345,408" />
+            <area alt="As much of noon, as I could take&#8212;" title="As much of noon, as I could take&#8212;" href="#fs1601Map" shape="rect" coords="10,410,60,432" />
+            <area alt="Between my finite Eyes&#8212;" title="Between my finite Eyes&#8212;" href="#fs1601Map" shape="rect" coords="231,433,291,456" />
+            <area alt="The Motions of the Dipping Birds&#8212;" title="The Motions of the Dipping Birds&#8212;" href="#fs1601Map" shape="rect" coords="10,475,321,501" />
+            <area alt="The Motions of the Dipping Birds&#8212;" title="The Motions of the Dipping Birds&#8212;" href="#fs1601Map" shape="rect" coords="12,503,87,520" />
+            <area alt="Morning's Amber Road&#8212;" title="Morning's Amber Road&#8212;" href="#fs1601Map" shape="rect" coords="98,502,335,521" />
+            <area alt="Lightning's jointed Road&#8212;" title="Lightning's jointed Road&#8212;" href="#fs1601Map" shape="rect" coords="49,520,317,545" />
+            <area alt="For mine&#8212;to look at when I liked" title="For mine&#8212;to look at when I liked" href="#fs1601Map" shape="rect" coords="9,569,337,618" />
+            <area alt="The news would strike me dead&#8212;" title="The news would strike me dead&#8212;" href="#fs1601Map" shape="rect" coords="54,621,106,643" />
+            <area alt="The news would strike me dead&#8212;" title="The news would strike me dead&#8212;" href="#fs1601Map" shape="rect" coords="67,649,78,661" />
+            <area alt="So safer&#8212;guess&#8212;with just my soul" title="So safer&#8212;guess&#8212;with just my soul" href="#fs1601Map" shape="rect" coords="11,685,208,713" />
+            <area alt="Upon the window pane" title="Upon the window pane" href="#fs1601Map" shape="rect" coords="118,738,255,756" />
+            <area alt="Where other Creatures put their Eyes" title="Where other Creatures put their Eyes" href="#fs1601Map" shape="rect" coords="154,758,249,784" />
+            <area alt="Where other Creatures put their Eyes" title="Where other Creatures put their Eyes" href="#fs1601Map" shape="rect" coords="71,783,125,809" />
+            <area alt="Incautious of the Sun&#8212;" title="Incautious of the Sun&#8212;" href="#fs1601Map" shape="rect" coords="108,817,116,826" />
+            <area alt="Incautious of the Sun&#8212;" title="Incautious of the Sun&#8212;" href="#fs1601Map" shape="rect" coords="224,806,277,828" />    
+        </map>
+    </div>
+    <div id="ceMap">
+        <img src="img/1601/1601ceMap.jpg" alt="" usemap="#fs1601ceMap" />
+        <map name="fs1601ceMap" id="fs1601ceMap">
+            <area alt="Original Dickinson: Before I got my eye put out&#8212;" title="Original Dickinson: Before I got my eye put out&#8212;" href="#fs1601ceMap" shape="rect" coords="233,34,241,43" />
+            <area alt="Original Dickinson: As other Creatures, that have Eyes&#8212;" title="As other Creatures, that have Eyes&#8212;" href="#fs1601ceMap" shape="rect" coords="118,60,165,71" />
+            <area alt="Original Dickinson: As other Creatures, that have Eyes&#8212;" title="Original Dickinson: As other Creatures, that have Eyes&#8212;" href="#fs1601ceMap" shape="rect" coords="212,59,239,71" />
+            <area alt="Original Dickinson: And know no other way&#8212;" title="Original Dickinson: And know no other way&#8212;" href="#fs1601ceMap" shape="rect" coords="191,78,197,85" />
+            <area alt="Original Dickinson: But were it told to me, Today," title="Original Dickinson: But were it told to me, Today," href="#fs1601ceMap" shape="rect" coords="181,97,224,108" />
+            <area alt="Original Dickinson: That I might have the Sky" title="Original Dickinson: That I might have the Sky" href="#fs1601ceMap" shape="rect" coords="186,113,205,123" />
+            <area alt="Original Dickinson: For mine, I tell you that my Heart" title="Original Dickinson: For mine, I tell you that my Heart" href="#fs1601ceMap" shape="rect" coords="120,134,126,140" />
+            <area alt="Original Dickinson: For mine, I tell you that my Heart" title="Original Dickinson: For mine, I tell you that my Heart" href="#fs1601ceMap" shape="rect" coords="211,123,243,135" />
+            <area alt="Original Dickinson: Would split, for size of me&#8212;" title="Original Dickinson: Would split, for size of me&#8212;" href="#fs1601ceMap" shape="rect" coords="205,143,210,151" />
+            <area alt="Original Dickinson: The Meadows&#8212;mine&#8212;/The Mountains&#8212;mine&#8212;" title="Original Dickinson: The Meadows&#8212;mine&#8212;/The Mountains&#8212;mine&#8212;" href="#fs1601ceMap" shape="rect" coords="71,162,298,177" />
+            <area alt="Original Dickinson: All Forests&#8212;Stintless Stars&#8212;" title="Original Dickinson: All Forests&#8212;Stintless Stars&#8212;" href="#fs1601ceMap" shape="rect" coords="73,180,207,191" />
+            <area alt="Original Dickinson: As much of noon, as I could take&#8212;" title="Original Dickinson: As much of noon, as I could take&#8212;" href="#fs1601ceMap" shape="rect" coords="135,193,238,205" />
+            <area alt="Original Dickinson: Between my finite Eyes&#8212;" title="Original Dickinson: Between my finite Eyes&#8212;" href="#fs1601ceMap" shape="rect" coords="167,208,195,220" />
+            <area alt="Original Dickinson: The Motions of the Dipping Birds&#8212;" title="Original Dickinson: The Motions of the Dipping Birds&#8212;" href="#fs1601ceMap" shape="rect" coords="84,320,278,336" />
+            <area alt="Original Dickinson: Morning's Amber Road&#8212; OR Lightning's jointed Road&#8212;" title="Original Dickinson: Morning's Amber Road&#8212; OR Lightning's jointed Road&#8212;" href="#fs1601ceMap" shape="rect" coords="112,338,249,350" />
+            <area alt="Original Dickinson: For mine&#8212;to look at when I liked" title="Original Dickinson: For mine&#8212;to look at when I liked" href="#fs1601ceMap" shape="rect" coords="87,352,284,367" />
+            <area alt="Original Dickinson: The news would strike me dead&#8212;" title="Original Dickinson: The news would strike me dead&#8212;v" href="#fs1601ceMap" shape="rect" coords="111,369,141,380" />
+            <area alt="Original Dickinson: The news would strike me dead&#8212;" title="Original Dickinson: The news would strike me dead&#8212;" href="#fs1601ceMap" shape="rect" coords="258,371,267,384" />
+            <area alt="Original Dickinson: So safer&#8212;guess&#8212;with just my soul" title="Original Dickinson: So safer&#8212;guess&#8212;with just my soul" href="#fs1601ceMap" shape="rect" coords="83,396,177,414" />
+            <area alt="Original Dickinson: Upon the window pane" title="Original Dickinson: Upon the window pane" href="#fs1601ceMap" shape="rect" coords="140,416,216,429" />
+            <area alt="Original Dickinson: Where other Creatures put their Eyes" title="Original Dickinson: Where other Creatures put their Eyes" href="#fs1601ceMap" shape="rect" coords="155,431,209,445" />
+            <area alt="Original Dickinson: Where other Creatures put their Eyes" title="Original Dickinson: Where other Creatures put their Eyes" href="#fs1601ceMap" shape="rect" coords="256,432,290,448" />
+            <area alt="Original Dickinson: Incautious of the Sun&#8212;" title="Original Dickinson: Incautious of the Sun&#8212;" href="#fs1601ceMap" shape="rect" coords="140,448,145,464" />
+            <area alt="Original Dickinson: Incautious of the Sun&#8212;" title="Original Dickinson: Incautious of the Sun&#8212;" href="#fs1601ceMap" shape="rect" coords="179,451,208,461" />
+        </map>
+    </div>
+    <div id="fhMap">
+        <img src="img/1601/1601fhMap.jpg" alt="" usemap="#fs1601fhMap" />
+        <map name="fs1601fhMap" id="fs1601fhMap">
+            <area alt="Original Dickinson: I liked as well to see" title="Original Dickinson: I liked as well to see" href="#fs1601fhMap" shape="rect" coords="171,85,182,90" />
+            <area alt="Original Dickinson: As other Creatures, that have Eyes&#8212;" title="Original Dickinson: As other Creatures, that have Eyes&#8212;" href="#fs1601fhMap" shape="rect" coords="120,92,170,107" />
+            <area alt="Original Dickinson: As other Creatures, that have Eyes&#8212;" title="Original Dickinson: As other Creatures, that have Eyes&#8212;" href="#fs1601fhMap" shape="rect" coords="214,91,241,108" />
+            <area alt="Original Dickinson: And know no other way&#8212;" title="Original Dickinson: And know no other way&#8212;" href="#fs1601fhMap" shape="rect" coords="192,112,202,119" />
+            <area alt="Original Dickinson: But were it told to me, Today," title="Original Dickinson: But were it told to me, Today," href="#fs1601fhMap" shape="rect" coords="180,124,232,143" />
+            <area alt="Original Dickinson: That I might have the Sky" title="Original Dickinson: That I might have the Sky" href="#fs1601fhMap" shape="rect" coords="123,159,133,166" />
+            <area alt="Original Dickinson: For mine, I tell you that my Heart" title="Original Dickinson: For mine, I tell you that my Heart" href="#fs1601fhMap" shape="rect" coords="185,144,202,155" />
+            <area alt="Original Dickinson: For mine, I tell you that my Heart" title="Original Dickinson: For mine, I tell you that my Heart" href="#fs1601fhMap" shape="rect" coords="212,153,244,168" />
+            <area alt="Original Dickinson: Would split, for size of me&#8212;" title="Original Dickinson: Would split, for size of me&#8212;" href="#fs1601fhMap" shape="rect" coords="200,173,211,179" />
+            <area alt="Original Dickinson: The Meadows&#8212;mine&#8212;" title="Original Dickinson: The Meadows&#8212;mine&#8212;" href="#fs1601fhMap" shape="rect" coords="79,186,192,200" />
+            <area alt="Original Dickinson: The Mountains&#8212;mine&#8212;" title="Original Dickinson: The Mountains&#8212;mine&#8212;" href="#fs1601fhMap" shape="rect" coords="80,202,196,213" />
+            <area alt="Original Dickinson: All Forests&#8212;Stintless Stars&#8212;" title="Original Dickinson: All Forests&#8212;Stintless Stars&#8212;" href="#fs1601fhMap" shape="rect" coords="79,214,212,227" />
+            <area alt="Original Dickinson: As much of noon, as I could take&#8212;" title="Original Dickinson: As much of noon, as I could take&#8212;" href="#fs1601fhMap" shape="rect" coords="135,229,234,242" />
+            <area alt="Original Dickinson: Between my finite Eyes&#8212;" title="Original Dickinson: Between my finite Eyes&#8212;" href="#fs1601fhMap" shape="rect" coords="165,245,188,256" />
+            <area alt="Original Dickinson: The Motions of the Dipping Birds&#8212;" title="Original Dickinson: The Motions of the Dipping Birds&#8212;" href="#fs1601fhMap" shape="rect" coords="78,260,250,278" />
+            <area alt="Original Dickinson: Morning's Amber Road&#8212; OR Lightning's jointed Road&#8212;" title="Original Dickinson: Morning's Amber Road&#8212; OR Lightning's jointed Road&#8212;" href="#fs1601fhMap" shape="rect" coords="106,276,223,288" />
+            <area alt="Original Dickinson: For mine&#8212;to look at when I liked" title="Original Dickinson: For mine&#8212;to look at when I liked" href="#fs1601fhMap" shape="rect" coords="80,289,245,302" />
+            <area alt="Original Dickinson: The news would strike me dead&#8212;" title="Original Dickinson: The news would strike me dead&#8212;" href="#fs1601fhMap" shape="rect" coords="105,301,132,317" />
+            <area alt="Original Dickinson: The news would strike me dead&#8212;" title="Original Dickinson: The news would strike me dead&#8212;" href="#fs1601fhMap" shape="rect" coords="230,307,239,314" />
+            <area alt="Original Dickinson: So safer&#8212;guess&#8212;with just my soul" title="Original Dickinson: So safer&#8212;guess&#8212;with just my soul" href="#fs1601fhMap" shape="rect" coords="79,322,163,337" />
+            <area alt="Original Dickinson: Upon the window pane" title="Original Dickinson: Upon the window pane" href="#fs1601fhMap" shape="rect" coords="128,338,203,350" />
+            <area alt="Original Dickinson: Where other Creatures put their Eyes" title="Original Dickinson: Where other Creatures put their Eyes" href="#fs1601fhMap" shape="rect" coords="145,350,188,364" />
+            <area alt="Original Dickinson: Where other Creatures put their Eyes" title="Original Dickinson: Where other Creatures put their Eyes" href="#fs1601fhMap" shape="rect" coords="230,351,263,366" />
+            <area alt="Original Dickinson: Incautious of the Sun&#8212;" title="Original Dickinson: Incautious of the Sun&#8212;" href="#fs1601fhMap" shape="rect" coords="130,368,140,375" />
+            <area alt="Original Dickinson: Incautious of the Sun&#8212;" title="Original Dickinson: Incautious of the Sun&#8212;" href="#fs1601fhMap" shape="rect" coords="168,364,198,376" />
+        </map>
+    </div>
+    <div id="poems2Map">
+        <img src="img/1601/1601poems2Map.jpg" alt="" usemap="#fs1601poems2Map" />
+        <map name="fs1601poems2Map" id="fs1601poems2Map">
+            <area alt="Original Dickinson: Before I got my eye put out&#8212;" title="Original Dickinson: Before I got my eye put out&#8212;" href="#fs1601poems2Map" shape="rect" coords="234,149,240,157" />
+            <area alt="Original Dickinson: As other Creatures, that have Eyes&#8212;" title="Original Dickinson: As other Creatures, that have Eyes&#8212;" href="#fs1601poems2Map" shape="rect" coords="131,172,173,184" />
+            <area alt="Original Dickinson: As other Creatures, that have Eyes&#8212;" title="Original Dickinson: As other Creatures, that have Eyes&#8212;" href="#fs1601poems2Map" shape="rect" coords="213,171,236,182" />
+            <area alt="Original Dickinson: And know no other way&#8212;" title="Original Dickinson: And know no other way&#8212;" href="#fs1601poems2Map" shape="rect" coords="195,188,199,193" />
+            <area alt="Original Dickinson: But were it told to me, Today," title="Original Dickinson: But were it told to me, Today," href="#fs1601poems2Map" shape="rect" coords="187,215,227,226" />
+            <area alt="Original Dickinson: That I might have the Sky" title="Original Dickinson: That I might have the Sky" href="#fs1601poems2Map" shape="rect" coords="190,228,205,237" />
+            <area alt="Original Dickinson: For mine, I tell you that my Heart" title="Original Dickinson: For mine, I tell you that my Heart" href="#fs1601poems2Map" shape="rect" coords="218,238,243,250" />
+            <area alt="Original Dickinson: For mine, I tell you that my Heart" title="Original Dickinson: For mine, I tell you that my Heart" href="#fs1601poems2Map" shape="rect" coords="133,245,136,251" />
+            <area alt="Original Dickinson: Would split, for size of me&#8212;" title="Original Dickinson: Would split, for size of me&#8212;" href="#fs1601poems2Map" shape="rect" coords="204,255,211,263" />
+            <area alt="Original Dickinson: The Meadows&#8212;mine&#8212;/The Mountains&#8212;mine&#8212;" title="Original Dickinson: The Meadows&#8212;mine&#8212;/The Mountains&#8212;mine&#8212;" href="#fs1601poems2Map" shape="rect" coords="91,284,282,297" />
+            <area alt="Original Dickinson: All Forests&#8212;Stintless Stars&#8212;" title="Original Dickinson: All Forests&#8212;Stintless Stars&#8212;" href="#fs1601poems2Map" shape="rect" coords="96,299,202,308" />
+            <area alt="Original Dickinson: As much of noon, as I could take&#8212;" title="Original Dickinson: As much of noon, as I could take&#8212;" href="#fs1601poems2Map" shape="rect" coords="147,309,237,320" />
+            <area alt="Original Dickinson: Between my finite Eyes&#8212;" title="Original Dickinson: Between my finite Eyes&#8212;" href="#fs1601poems2Map" shape="rect" coords="173,323,197,337" />
+            <area alt="Original Dickinson: The Motions of the Dipping Birds&#8212;" title="Original Dickinson: The Motions of the Dipping Birds&#8212;" href="#fs1601poems2Map" shape="rect" coords="73,452,228,466" />
+            <area alt="Original Dickinson: Morning's Amber Road&#8212; OR Lightning's jointed Road&#8212;" title="Original Dickinson: Morning's Amber Road&#8212; OR Lightning's jointed Road&#8212;" href="#fs1601poems2Map" shape="rect" coords="94,468,202,478" />
+            <area alt="Original Dickinson: For mine&#8212;to look at when I liked" title="Original Dickinson: For mine&#8212;to look at when I liked" href="#fs1601poems2Map" shape="rect" coords="74,477,243,491" />
+            <area alt="Original Dickinson: The news would strike me dead&#8212;" title="Original Dickinson: The news would strike me dead&#8212;" href="#fs1601poems2Map" shape="rect" coords="94,494,119,506" />
+            <area alt="Original Dickinson: The news would strike me dead&#8212;" title="Original Dickinson: The news would strike me dead&#8212;" href="#fs1601poems2Map" shape="rect" coords="216,492,221,503" />
+            <area alt="Original Dickinson: So safer&#8212;guess&#8212;with just my soul" title="Original Dickinson: So safer&#8212;guess&#8212;with just my soul" href="#fs1601poems2Map" shape="rect" coords="70,518,146,530" />
+            <area alt="Original Dickinson: Upon the window pane" title="Original Dickinson: Upon the window pane" href="#fs1601poems2Map" shape="rect" coords="118,531,182,543" />
+            <area alt="Original Dickinson: Where other Creatures put their Eyes" title="Original Dickinson: Where other Creatures put their Eyes" href="#fs1601poems2Map" shape="rect" coords="132,546,175,555" />
+            <area alt="Original Dickinson: Where other Creatures put their Eyes" title="Original Dickinson: Where other Creatures put their Eyes" href="#fs1601poems2Map" shape="rect" coords="216,543,241,554" />
+            <area alt="Original Dickinson: Incautious of the Sun&#8212;" title="Original Dickinson: Incautious of the Sun&#8212;" href="#fs1601poems2Map" shape="rect" coords="120,558,125,568" />
+            <area alt="Original Dickinson: Incautious of the Sun&#8212;" title="Original Dickinson: Incautious of the Sun&#8212;" href="#fs1601poems2Map" shape="rect" coords="150,558,175,568" />
+        </map>
+    </div>
+    
+    <!-- Poem 1602 Image Mapping Code -->
+    <div id="dfMap">
+        <img src="img/1602/fs1602Map.jpg" alt="" usemap="#fs1602Map" />
+        <map name="fs1602Map" id="fs1602Map">
+            <area alt="Of nearness to her Sundered Things" title="Of nearness to her Sundered Things" href="#fs1602Map" shape="rect" coords="212,46,328,69" />
+            <area alt="Of nearness to her Sundered Things" title="Of nearness to her Sundered Things" href="#fs1602Map" shape="rect" coords="15,70,77,98" />
+            <area alt="The Soul has special times&#8212;" title="The Soul has special times&#8212;" href="#fs1602Map" shape="rect" coords="299,103,316,121" />
+            <area alt="When Dimness&#8212;looks the Oddity&#8212;" title="When Dimness&#8212;looks the Oddity&#8212;" href="#fs1602Map" shape="rect" coords="155,129,168,137" />
+            <area alt="When Dimness&#8212;looks the Oddity&#8212;" title="When Dimness&#8212;looks the Oddity&#8212;" href="#fs1602Map" shape="rect" coords="284,116,344,149" />
+            <area alt="Distinctness&#8212;easy&#8212;seems&#8212;" title="Distinctness&#8212;easy&#8212;seems&#8212;" href="#fs1602Map" shape="rect" coords="7,137,275,169" />
+            <area alt="The Shapes we buried, dwell about," title="The Shapes we buried, dwell about," href="#fs1602Map" shape="rect" coords="57,182,127,210" />
+            <area alt="The Shapes we buried, dwell about," title="The Shapes we buried, dwell about," href="#fs1602Map" shape="rect" coords="186,184,335,215" />
+            <area alt="The Shapes we buried, dwell about," title="The Shapes we buried, dwell about," href="#fs1602Map" shape="rect" coords="1,210,67,236" />
+            <area alt="Familiar, in the Rooms&#8212;" title="Familiar, in the Rooms&#8212;" href="#fs1602Map" shape="rect" coords="93,244,104,257" />
+            <area alt="Familiar, in the Rooms&#8212;" title="Familiar, in the Rooms&#8212;" href="#fs1602Map" shape="rect" coords="204,231,277,255" />
+            <area alt="Untarnished by the Sepulchre," title="Untarnished by the Sepulchre," href="#fs1602Map" shape="rect" coords="210,257,323,283" />
+            <area alt="The Mouldering Playmate comes&#8212;" title="The Mouldering Playmate comes&#8212;" href="#fs1602Map" shape="rect" coords="1,279,44,304" />
+            <area alt="Mouldering Playmate comes&#8212;" title="Mouldering Playmate comes&#8212;" href="#fs1602Map" shape="rect" coords="46,279,345,310" />
+            <area alt="In just the Jacket that he wore&#8212;" title="In just the Jacket that he wore&#8212;" href="#fs1602Map" shape="rect" coords="157,322,327,352" />
+            <area alt="In just the Jacket that he wore&#8212;" title="In just the Jacket that he wore&#8212;" href="#fs1602Map" shape="rect" coords="4,349,65,375" />
+            <area alt="Long buttoned in the Mold" title="Long buttoned in the Mold" href="#fs1602Map" shape="rect" coords="212,370,288,397" />
+            <area alt="Since we&#8212;old mornings, Children&#8212;played&#8212;" title="Since we&#8212;old mornings, Children&#8212;played&#8212;" href="#fs1602Map" shape="rect" coords="1,396,277,441" />
+            <area alt="Divided by a world&#8212;" title="Divided by a world&#8212;" href="#fs1602Map" shape="rect" coords="5,442,265,475" />
+            <area alt="The Grave yields back her Robberies&#8212;" title="The Grave yields back her Robberies&#8212;" href="#fs1602Map" shape="rect" coords="4,484,313,536" />
+            <area alt="The Years, our pilfered Things&#8212;" title="The Years, our pilfered Things&#8212;" href="#fs1602Map" shape="rect" coords="8,575,343,613" />
+            <area alt="Bright Knots of Apparitions" title="Bright Knots of Apparitions" href="#fs1602Map" shape="rect" coords="6,611,320,643" />
+            <area alt="As we&#8212;it were&#8212;that perished&#8212;" title="As we&#8212;it were&#8212;that perished&#8212;" href="#fs1602Map" shape="rect" coords="4,689,348,725" />
+            <area alt="Themself&#8212;had just remained till we rejoin them&#8212;" title="Themself&#8212;had just remained till we rejoin them&#8212;" href="#fs1602Map" shape="rect" coords="4,723,316,783" />
+            <area alt="And 'twas they, and not ourself" title="And 'twas they, and not ourself" href="#fs1602Map" shape="rect" coords="3,786,323,845" />
+            <area alt="That mourned." title="That mourned." href="#fs1602Map" shape="rect" coords="17,843,210,871" />
+            <area alt="Our Mouldering Playmate comes&#8212;" title="Our Mouldering Playmate comes&#8212;" href="#fs1602Map" shape="rect" coords="13,898,109,938" />
+        </map>
+    </div>
+    <!--FP VERSION-->
+    <div id="fpMap">
+        <img src="img/1602/1602fpMap.jpg" alt="" usemap="#fs1602fpMap" />
+        <map name="fs1602fpMap" id="fs1602fpMap">
+            <area alt="Original Dickinson: Of nearness to her Sundered Things" title="Original Dickinson: Of nearness to her Sundered Things" href="#fs1602fpMap" shape="rect" coords="189,45,276,63" />
+            <area alt="Original Dickinson: The Soul has special times&#8212;" title="Original Dickinson: The Soul has special times&#8212;" href="#fs1602fpMap" shape="rect" coords="216,68,220,76" />
+            <area alt="Original Dickinson: When Dimness&#8212;looks the Oddity&#8212;" title="Original Dickinson: When Dimness&#8212;looks the Oddity&#8212;" href="#fs1602fpMap" shape="rect" coords="156,77,165,88" />
+            <area alt="Original Dickinson: When Dimness&#8212;looks the Oddity&#8212;" title="Original Dickinson: When Dimness&#8212;looks the Oddity&#8212;" href="#fs1602fpMap" shape="rect" coords="208,77,251,89" />
+            <area alt="Original Dickinson: Distinctness&#8212;easy&#8212;seems&#8212;" title="Original Dickinson: Distinctness&#8212;easy&#8212;seems&#8212;" href="#fs1602fpMap" shape="rect" coords="80,87,207,104" />
+            <area alt="Original Dickinson: The Shapes we buried, dwell about," title="Original Dickinson: The Shapes we buried, dwell about," href="#fs1602fpMap" shape="rect" coords="104,114,140,130" />
+            <area alt="Original Dickinson: The Shapes we buried, dwell about," title="Original Dickinson: The Shapes we buried, dwell about," href="#fs1602fpMap" shape="rect" coords="158,117,259,129" />
+            <area alt="Original Dickinson: Familiar, in the Rooms&#8212;" title="Original Dickinson: Familiar, in the Rooms&#8212;" href="#fs1602fpMap" shape="rect" coords="124,133,127,142" />
+            <area alt="Original Dickinson: Familiar, in the Rooms&#8212;" title="Original Dickinson: Familiar, in the Rooms&#8212;" href="#fs1602fpMap" shape="rect" coords="162,132,200,144" />
+            <area alt="Original Dickinson: Untarnished by the Sepulchre," title="Original Dickinson: Untarnished by the Sepulchre," href="#fs1602fpMap" shape="rect" coords="184,146,236,157" />
+            <area alt="Original Dickinson: The Mouldering Playmate comes&#8212; OR Our Mouldering Playmate comes&#8212;" title="Original Dickinson: The Mouldering Playmate comes&#8212; OR Our Mouldering Playmate comes&#8212;" href="#fs1602fpMap" shape="rect" coords="79,156,101,169" />
+            <area alt="Original Dickinson: The Mouldering Playmate comes&#8212; OR Our Mouldering Playmate comes&#8212;" title="Original Dickinson: The Mouldering Playmate comes&#8212; OR Our Mouldering Playmate comes&#8212;" href="#fs1602fpMap" shape="rect" coords="103,157,246,170" />
+            <area alt="Original Dickinson: In just the Jacket that he wore&#8212;" title="Original Dickinson: In just the Jacket that he wore&#8212;" href="#fs1602fpMap" shape="rect" coords="136,183,247,197" />
+            <area alt="Original Dickinson: Long buttoned in the Mold" title="Original Dickinson: Long buttoned in the Mold" href="#fs1602fpMap" shape="rect" coords="191,198,226,211" />
+            <area alt="Original Dickinson: Since we&#8212;old mornings, Children&#8212;played&#8212;" title="Original Dickinson: Since we&#8212;old mornings, Children&#8212;played&#8212;" href="#fs1602fpMap" shape="rect" coords="78,210,291,226" />
+            <area alt="Original Dickinson: Divided by a world&#8212;" title="Original Dickinson: Divided by a world&#8212;" href="#fs1602fpMap" shape="rect" coords="77,225,188,239" />
+            <area alt="Original Dickinson: The Grave yields back her Robberies&#8212;" title="Original Dickinson: The Grave yields back her Robberies&#8212;" href="#fs1602fpMap" shape="rect" coords="77,248,274,265" />
+            <area alt="Original Dickinson: The Years, our pilfered Things&#8212;" title="Original Dickinson: The Years, our pilfered Things&#8212;" href="#fs1602fpMap" shape="rect" coords="79,265,233,278" />
+            <area alt="Original Dickinson: Bright Knots of Apparitions" title="Original Dickinson: Bright Knots of Apparitions" href="#fs1602fpMap" shape="rect" coords="78,280,229,292" />
+            <area alt="Original Dickinson: As we&#8212;it were&#8212;that perished&#8212;" title="Original Dickinson: As we&#8212;it were&#8212;that perished&#8212;" href="#fs1602fpMap" shape="rect" coords="77,317,229,332" />
+            <area alt="Original Dickinson: Themself&#8212;had just remained till we rejoin them&#8212;" title="Original Dickinson: Themself&#8212;had just remained till we rejoin them&#8212;" href="#fs1602fpMap" shape="rect" coords="79,335,239,347" />
+            <area alt="Original Dickinson: Themself&#8212;had just remained till we rejoin them&#8212;" title="Original Dickinson: Themself&#8212;had just remained till we rejoin them&#8212;" href="#fs1602fpMap" shape="rect" coords="78,347,187,361" />
+            <area alt="Original Dickinson: And 'twas they, and not ourself" title="Original Dickinson: And 'twas they, and not ourself" href="#fs1602fpMap" shape="rect" coords="80,361,265,375" />
+            <area alt="Original Dickinson: That mourned." title="Original Dickinson: That mourned." href="#fs1602fpMap" shape="rect" coords="80,374,161,388" />
+        </map>
+    </div>
+    <!--FH VERSION-->
+    <div id="fhMap">
+        <img src="img/1602/1602fhMap.jpg" alt="" usemap="#fs1602fhMap" />
+        <map name="fs1602fhMap" id="fs1602fhMap">
+            <area alt="Original Dickinson: Of nearness to her Sundered Things" title="Original Dickinson: Of nearness to her Sundered Things" href="#fs1602fhMap" shape="rect" coords="139,41,224,55" />
+            <area alt="Original Dickinson: The Soul has special times&#8212;" title="Original Dickinson: The Soul has special times&#8212;" href="#fs1602fhMap" shape="rect" coords="178,58,186,67" />
+            <area alt="Original Dickinson: When Dimness&#8212;looks the Oddity&#8212;" title="Original Dickinson: When Dimness&#8212;looks the Oddity&#8212;" href="#fs1602fhMap" shape="rect" coords="130,72,138,82" />
+            <area alt="Original Dickinson: When Dimness&#8212;looks the Oddity&#8212;" title="Original Dickinson: When Dimness&#8212;looks the Oddity&#8212;" href="#fs1602fhMap" shape="rect" coords="181,69,227,85" />
+            <area alt="Original Dickinson: Distinctness&#8212;easy&#8212;seems&#8212;" title="Original Dickinson: Distinctness&#8212;easy&#8212;seems&#8212;" href="#fs1602fhMap" shape="rect" coords="53,80,191,99" />
+            <area alt="Original Dickinson: The Shapes we buried, dwell about," title="Original Dickinson: The Shapes we buried, dwell about," href="#fs1602fhMap" shape="rect" coords="76,103,114,115" />
+            <area alt="Original Dickinson: The Shapes we buried, dwell about," title="Original Dickinson: The Shapes we buried, dwell about," href="#fs1602fhMap" shape="rect" coords="127,101,226,118" />
+            <area alt="Original Dickinson: Familiar, in the Rooms&#8212;" title="Original Dickinson: Familiar, in the Rooms&#8212;" href="#fs1602fhMap" shape="rect" coords="94,124,99,129" />
+            <area alt="Original Dickinson: Familiar, in the Rooms&#8212;" title="Original Dickinson: Familiar, in the Rooms&#8212;" href="#fs1602fhMap" shape="rect" coords="129,119,174,129" />
+            <area alt="Original Dickinson: Untarnished by the Sepulchre," title="Original Dickinson: Untarnished by the Sepulchre," href="#fs1602fhMap" shape="rect" coords="148,130,203,142" />
+            <area alt="Original Dickinson: The Mouldering Playmate comes&#8212; OR Our Mouldering Playmate comes&#8212;" title="Original Dickinson: The Mouldering Playmate comes&#8212; OR Our Mouldering Playmate comes&#8212;" href="#fs1602fhMap" shape="rect" coords="56,143,79,157" />
+            <area alt="Original Dickinson: The Mouldering Playmate comes&#8212; OR Our Mouldering Playmate comes&#8212;" title="Original Dickinson: The Mouldering Playmate comes&#8212; OR Our Mouldering Playmate comes&#8212;" href="#fs1602fhMap" shape="rect" coords="80,143,220,158" />
+            <area alt="Original Dickinson: In just the Jacket that he wore&#8212;" title="Original Dickinson: In just the Jacket that he wore&#8212;" href="#fs1602fhMap" shape="rect" coords="106,235,209,251" />
+            <area alt="Original Dickinson: Long buttoned in the Mold" title="Original Dickinson: Long buttoned in the Mold" href="#fs1602fhMap" shape="rect" coords="158,249,188,266" />
+            <area alt="Original Dickinson: Since we&#8212;old mornings, Children&#8212;played&#8212;" title="Original Dickinson: Since we&#8212;old mornings, Children&#8212;played&#8212;" href="#fs1602fhMap" shape="rect" coords="57,262,272,279" />
+            <area alt="Original Dickinson: Divided by a world&#8212;" title="Original Dickinson: Divided by a world&#8212;" href="#fs1602fhMap" shape="rect" coords="59,277,166,292" />
+            <area alt="Original Dickinson: The Grave yields back her Robberies&#8212;" title="Original Dickinson: The Grave yields back her Robberies&#8212;" href="#fs1602fhMap" shape="rect" coords="55,300,241,316" />
+            <area alt="Original Dickinson: The Years, our pilfered Things&#8212;" title="Original Dickinson: The Years, our pilfered Things&#8212;" href="#fs1602fhMap" shape="rect" coords="56,317,210,329" />
+            <area alt="Original Dickinson: Bright Knots of Apparitions" title="Original Dickinson: Bright Knots of Apparitions" href="#fs1602fhMap" shape="rect" coords="57,328,189,344" />
+            <area alt="Original Dickinson: Salute us with their wings&#8212;" title="Original Dickinson: Salute us with their wings&#8212;" href="#fs1602fhMap" shape="rect" coords="100,349,106,358" />
+            <area alt="Original Dickinson: As we&#8212;it were&#8212;that perished&#8212;" title="Original Dickinson: As we&#8212;it were&#8212;that perished&#8212;" href="#fs1602fhMap" shape="rect" coords="59,365,208,379" />
+            <area alt="Original Dickinson: Themself&#8212;had just remained till we rejoin them&#8212;" title="Original Dickinson: Themself&#8212;had just remained till we rejoin them&#8212;" href="#fs1602fhMap" shape="rect" coords="57,379,292,393" />
+            <area alt="Original Dickinson: And 'twas they, and not ourself" title="Original Dickinson: And 'twas they, and not ourself" href="#fs1602fhMap" shape="rect" coords="57,391,205,404" />
+            <area alt="Original Dickinson: That mourned." title="Original Dickinson: That mourned." href="#fs1602fhMap" shape="rect" coords="59,408,133,419" />
+        </map>
+    </div>
+    <!--CE VERSION-->
+    <div id="ceMap">
+        <img src="img/1602/1602ceMap.jpg" alt="" usemap="#fs1602ceMap" />
+        <map name="fs1602ceMap" id="fs1602ceMap">
+            <area alt="Original Dickinson: Of nearness to her Sundered Things" title="Original Dickinson: Of nearness to her Sundered Things" href="#fs1602ceMap" shape="rect" coords="206,16,293,30" />
+            <area alt="Original Dickinson: The Soul has special times&#8212;" title="Original Dickinson: The Soul has special times&#8212;" href="#fs1602ceMap" shape="rect" coords="230,34,236,42" />
+            <area alt="Original Dickinson: When Dimness&#8212;looks the Oddity&#8212;" title="Original Dickinson: When Dimness&#8212;looks the Oddity&#8212;" href="#fs1602ceMap" shape="rect" coords="173,46,180,58" />
+            <area alt="Original Dickinson: When Dimness&#8212;looks the Oddity&#8212;" title="Original Dickinson: When Dimness&#8212;looks the Oddity&#8212;" href="#fs1602ceMap" shape="rect" coords="228,46,269,58" />
+            <area alt="Original Dickinson: Distinctness&#8212;easy&#8212;seems&#8212;" title="Original Dickinson: Distinctness&#8212;easy&#8212;seems&#8212;" href="#fs1602ceMap" shape="rect" coords="92,58,224,76" />
+            <area alt="Original Dickinson: The Shapes we buried, dwell about," title="Original Dickinson: The Shapes we buried, dwell about," href="#fs1602ceMap" shape="rect" coords="117,87,157,103" />
+            <area alt="Original Dickinson: The Shapes we buried, dwell about," title="Original Dickinson: The Shapes we buried, dwell about," href="#fs1602ceMap" shape="rect" coords="168,87,270,100" />
+            <area alt="Original Dickinson: Familiar, in the Rooms&#8212;" title="Original Dickinson: Familiar, in the Rooms&#8212;" href="#fs1602ceMap" shape="rect" coords="138,105,145,116" />
+            <area alt="Original Dickinson: Familiar, in the Rooms&#8212;" title="Original Dickinson: Familiar, in the Rooms&#8212;" href="#fs1602ceMap" shape="rect" coords="180,101,216,114" />
+            <area alt="Original Dickinson: Untarnished by the Sepulchre," title="Original Dickinson: Untarnished by the Sepulchre," href="#fs1602ceMap" shape="rect" coords="195,118,247,129" />
+            <area alt="Original Dickinson: The Mouldering Playmate comes&#8212; OR Our Mouldering Playmate comes&#8212;" title="Original Dickinson: The Mouldering Playmate comes&#8212; OR Our Mouldering Playmate comes&#8212;" href="#fs1602ceMap" shape="rect" coords="93,132,120,147" />
+            <area alt="Original Dickinson: The Mouldering Playmate comes&#8212; OR Our Mouldering Playmate comes&#8212;" title="Original Dickinson: The Mouldering Playmate comes&#8212; OR Our Mouldering Playmate comes&#8212;" href="#fs1602ceMap" shape="rect" coords="124,129,267,145" />
+            <area alt="Original Dickinson: In just the Jacket that he wore&#8212;" title="Original Dickinson: In just the Jacket that he wore&#8212;" href="#fs1602ceMap" shape="rect" coords="157,158,270,170" />
+            <area alt="Original Dickinson: Long buttoned in the Mold" title="Original Dickinson: Long buttoned in the Mold" href="#fs1602ceMap" shape="rect" coords="208,172,241,184" />
+            <area alt="Original Dickinson: Since we&#8212;old mornings, Children&#8212;played&#8212;" title="Original Dickinson: Since we&#8212;old mornings, Children&#8212;played&#8212;" href="#fs1602ceMap" shape="rect" coords="96,187,300,201" />
+            <area alt="Original Dickinson: Divided by a world&#8212;" title="Original Dickinson: Divided by a world&#8212;" href="#fs1602ceMap" shape="rect" coords="96,199,206,214" />
+            <area alt="Original Dickinson: The Grave yields back her Robberies&#8212;" title="Original Dickinson: The Grave yields back her Robberies&#8212;" href="#fs1602ceMap" shape="rect" coords="98,296,314,314" />
+            <area alt="Original Dickinson: The Years, our pilfered Things&#8212;" title="Original Dickinson: The Years, our pilfered Things&#8212;" href="#fs1602ceMap" shape="rect" coords="100,315,275,330" />
+            <area alt="Original Dickinson: Bright Knots of Apparitions" title="Original Dickinson: Bright Knots of Apparitions" href="#fs1602ceMap" shape="rect" coords="100,331,267,347" />
+            <area alt="Original Dickinson: As we&#8212;it were&#8212;that perished&#8212;" title="Original Dickinson: As we&#8212;it were&#8212;that perished&#8212;" href="#fs1602ceMap" shape="rect" coords="100,371,267,389" />
+            <area alt="Original Dickinson: Themself&#8212;had just remained till we rejoin them&#8212;/And 'twas they, and not ourself/That mourned." title="Original Dickinson: Themself&#8212;had just remained till we rejoin them&#8212;/And 'twas they, and not ourself/That mourned." href="#fs1602ceMap" shape="rect" coords="99,389,273,403" />
+            <area alt="Original Dickinson: Themself&#8212;had just remained till we rejoin them&#8212;/And 'twas they, and not ourself/That mourned." title="Original Dickinson: Themself&#8212;had just remained till we rejoin them&#8212;/And 'twas they, and not ourself/That mourned." href="#fs1602ceMap" shape="rect" coords="100,405,309,418" />
+            <area alt="Original Dickinson: Themself&#8212;had just remained till we rejoin them&#8212;/And 'twas they, and not ourself/That mourned." title="Original Dickinson: Themself&#8212;had just remained till we rejoin them&#8212;/And 'twas they, and not ourself/That mourned." href="#fs1602ceMap" shape="rect" coords="99,418,297,433" />
+        </map>
+    </div>
+    <!--AM VERSION-->
+    <div id="amMap">
+        <img src="img/1602/1602amMap.jpg" alt="" usemap="#fs1602amMap" />
+        <map name="fs1602amMap" id="fs1602amMap">
+            <area alt="Original Dickinson: Of nearness to her Sundered Things" title="Original Dickinson: Of nearness to her Sundered Things" href="#fs1602amMap" shape="rect" coords="185,83,261,96" />
+            <area alt="Original Dickinson: The Soul has special times&#8212;" title="Original Dickinson: The Soul has special times&#8212;" href="#fs1602amMap" shape="rect" coords="213,106,221,114" />
+            <area alt="Original Dickinson: When Dimness&#8212;looks the Oddity&#8212;" title="Original Dickinson: When Dimness&#8212;looks the Oddity&#8212;" href="#fs1602amMap" shape="rect" coords="166,119,172,132" />
+            <area alt="Original Dickinson: When Dimness&#8212;looks the Oddity&#8212;" title="Original Dickinson: When Dimness&#8212;looks the Oddity&#8212;" href="#fs1602amMap" shape="rect" coords="212,119,250,132" />
+            <area alt="Original Dickinson: Distinctness&#8212;easy&#8212;seems&#8212;" title="Original Dickinson: Distinctness&#8212;easy&#8212;seems&#8212;" href="#fs1602amMap" shape="rect" coords="94,133,213,153" />
+            <area alt="Original Dickinson: The Shapes we buried, dwell about," title="Original Dickinson: The Shapes we buried, dwell about," href="#fs1602amMap" shape="rect" coords="117,164,152,178" />
+            <area alt="Original Dickinson: The Shapes we buried, dwell about," title="Original Dickinson: The Shapes we buried, dwell about," href="#fs1602amMap" shape="rect" coords="165,163,257,177" />
+            <area alt="Original Dickinson: Familiar, in the Rooms&#8212;" title="Original Dickinson: Familiar, in the Rooms&#8212;" href="#fs1602amMap" shape="rect" coords="133,183,139,194" />
+            <area alt="Original Dickinson: Familiar, in the Rooms&#8212;" title="Original Dickinson: Familiar, in the Rooms&#8212;" href="#fs1602amMap" shape="rect" coords="166,183,202,195" />
+            <area alt="Original Dickinson: Untarnished by the Sepulchre," title="Original Dickinson: Untarnished by the Sepulchre," href="#fs1602amMap" shape="rect" coords="188,200,236,213" />
+            <area alt="Original Dickinson: The Mouldering Playmate comes&#8212; OR Our Mouldering Playmate comes&#8212;" title="Original Dickinson: The Mouldering Playmate comes&#8212; OR Our Mouldering Playmate comes&#8212;" href="#fs1602amMap" shape="rect" coords="92,214,116,233" />
+            <area alt="Original Dickinson: The Mouldering Playmate comes&#8212; OR Our Mouldering Playmate comes&#8212;" title="Original Dickinson: The Mouldering Playmate comes&#8212; OR Our Mouldering Playmate comes&#8212;" href="#fs1602amMap" shape="rect" coords="118,215,244,232" />
+            <area alt="Original Dickinson: In just the Jacket that he wore&#8212;" title="Original Dickinson: In just the Jacket that he wore&#8212;" href="#fs1602amMap" shape="rect" coords="145,243,244,259" />
+            <area alt="Original Dickinson: Long buttoned in the Mold" title="Original Dickinson: Long buttoned in the Mold" href="#fs1602amMap" shape="rect" coords="194,264,225,275" />
+            <area alt="Original Dickinson: Since we&#8212;old mornings, Children&#8212;played&#8212;" title="Original Dickinson: Since we&#8212;old mornings, Children&#8212;played&#8212;" href="#fs1602amMap" shape="rect" coords="92,276,280,294" />
+            <area alt="Original Dickinson: Divided by a world&#8212;" title="Original Dickinson: Divided by a world&#8212;" href="#fs1602amMap" shape="rect" coords="92,296,193,313" />
+            <area alt="Original Dickinson: The Grave yields back her Robberies&#8212;" title="Original Dickinson: The Grave yields back her Robberies&#8212;" href="#fs1602amMap" shape="rect" coords="91,321,264,339" />
+            <area alt="Original Dickinson: The Years, our pilfered Things&#8212;" title="Original Dickinson: The Years, our pilfered Things&#8212;" href="#fs1602amMap" shape="rect" coords="91,338,235,357" />
+            <area alt="Original Dickinson: Bright Knots of Apparitions" title="Original Dickinson: Bright Knots of Apparitions" href="#fs1602amMap" shape="rect" coords="90,357,226,376" />
+            <area alt="Original Dickinson: As we&#8212;it were&#8212;that perished&#8212;" title="Original Dickinson: As we&#8212;it were&#8212;that perished&#8212;" href="#fs1602amMap" shape="rect" coords="89,402,226,420" />
+            <area alt="Original Dickinson: Themself&#8212;had just remained till we rejoin them&#8212;" title="Original Dickinson: Themself&#8212;had just remained till we rejoin them&#8212;" href="#fs1602amMap" shape="rect" coords="90,422,236,437" />
+            <area alt="Original Dickinson: Themself&#8212;had just remained till we rejoin them&#8212;" title="Original Dickinson: Themself&#8212;had just remained till we rejoin them&#8212;" href="#fs1602amMap" shape="rect" coords="92,438,186,455" />
+            <area alt="Original Dickinson: And 'twas they, and not ourself" title="Original Dickinson: And 'twas they, and not ourself" href="#fs1602amMap" shape="rect" coords="92,456,261,473" />
+            <area alt="Original Dickinson: That mourned." title="Original Dickinson: That mourned." href="#fs1602amMap" shape="rect" coords="91,472,163,492" />
+        </map>
+    </div>
+    
+    <!-- Poem 1603 Image Mapping Code -->
+    <div id="dfMap">
+        <img src="img/1603/fs1603Map.jpg" alt="" usemap="#fs1603Map" />
+        <map name="fs1603Map" id="fs1603Map">
+            <area alt="Tie the Strings to my Life, My Lord," title="Tie the Strings to my Life, My Lord," href="#fs1603Map" shape="rect" coords="123,22,208,55" />
+            <area alt="Tie the Strings to my Life, My Lord," title="Tie the Strings to my Life, My Lord," href="#fs1603Map" shape="rect" coords="284,19,344,57" />
+            <area alt="Tie the Strings to my Life, My Lord," title="Tie the Strings to my Life, My Lord," href="#fs1603Map" shape="rect" coords="5,51,42,79" />
+            <area alt="Then, I am ready to go!" title="Then, I am ready to go!" href="#fs1603Map" shape="rect" coords="18,75,349,95" />
+            <area alt="Just look at the Horses&#8212;" title="Just look at the Horses&#8212;" href="#fs1603Map" shape="rect" coords="261,95,339,123" />
+            <area alt="Rapid! That will do!" title="Rapid! That will do!" href="#fs1603Map" shape="rect" coords="16,120,297,146" />
+            <area alt="Put me in on the firmest side&#8212;" title="Put me in on the firmest side&#8212;" href="#fs1603Map" shape="rect" coords="118,164,145,193" />
+            <area alt="Put me in on the firmest side&#8212;" title="Put me in on the firmest side&#8212;" href="#fs1603Map" shape="rect" coords="235,162,331,190" />
+            <area alt="Put me in on the firmest side&#8212;" title="Put me in on the firmest side&#8212;" href="#fs1603Map" shape="rect" coords="16,189,84,214" />
+            <area alt="So I shall never fall&#8212;" title="So I shall never fall&#8212;" href="#fs1603Map" shape="rect" coords="17,214,309,234" />
+            <area alt="For we must ride to the Judgment&#8212;" title="For we must ride to the Judgment&#8212;" href="#fs1603Map" shape="rect" coords="97,266,112,275" />
+            <area alt="And it's partly, down Hill&#8212;" title="And it's partly, down Hill&#8212;" href="#fs1603Map" shape="rect" coords="6,281,336,311" />
+            <area alt="But never I mind the steepest" title="But never I mind the steepest" href="#fs1603Map" shape="rect" coords="82,327,184,351" />
+            <area alt="But never I mind the steepest" title="But never I mind the steepest" href="#fs1603Map" shape="rect" coords="285,319,350,349" />
+            <area alt="And never I mind the Sea&#8212;" title="And never I mind the Sea&#8212;" href="#fs1603Map" shape="rect" coords="6,347,346,373" />
+            <area alt="Held fast in Everlasting Race&#8212;" title="Held fast in Everlasting Race&#8212;" href="#fs1603Map" shape="rect" coords="181,373,349,401" />
+            <area alt="By my own Choice, and Thee&#8212;" title="By my own Choice, and Thee&#8212;" href="#fs1603Map" shape="rect" coords="9,397,348,429" />
+            <area alt="Goodbye to the Life I used to live&#8212;" title="Goodbye to the Life I used to live&#8212;" href="#fs1603Map" shape="rect" coords="14,438,348,466" />
+            <area alt="And the World I used to know&#8212;" title="And the World I used to know&#8212;" href="#fs1603Map" shape="rect" coords="4,467,347,498" />
+            <area alt="And kiss the Hills, for me, just once&#8212;" title="And kiss the Hills, for me, just once&#8212;" href="#fs1603Map" shape="rect" coords="4,570,335,624" />
+            <area alt="Then&#8212;I am ready to go!" title="Then&#8212;I am ready to go!" href="#fs1603Map" shape="rect" coords="5,626,66,647" />
+            <area alt="Now I am ready to go!" title="Now I am ready to go!" href="#fs1603Map" shape="rect" coords="65,622,121,652" />
+            <area alt="Put me in on the tightest side&#8212;" title="Put me in on the tightest side&#8212;" href="#fs1603Map" shape="rect" coords="20,650,124,673" />
+            <area alt="Put me in on the highest&#8212;side&#8212;" title="Put me in on the highest&#8212;side&#8212;" href="#fs1603Map" shape="rect" coords="124,649,248,675" />
+            <area alt="And it's many a mile&#8212;the Hills&#8212;" title="And it's many a mile&#8212;the Hills&#8212;" href="#fs1603Map" shape="rect" coords="13,670,349,697" />
+            <area alt="But never I mind the Bridges" title="But never I mind the Bridges" href="#fs1603Map" shape="rect" coords="20,697,142,718" />
+            <area alt="Here's a keepsake for I am ready to go!" title="Here's a keepsake for I am ready to go!" href="#fs1603Map" shape="rect" coords="143,696,336,727" />
+        </map>
+    </div>
+    <!--POEMS3 VERSION-->
+    <div id="poems3Map">
+        <img src="img/1603/1603poems3Map.jpg" alt="" usemap="#fs1603poems3Map" />
+        <map name="fs1603poems3Map" id="fs1603poems3Map">
+            <area alt="Original Dickinson: Tie the Strings to my Life, My Lord," title="Original Dickinson: Tie the Strings to my Life, My Lord," href="#fs1603poems3Map" shape="rect" coords="159,54,187,66" />
+            <area alt="Original Dickinson: Tie the Strings to my Life, My Lord," title="Original Dickinson: Tie the Strings to my Life, My Lord," href="#fs1603poems3Map" shape="rect" coords="221,53,253,64" />
+            <area alt="Original Dickinson: Then, I am ready to go!" title="Original Dickinson: Then, I am ready to go!" href="#fs1603poems3Map" shape="rect" coords="135,66,245,79" />
+            <area alt="Original Dickinson: Just look at the Horses&#8212;" title="Original Dickinson: Just look at the Horses&#8212;" href="#fs1603poems3Map" shape="rect" coords="133,80,142,90" />
+            <area alt="Original Dickinson: Just look at the Horses&#8212;" title="Original Dickinson: Just look at the Horses&#8212;" href="#fs1603poems3Map" shape="rect" coords="189,82,214,90" />
+            <area alt="Original Dickinson: Rapid! That will do!" title="Original Dickinson: Rapid! That will do!" href="#fs1603poems3Map" shape="rect" coords="120,90,222,103" />
+            <area alt="Original Dickinson: Put me in on the firmest side&#8212; OR Put me in on the tightest side&#8212; OR Put me in on the highest&#8212;side&#8212;" title="Original Dickinson: Put me in on the firmest side&#8212; OR Put me in on the tightest side&#8212; OR Put me in on the highest&#8212;side&#8212;" href="#fs1603poems3Map" shape="rect" coords="149,112,159,125" />
+            <area alt="Original Dickinson: Put me in on the firmest side&#8212; OR Put me in on the tightest side&#8212; OR Put me in on the highest&#8212;side&#8212;" title="Original Dickinson: Put me in on the firmest side&#8212; OR Put me in on the tightest side&#8212; OR Put me in on the highest&#8212;side&#8212;" href="#fs1603poems3Map" shape="rect" coords="189,114,216,122" />
+            <area alt="Original Dickinson: Put me in on the firmest side&#8212; OR Put me in on the tightest side&#8212; OR Put me in on the highest&#8212;side&#8212;" title="Original Dickinson: Put me in on the firmest side&#8212; OR Put me in on the tightest side&#8212; OR Put me in on the highest&#8212;side&#8212;" href="#fs1603poems3Map" shape="rect" coords="220,113,239,122" />
+            <area alt="Original Dickinson: So I shall never fall&#8212;" title="Original Dickinson: So I shall never fall&#8212;" href="#fs1603poems3Map" shape="rect" coords="121,121,214,134" />
+            <area alt="Original Dickinson: For we must ride to the Judgment&#8212;" title="Original Dickinson: For we must ride to the Judgment&#8212;" href="#fs1603poems3Map" shape="rect" coords="257,142,265,148" />
+            <area alt="Original Dickinson: And it's partly, down Hill&#8212; OR And it's many a mile&#8212;the Hills&#8212;" title="Original Dickinson: And it's partly, down Hill&#8212; OR And it's many a mile&#8212;the Hills&#8212;" href="#fs1603poems3Map" shape="rect" coords="122,148,233,159" />
+            <area alt="Original Dickinson: But never I mind the steepest OR But never I mind the Bridges" title="Original Dickinson: But never I mind the steepest OR But never I mind the Bridges" href="#fs1603poems3Map" shape="rect" coords="133,167,165,178" />
+            <area alt="Original Dickinson: But never I mind the steepest OR But never I mind the Bridges" title="Original Dickinson: But never I mind the steepest OR But never I mind the Bridges" href="#fs1603poems3Map" shape="rect" coords="204,166,239,178" />
+            <area alt="Original Dickinson: And never I mind the Sea&#8212;" title="Original Dickinson: And never I mind the Sea&#8212;" href="#fs1603poems3Map" shape="rect" coords="126,182,241,190" />
+            <area alt="Original Dickinson: Held fast in Everlasting Race&#8212;" title="Original Dickinson: Held fast in Everlasting Race&#8212;" href="#fs1603poems3Map" shape="rect" coords="169,191,236,204" />
+            <area alt="Original Dickinson: By my own Choice, and Thee&#8212;" title="Original Dickinson: By my own Choice, and Thee&#8212;" href="#fs1603poems3Map" shape="rect" coords="127,206,246,217" />
+            <area alt="Original Dickinson: Goodbye to the Life I used to live&#8212;" title="Original Dickinson: Goodbye to the Life I used to live&#8212;" href="#fs1603poems3Map" shape="rect" coords="116,227,257,237" />
+            <area alt="Original Dickinson: And the World I used to know&#8212;" title="Original Dickinson: And the World I used to know&#8212;" href="#fs1603poems3Map" shape="rect" coords="125,239,259,249" />
+            <area alt="Original Dickinson: And kiss the Hills, for me, just once&#8212;" title="Original Dickinson: And kiss the Hills, for me, just once&#8212;" href="#fs1603poems3Map" shape="rect" coords="113,249,267,259" />
+            <area alt="Original Dickinson: Then&#8212;I am ready to go! OR Now I am ready to go! OR Here's a keepsake for I am ready to go!" title="Original Dickinson: Then&#8212;I am ready to go! OR Now I am ready to go! OR Here's a keepsake for I am ready to go!" href="#fs1603poems3Map" shape="rect" coords="126,262,146,272" />
+        </map>
+    </div>
+    <!--FH VERSION-->
+    <div id="fhMap">
+        <img src="img/1603/1603fhMap.jpg" alt="" usemap="#fs1603fhMap" />
+        <map name="fs1603fhMap" id="fs1603fhMap">
+            <area alt="Original Dickinson: Tie the Strings to my Life, My Lord," title="Original Dickinson: Tie the Strings to my Life, My Lord," href="#fs1603fhMap" shape="rect" coords="134,30,171,46" />
+            <area alt="Original Dickinson: Tie the Strings to my Life, My Lord," title="Original Dickinson: Tie the Strings to my Life, My Lord," href="#fs1603fhMap" shape="rect" coords="195,31,240,46" />
+            <area alt="Original Dickinson: Then, I am ready to go!" title="Original Dickinson: Then, I am ready to go!" href="#fs1603fhMap" shape="rect" coords="101,45,211,57" />
+            <area alt="Original Dickinson: Just look at the Horses&#8212;" title="Original Dickinson: Just look at the Horses&#8212;" href="#fs1603fhMap" shape="rect" coords="121,60,128,72" />
+            <area alt="Original Dickinson: Just look at the Horses&#8212;" title="Original Dickinson: Just look at the Horses&#8212;" href="#fs1603fhMap" shape="rect" coords="176,59,212,71" />
+            <area alt="Original Dickinson: Rapid! That will do!" title="Original Dickinson: Rapid! That will do!" href="#fs1603fhMap" shape="rect" coords="99,72,196,86" />
+            <area alt="Original Dickinson: Put me in on the firmest side&#8212; OR Put me in on the tightest side&#8212; OR Put me in on the highest&#8212;side&#8212;" title="Original Dickinson: Put me in on the firmest side&#8212; OR Put me in on the tightest side&#8212; OR Put me in on the highest&#8212;side&#8212;" href="#fs1603fhMap" shape="rect" coords="135,91,146,107" />
+            <area alt="Original Dickinson: Put me in on the firmest side&#8212; OR Put me in on the tightest side&#8212; OR Put me in on the highest&#8212;side&#8212;" title="Original Dickinson: Put me in on the firmest side&#8212; OR Put me in on the tightest side&#8212; OR Put me in on the highest&#8212;side&#8212;" href="#fs1603fhMap" shape="rect" coords="178,90,208,105" />
+            <area alt="Original Dickinson: Put me in on the firmest side&#8212; OR Put me in on the tightest side&#8212; OR Put me in on the highest&#8212;side&#8212;" title="Original Dickinson: Put me in on the firmest side&#8212; OR Put me in on the tightest side&#8212; OR Put me in on the highest&#8212;side&#8212;" href="#fs1603fhMap" shape="rect" coords="212,90,240,103" />
+            <area alt="Original Dickinson: So I shall never fall&#8212;" title="Original Dickinson: So I shall never fall&#8212;" href="#fs1603fhMap" shape="rect" coords="103,101,199,117" />
+            <area alt="Original Dickinson: For we must ride to the Judgment&#8212;" title="Original Dickinson: For we must ride to the Judgment&#8212;" href="#fs1603fhMap" shape="rect" coords="252,118,262,127" />
+            <area alt="Original Dickinson: And it's partly, down Hill&#8212; OR And it's many a mile&#8212;the Hills&#8212;" title="Original Dickinson: And it's partly, down Hill&#8212; OR And it's many a mile&#8212;the Hills&#8212;" href="#fs1603fhMap" shape="rect" coords="100,131,226,144" />
+            <area alt="Original Dickinson: But never I mind the steepest OR But never I mind the Bridges" title="Original Dickinson: But never I mind the steepest OR But never I mind the Bridges" href="#fs1603fhMap" shape="rect" coords="119,154,154,162" />
+            <area alt="Original Dickinson: But never I mind the steepest OR But never I mind the Bridges" title="Original Dickinson: But never I mind the steepest OR But never I mind the Bridges" href="#fs1603fhMap" shape="rect" coords="195,151,239,160" />
+            <area alt="Original Dickinson: And never I mind the Sea&#8212;" title="Original Dickinson: And never I mind the Sea&#8212;" href="#fs1603fhMap" shape="rect" coords="100,165,229,176" />
+            <area alt="Original Dickinson: Held fast in Everlasting Race&#8212;" title="Original Dickinson: Held fast in Everlasting Race&#8212;" href="#fs1603fhMap" shape="rect" coords="156,178,248,189" />
+            <area alt="Original Dickinson: By my own Choice, and Thee&#8212;" title="Original Dickinson: By my own Choice, and Thee&#8212;" href="#fs1603fhMap" shape="rect" coords="99,191,245,205" />
+            <area alt="Original Dickinson: Goodbye to the Life I used to live&#8212;" title="Original Dickinson: Goodbye to the Life I used to live&#8212;" href="#fs1603fhMap" shape="rect" coords="99,211,260,220" />
+            <area alt="Original Dickinson: And the World I used to know&#8212;" title="Original Dickinson: And the World I used to know&#8212;" href="#fs1603fhMap" shape="rect" coords="98,223,250,234" />
+            <area alt="Original Dickinson: And kiss the Hills, for me, just once&#8212;" title="Original Dickinson: And kiss the Hills, for me, just once&#8212;" href="#fs1603fhMap" shape="rect" coords="101,237,269,247" />
+            <area alt="Original Dickinson: Then&#8212;I am ready to go! OR Now I am ready to go! OR Here's a keepsake for I am ready to go!" title="Original Dickinson: Then&#8212;I am ready to go! OR Now I am ready to go! OR Here's a keepsake for I am ready to go!" href="#fs1603fhMap" shape="rect" coords="100,251,137,264" />
+        </map>
+    </div>
+    <!--CE VERSION-->
+    <div id="ceMap">
+        <img src="img/1603/1603ceMap.jpg" alt="" usemap="#fs1603ceMap" />
+        <map name="fs1603ceMap" id="fs1603ceMap">
+            <area alt="Original Dickinson: Tie the Strings to my Life, My Lord," title="Original Dickinson: Tie the Strings to my Life, My Lord," href="#fs1603ceMap" shape="rect" coords="150,20,185,33" />
+            <area alt="Original Dickinson: Tie the Strings to my Life, My Lord," title="Original Dickinson: Tie the Strings to my Life, My Lord," href="#fs1603ceMap" shape="rect" coords="211,19,249,36" />
+            <area alt="Original Dickinson: Then, I am ready to go!" title="Original Dickinson: Then, I am ready to go!" href="#fs1603ceMap" shape="rect" coords="113,31,225,48" />
+            <area alt="Original Dickinson: Just look at the Horses&#8212;" title="Original Dickinson: Just look at the Horses&#8212;" href="#fs1603ceMap" shape="rect" coords="124,49,133,58" />
+            <area alt="Original Dickinson: Just look at the Horses&#8212;" title="Original Dickinson: Just look at the Horses&#8212;" href="#fs1603ceMap" shape="rect" coords="183,49,215,58" />
+            <area alt="Original Dickinson: Rapid! That will do!" title="Original Dickinson: Rapid! That will do!" href="#fs1603ceMap" shape="rect" coords="109,56,223,72" />
+            <area alt="Original Dickinson: Put me in on the firmest side&#8212; OR Put me in on the tightest side&#8212; OR Put me in on the highest&#8212;side&#8212;" title="Original Dickinson: Put me in on the firmest side&#8212; OR Put me in on the tightest side&#8212; OR Put me in on the highest&#8212;side&#8212;" href="#fs1603ceMap" shape="rect" coords="167,77,198,90" />
+            <area alt="Original Dickinson: Put me in on the firmest side&#8212; OR Put me in on the tightest side&#8212; OR Put me in on the highest&#8212;side&#8212;" title="Original Dickinson: Put me in on the firmest side&#8212; OR Put me in on the tightest side&#8212; OR Put me in on the highest&#8212;side&#8212;" href="#fs1603ceMap" shape="rect" coords="199,76,221,89" />
+            <area alt="Original Dickinson: So I shall never fall&#8212;" title="Original Dickinson: So I shall never fall&#8212;" href="#fs1603ceMap" shape="rect" coords="111,89,218,105" />
+            <area alt="Original Dickinson: For we must ride to the Judgment&#8212;" title="Original Dickinson: For we must ride to the Judgment&#8212;" href="#fs1603ceMap" shape="rect" coords="112,116,231,129" />
+            <area alt="Original Dickinson: And it's partly, down Hill&#8212; OR And it's many a mile&#8212;the Hills&#8212;" title="Original Dickinson: And it's partly, down Hill&#8212; OR And it's many a mile&#8212;the Hills&#8212;" href="#fs1603ceMap" shape="rect" coords="256,110,263,117" />
+            <area alt="Original Dickinson: But never I mind the steepest OR But never I mind the Bridges" title="Original Dickinson: But never I mind the steepest OR But never I mind the Bridges" href="#fs1603ceMap" shape="rect" coords="123,137,159,148" />
+            <area alt="Original Dickinson: But never I mind the steepest OR But never I mind the Bridges" title="Original Dickinson: But never I mind the steepest OR But never I mind the Bridges" href="#fs1603ceMap" shape="rect" coords="199,136,239,149" />
+            <area alt="Original Dickinson: And never I mind the Sea&#8212;" title="Original Dickinson: And never I mind the Sea&#8212;" href="#fs1603ceMap" shape="rect" coords="110,150,237,160" />
+            <area alt="Original Dickinson: Held fast in Everlasting Race&#8212;" title="Original Dickinson: Held fast in Everlasting Race&#8212;" href="#fs1603ceMap" shape="rect" coords="160,162,234,173" />
+            <area alt="Original Dickinson: By my own Choice, and Thee&#8212;" title="Original Dickinson: By my own Choice, and Thee&#8212;" href="#fs1603ceMap" shape="rect" coords="114,173,237,186" />
+            <area alt="Original Dickinson: Goodbye to the Life I used to live&#8212;" title="Original Dickinson: Goodbye to the Life I used to live&#8212;" href="#fs1603ceMap" shape="rect" coords="101,193,251,206" />
+            <area alt="Original Dickinson: And the World I used to know&#8212;" title="Original Dickinson: And the World I used to know&#8212;" href="#fs1603ceMap" shape="rect" coords="110,207,248,217" />
+            <area alt="Original Dickinson: And kiss the Hills, for me, just once&#8212;" title="Original Dickinson: And kiss the Hills, for me, just once&#8212;" href="#fs1603ceMap" shape="rect" coords="100,220,262,231" />
+            <area alt="Original Dickinson: Then&#8212;I am ready to go! OR Now I am ready to go! OR Here's a keepsake for I am ready to go!" title="Original Dickinson: Then&#8212;I am ready to go! OR Now I am ready to go! OR Here's a keepsake for I am ready to go!" href="#fs1603ceMap" shape="rect" coords="110,232,137,243" />
+        </map>
+    </div>
+    
+    <!-- Poem 1604 Image Mapping Code -->
+    <div id="dfMap">
+        <img src="img/1604/fs1604Map.jpg" alt="" usemap="#fs1604Map" />
+        <map name="fs1604Map" id="fs1604Map">
+            <area alt="I like a look of Agony," title="I like a look of Agony," href="#fs1604Map" shape="rect" coords="260,17,337,49" />
+            <area alt="Because I know it's true&#8212;" title="Because I know it's true&#8212;" href="#fs1604Map" shape="rect" coords="320,53,334,68" />
+            <area alt="Men do not sham Convulsion," title="Men do not sham Convulsion," href="#fs1604Map" shape="rect" coords="235,61,339,96" />
+            <area alt="Nor simulate a Throe&#8212;" title="Nor simulate a Throe&#8212;" href="#fs1604Map" shape="rect" coords="189,91,318,116" />
+            <area alt="The Eyes glaze once&#8212;and&#8212;that is Death&#8212;" title="The Eyes glaze once&#8212;and&#8212;that is Death&#8212;" href="#fs1604Map" shape="rect" coords="261,158,348,190" />
+            <area alt="The Eyes glaze once&#8212;and&#8212;that is Death&#8212;" title="The Eyes glaze once&#8212;and&#8212;that is Death&#8212;" href="#fs1604Map" shape="rect" coords="10,181,221,206" />
+            <area alt="The Beads upon the Forehead" title="The Beads upon the Forehead" href="#fs1604Map" shape="rect" coords="5,227,344,253" />
+            <area alt="By homely Anguish strung." title="By homely Anguish strung." href="#fs1604Map" shape="rect" coords="147,257,238,283" />
+        </map>
+    </div>
+    <!--POEMS1 VERSION-->
+    <div id="poems1Map">
+        <img src="img/1604/1604poems1Map.jpg" alt="" usemap="#fs1604poems1Map" />
+        <map name="fs1604poems1Map" id="fs1604poems1Map">
+            <area alt="Original Dickinson: I like a look of Agony," title="Original Dickinson: I like a look of Agony," href="#fs1604poems1Map" shape="rect" coords="151,125,177,135" />
+            <area alt="Original Dickinson: Because I know it's true&#8212;" title="Original Dickinson: Because I know it's true&#8212;" href="#fs1604poems1Map" shape="rect" coords="196,137,201,148" />
+            <area alt="Original Dickinson: Men do not sham Convulsion," title="Original Dickinson: Men do not sham Convulsion," href="#fs1604poems1Map" shape="rect" coords="145,148,195,160" />
+            <area alt="Original Dickinson: Nor simulate a Throe&#8212;" title="Original Dickinson: Nor simulate a Throe&#8212;" href="#fs1604poems1Map" shape="rect" coords="123,159,165,173" />
+            <area alt="Original Dickinson: The Eyes glaze once&#8212;and&#8212;that is Death&#8212;" title="Original Dickinson: The Eyes glaze once&#8212;and&#8212;that is Death&#8212;" href="#fs1604poems1Map" shape="rect" coords="154,183,238,196" />
+            <area alt="Original Dickinson: The Beads upon the Forehead" title="Original Dickinson: The Beads upon the Forehead" href="#fs1604poems1Map" shape="rect" coords="67,207,199,223" />
+            <area alt="Original Dickinson: By homely Anguish strung." title="Original Dickinson: By homely Anguish strung." href="#fs1604poems1Map" shape="rect" coords="117,222,153,235" />
+        </map>
+    </div>
+    <!--FH VERSION-->
+    <div id="fhMap">
+        <img src="img/1604/1604fhMap.jpg" alt="" usemap="#fs1604fhMap" />
+        <map name="fs1604fhMap" id="fs1604fhMap">
+            <area alt="Original Dickinson: I like a look of Agony," title="Original Dickinson: I like a look of Agony," href="#fs1604fhMap" shape="rect" coords="129,32,163,48" />
+            <area alt="Original Dickinson: Because I know it's true&#8212;" title="Original Dickinson: Because I know it's true&#8212;" href="#fs1604fhMap" shape="rect" coords="172,50,185,58" />
+            <area alt="Original Dickinson: Men do not sham Convulsion," title="Original Dickinson: Men do not sham Convulsion," href="#fs1604fhMap" shape="rect" coords="168,142,227,156" />
+            <area alt="Original Dickinson: Nor simulate a Throe&#8212;" title="Original Dickinson: Nor simulate a Throe&#8212;" href="#fs1604fhMap" shape="rect" coords="149,158,202,174" />
+            <area alt="Original Dickinson: The Eyes glaze once&#8212;and&#8212;that is Death&#8212;" title="Original Dickinson: The Eyes glaze once&#8212;and&#8212;that is Death&#8212;" href="#fs1604fhMap" shape="rect" coords="182,175,286,191" />
+            <area alt="Original Dickinson: The Beads upon the Forehead" title="Original Dickinson: The Beads upon the Forehead" href="#fs1604fhMap" shape="rect" coords="91,204,233,219" />
+            <area alt="Original Dickinson: By homely Anguish strung." title="Original Dickinson: By homely Anguish strung." href="#fs1604fhMap" shape="rect" coords="141,219,181,229" />
+        </map>
+    </div>
+    <!--CE VERSION-->
+    <div id="ceMap">
+        <img src="img/1604/1604ceMap.jpg" alt="" usemap="#fs1604ceMap" />
+        <map name="fs1604ceMap" id="fs1604ceMap">
+            <area alt="Original Dickinson: I like a look of Agony," title="Original Dickinson: I like a look of Agony," href="#fs1604ceMap" shape="rect" coords="166,18,197,32" />
+            <area alt="Original Dickinson: Because I know it's true&#8212;" title="Original Dickinson: Because I know it's true&#8212;" href="#fs1604ceMap" shape="rect" coords="189,35,194,43" />
+            <area alt="Original Dickinson: Men do not sham Convulsion," title="Original Dickinson: Men do not sham Convulsion," href="#fs1604ceMap" shape="rect" coords="168,42,217,58" />
+            <area alt="Original Dickinson: Nor simulate a Throe&#8212;" title="Original Dickinson: Nor simulate a Throe&#8212;" href="#fs1604ceMap" shape="rect" coords="141,56,182,67" />
+            <area alt="Original Dickinson: The Eyes glaze once&#8212;and&#8212;that is Death&#8212;" title="Original Dickinson: The Eyes glaze once&#8212;and&#8212;that is Death&#8212;" href="#fs1604ceMap" shape="rect" coords="193,146,276,160" />
+            <area alt="Original Dickinson: The Beads upon the Forehead" title="Original Dickinson: The Beads upon the Forehead" href="#fs1604ceMap" shape="rect" coords="107,171,238,182" />
+            <area alt="Original Dickinson: By homely Anguish strung." title="Original Dickinson: By homely Anguish strung." href="#fs1604ceMap" shape="rect" coords="158,185,195,198" />
+        </map>
+    </div>
+    
+    <!-- Poem 1605 Image Mapping Code -->
+    <div id="dfMap">
+        <img src="img/1605/fs1605Map.jpg" alt="" usemap="#fs1605Map" />
+        <map name="fs1605Map" id="fs1605Map">
+            <area alt="I felt a Funeral, in my Brain," title="I felt a Funeral, in my Brain," href="#fs1605Map" shape="rect" coords="122,39,349,78" />
+            <area alt="And Mourners to and fro" title="And Mourners to and fro" href="#fs1605Map" shape="rect" coords="3,69,318,96" />
+            <area alt="Kept treading&#8212;treading&#8212;till it seemed" title="Kept treading&#8212;treading&#8212;till it seemed" href="#fs1605Map" shape="rect" coords="11,91,340,141" />
+            <area alt="That Sense was breaking through&#8212;" title="That Sense was breaking through&#8212;" href="#fs1605Map" shape="rect" coords="1,136,348,167" />
+            <area alt="A Service, like a Drum&#8212;" title="A Service, like a Drum&#8212;" href="#fs1605Map" shape="rect" coords="4,210,313,236" />
+            <area alt="My Mind was going numb&#8212;" title="My Mind was going numb&#8212;" href="#fs1605Map" shape="rect" coords="5,275,330,306" />
+            <area alt="And then I heard them lift a Box" title="And then I heard them lift a Box" href="#fs1605Map" shape="rect" coords="107,347,159,376" />
+            <area alt="And creak across my Soul" title="And creak across my Soul" href="#fs1605Map" shape="rect" coords="6,372,336,417" />
+            <area alt="With those same Boots of lead, again," title="With those same Boots of lead, again," href="#fs1605Map" shape="rect" coords="227,418,344,454" />
+            <area alt="With those same Boots of lead, again," title="With those same Boots of lead, again," href="#fs1605Map" shape="rect" coords="8,440,139,466" />
+            <area alt="Then Space began to toll," title="Then Space began to toll," href="#fs1605Map" shape="rect" coords="9,463,335,495" />
+            <area alt="As all the Heavens were a Bell," title="As all the Heavens were a Bell," href="#fs1605Map" shape="rect" coords="171,558,334,590" />
+            <area alt="As all the Heavens were a Bell," title="As all the Heavens were a Bell," href="#fs1605Map" shape="rect" coords="12,588,100,618" />
+            <area alt="And Being, but an Ear," title="And Being, but an Ear," href="#fs1605Map" shape="rect" coords="6,618,326,653" />
+            <area alt="And I, and Silence, some strange Race" title="And I, and Silence, some strange Race" href="#fs1605Map" shape="rect" coords="4,652,346,708" />
+            <area alt="Wrecked, solitary, here&#8212;" title="Wrecked, solitary, here&#8212;" href="#fs1605Map" shape="rect" coords="4,708,301,754" />
+            <area alt="And hit a World, at every plunge," title="And hit a World, at every plunge," href="#fs1605Map" shape="rect" coords="4,917,96,951" />
+            <area alt="And Finished knowing&#8212;then&#8212;" title="And Finished knowing&#8212;then&#8212;" href="#fs1605Map" shape="rect" coords="62,950,161,979" />
+            <area alt="And hit a World, at every Crash&#8212;" title="And hit a World, at every Crash&#8212;" href="#fs1605Map" shape="rect" coords="1,981,93,1018" />
+            <area alt="And Got through&#8212;knowing&#8212;then&#8212;" title="And Got through&#8212;knowing&#8212;then&#8212;" href="#fs1605Map" shape="rect" coords="96,980,253,1020" />
+        </map>
+    </div>
+    <!--POEMS3 VERSION-->
+    <div id="poems3Map">
+        <img src="img/1605/1605poems3Map.jpg" alt="" usemap="#fs1605poems3Map" />
+        <map name="fs1605poems3Map" id="fs1605poems3Map">
+            <area alt="Original Dickinson: I felt a Funeral, in my Brain," title="Original Dickinson: I felt a Funeral, in my Brain," href="#fs1605poems3Map" shape="rect" coords="157,105,244,117" />
+            <area alt="Original Dickinson: And Mourners to and fro" title="Original Dickinson: And Mourners to and fro" href="#fs1605poems3Map" shape="rect" coords="134,117,249,128" />
+            <area alt="Original Dickinson: Kept treading&#8212;treading&#8212;till it seemed" title="Original Dickinson: Kept treading&#8212;treading&#8212;till it seemed" href="#fs1605poems3Map" shape="rect" coords="104,129,264,141" />
+            <area alt="Original Dickinson: That Sense was breaking through&#8212;" title="Original Dickinson: That Sense was breaking through&#8212;" href="#fs1605poems3Map" shape="rect" coords="115,140,258,155" />
+            <area alt="Original Dickinson: A Service, like a Drum&#8212;" title="Original Dickinson: A Service, like a Drum&#8212;" href="#fs1605poems3Map" shape="rect" coords="114,178,210,191" />
+            <area alt="Original Dickinson: Kept beating&#8212;beating&#8212;till I thought" title="Original Dickinson: Kept beating&#8212;beating&#8212;till I thought" href="#fs1605poems3Map" shape="rect" coords="128,191,203,201" />
+            <area alt="Original Dickinson: My Mind was going numb&#8212;" title="Original Dickinson: My Mind was going numb&#8212;" href="#fs1605poems3Map" shape="rect" coords="112,202,232,215" />
+            <area alt="Original Dickinson: And then I heard them lift a Box" title="Original Dickinson: And then I heard them lift a Box" href="#fs1605poems3Map" shape="rect" coords="226,227,249,235" />
+            <area alt="Original Dickinson: And creak across my Soul" title="Original Dickinson: And creak across my Soul" href="#fs1605poems3Map" shape="rect" coords="116,236,228,248" />
+            <area alt="Original Dickinson: With those same Boots of lead, again," title="Original Dickinson: With those same Boots of lead, again," href="#fs1605poems3Map" shape="rect" coords="178,251,265,264" />
+            <area alt="Original Dickinson: Then Space began to toll," title="Original Dickinson: Then Space began to toll," href="#fs1605poems3Map" shape="rect" coords="114,263,226,273" />
+            <area alt="Original Dickinson: As all the Heavens were a Bell," title="Original Dickinson: As all the Heavens were a Bell," href="#fs1605poems3Map" shape="rect" coords="149,282,238,296" />
+            <area alt="Original Dickinson: And Being, but an Ear," title="Original Dickinson: And Being, but an Ear," href="#fs1605poems3Map" shape="rect" coords="114,296,210,308" />
+            <area alt="Original Dickinson: And I, and Silence, some strange Race" title="Original Dickinson: And I, and Silence, some strange Race" href="#fs1605poems3Map" shape="rect" coords="106,308,266,323" />
+            <area alt="Original Dickinson: Wrecked, solitary, here&#8212;" title="Original Dickinson: Wrecked, solitary, here&#8212;" href="#fs1605poems3Map" shape="rect" coords="114,324,219,336" />
+        </map>
+    </div>
+    <!--FH VERSION-->
+    <div id="fhMap">
+        <img src="img/1605/1605fhMap.jpg" alt="" usemap="#fs1605fhMap" />
+        <map name="fs1605fhMap" id="fs1605fhMap">
+            <area alt="Original Dickinson: I felt a Funeral, in my Brain," title="Original Dickinson: I felt a Funeral, in my Brain," href="#fs1605fhMap" shape="rect" coords="59,41,162,54" />
+            <area alt="Original Dickinson: And Mourners to and fro" title="Original Dickinson: And Mourners to and fro" href="#fs1605fhMap" shape="rect" coords="25,58,151,72" />
+            <area alt="Original Dickinson: Kept treading&#8212;treading&#8212;till it seemed" title="Original Dickinson: Kept treading&#8212;treading&#8212;till it seemed" href="#fs1605fhMap" shape="rect" coords="94,128,282,143" />
+            <area alt="Original Dickinson: That Sense was breaking through&#8212;" title="Original Dickinson: That Sense was breaking through&#8212;" href="#fs1605fhMap" shape="rect" coords="99,146,268,159" />
+            <area alt="Original Dickinson: A Service, like a Drum&#8212;" title="Original Dickinson: A Service, like a Drum&#8212;" href="#fs1605fhMap" shape="rect" coords="94,175,216,193" />
+            <area alt="Original Dickinson: Kept beating&#8212;beating&#8212;till I thought" title="Original Dickinson: Kept beating&#8212;beating&#8212;till I thought" href="#fs1605fhMap" shape="rect" coords="124,192,218,206" />
+            <area alt="Original Dickinson: My Mind was going numb&#8212;" title="Original Dickinson: My Mind was going numb&#8212;" href="#fs1605fhMap" shape="rect" coords="95,203,231,219" />
+            <area alt="Original Dickinson: And then I heard them lift a Box" title="Original Dickinson: And then I heard them lift a Box" href="#fs1605fhMap" shape="rect" coords="231,228,250,242" />
+            <area alt="Original Dickinson: And creak across my Soul" title="Original Dickinson: And creak across my Soul" href="#fs1605fhMap" shape="rect" coords="94,237,219,254" />
+            <area alt="Original Dickinson: With those same Boots of lead, again," title="Original Dickinson: With those same Boots of lead, again," href="#fs1605fhMap" shape="rect" coords="176,254,276,268" />
+            <area alt="Original Dickinson: Then Space began to toll," title="Original Dickinson: Then Space began to toll," href="#fs1605fhMap" shape="rect" coords="96,266,234,285" />
+            <area alt="Original Dickinson: As all the Heavens were a Bell," title="Original Dickinson: As all the Heavens were a Bell," href="#fs1605fhMap" shape="rect" coords="141,290,242,302" />
+            <area alt="Original Dickinson: And Being, but an Ear," title="Original Dickinson: And Being, but an Ear," href="#fs1605fhMap" shape="rect" coords="95,301,213,314" />
+            <area alt="Original Dickinson: And I, and Silence, some strange Race" title="Original Dickinson: And I, and Silence, some strange Race" href="#fs1605fhMap" shape="rect" coords="95,315,274,329" />
+            <area alt="Original Dickinson: Wrecked, solitary, here&#8212;" title="Original Dickinson: Wrecked, solitary, here&#8212;" href="#fs1605fhMap" shape="rect" coords="93,330,217,344" />
+            <area alt="Original Dickinson: And hit a World, at every plunge, OR And hit a World, at every Crash&#8212;" title="Original Dickinson: And hit a World, at every plunge, OR And hit a World, at every Crash&#8212;" href="#fs1605fhMap" shape="rect" coords="218,379,255,393" />
+            <area alt="Original Dickinson: And Finished knowing&#8212;then&#8212; OR And Got through&#8212;knowing&#8212;then&#8212;" title="Original Dickinson: And Finished knowing&#8212;then&#8212; OR And Got through&#8212;knowing&#8212;then&#8212;" href="#fs1605fhMap" shape="rect" coords="119,393,160,404" />
+        </map>
+    </div>
+    <!--CE VERSION-->
+    <div id="ceMap">
+        <img src="img/1605/1605ceMap.jpg" alt="" usemap="#fs1605ceMap" />
+        <map name="fs1605ceMap" id="fs1605ceMap">
+            <area alt="Original Dickinson: I felt a Funeral, in my Brain," title="Original Dickinson: I felt a Funeral, in my Brain," href="#fs1605ceMap" shape="rect" coords="110,27,205,39" />
+            <area alt="Original Dickinson: And Mourners to and fro" title="Original Dickinson: And Mourners to and fro" href="#fs1605ceMap" shape="rect" coords="69,40,194,53" />
+            <area alt="Original Dickinson: Kept treading&#8212;treading&#8212;till it seemed" title="Original Dickinson: Kept treading&#8212;treading&#8212;till it seemed" href="#fs1605ceMap" shape="rect" coords="56,51,227,64" />
+            <area alt="Original Dickinson: That Sense was breaking through&#8212;" title="Original Dickinson: That Sense was breaking through&#8212;" href="#fs1605ceMap" shape="rect" coords="67,65,227,79" />
+            <area alt="Original Dickinson: A Service, like a Drum&#8212;" title="Original Dickinson: A Service, like a Drum&#8212;" href="#fs1605ceMap" shape="rect" coords="67,98,169,109" />
+            <area alt="Original Dickinson: Kept beating&#8212;beating&#8212;till I thought" title="Original Dickinson: Kept beating&#8212;beating&#8212;till I thought" href="#fs1605ceMap" shape="rect" coords="84,114,159,124" />
+            <area alt="Original Dickinson: My Mind was going numb&#8212;" title="Original Dickinson: My Mind was going numb&#8212;" href="#fs1605ceMap" shape="rect" coords="67,126,193,137" />
+            <area alt="Original Dickinson: And then I heard them lift a Box" title="Original Dickinson: And then I heard them lift a Box" href="#fs1605ceMap" shape="rect" coords="232,209,256,223" />
+            <area alt="Original Dickinson: And creak across my Soul" title="Original Dickinson: And creak across my Soul" href="#fs1605ceMap" shape="rect" coords="118,224,241,235" />
+            <area alt="Original Dickinson: With those same Boots of lead, again," title="Original Dickinson: With those same Boots of lead, again," href="#fs1605ceMap" shape="rect" coords="185,235,282,248" />
+            <area alt="Original Dickinson: Then Space began to toll," title="Original Dickinson: Then Space began to toll," href="#fs1605ceMap" shape="rect" coords="116,249,234,259" />
+            <area alt="Original Dickinson: As all the Heavens were a Bell," title="Original Dickinson: As all the Heavens were a Bell," href="#fs1605ceMap" shape="rect" coords="156,269,253,282" />
+            <area alt="Original Dickinson: And Being, but an Ear," title="Original Dickinson: And Being, but an Ear," href="#fs1605ceMap" shape="rect" coords="125,288,236,301" />
+            <area alt="Original Dickinson: And I, and Silence, some strange Race" title="Original Dickinson: And I, and Silence, some strange Race" href="#fs1605ceMap" shape="rect" coords="115,306,282,315" />
+            <area alt="Original Dickinson: Wrecked, solitary, here&#8212;" title="Original Dickinson: Wrecked, solitary, here&#8212;" href="#fs1605ceMap" shape="rect" coords="128,320,250,334" />
+        </map>
+    </div>
+    
+    <!-- Poem 1606 Image Mapping Code -->
+    <div id="dfMap">
+        <img src="img/1606/fs1606Map.jpg" alt="" usemap="#fs1606Map" />
+        <map name="fs1606Map" id="fs1606Map">
+            <area alt="So over Horror, it half Captivates&#8212;" title="So over Horror, it half Captivates&#8212;" href="#fs1606Map" shape="rect" coords="170,80,350,107" />
+            <area alt="To know the worst, leaves no dread more&#8212;" title="To know the worst, leaves no dread more&#8212;" href="#fs1606Map" shape="rect" coords="3,125,324,180" />
+            <area alt="But grappling, conquers it&#8212;" title="But grappling, conquers it&#8212;" href="#fs1606Map" shape="rect" coords="9,219,322,248" />
+            <area alt="How easy Torment, now&#8212;" title="How easy Torment, now&#8212;" href="#fs1606Map" shape="rect" coords="11,250,325,270" />
+            <area alt="So over Horror, it dumb fascinates&#8212;" title="So over Horror, it dumb fascinates&#8212;" href="#fs1606Map" shape="rect" coords="6,824,308,847" />
+            <area alt="A Sepulchre, fears frost, no more&#8212;" title="A Sepulchre, fears frost, no more&#8212;" href="#fs1606Map" shape="rect" coords="8,850,348,900" />
+        </map>
+    </div>
+    <!--FH VERSION-->
+    <div id="fhMap">
+        <img src="img/1606/1606fhMap.jpg" alt="" usemap="#fs1606fhMap" />
+        <map name="fs1606fhMap" id="fs1606fhMap">
+            <area alt="Original Dickinson: So over Horror, it half Captivates&#8212; OR So over Horror, it dumb fascinates&#8212;" title="Original Dickinson: So over Horror, it half Captivates&#8212; OR So over Horror, it dumb fascinates&#8212;" href="#fs1606fhMap" shape="rect" coords="139,46,233,64" />
+            <area alt="Original Dickinson: To know the worst, leaves no dread more&#8212; OR A Sepulchre, fears frost, no more&#8212;" title="Original Dickinson: To know the worst, leaves no dread more&#8212; OR A Sepulchre, fears frost, no more&#8212;" href="#fs1606fhMap" shape="rect" coords="63,74,229,91" />
+            <area alt="Original Dickinson: But grappling, conquers it&#8212;" title="Original Dickinson: But grappling, conquers it&#8212;" href="#fs1606fhMap" shape="rect" coords="62,109,198,124" />
+            <area alt="Original Dickinson: How easy Torment, now&#8212;" title="Original Dickinson: How easy Torment, now&#8212;" href="#fs1606fhMap" shape="rect" coords="64,124,196,136" />
+        </map>
+    </div>
+    
+    <!-- Poem 1607 Image Mapping Code -->
+    <div id="dfMap">
+        <img src="img/1607/fs1607Map.jpg" alt="" usemap="#fs1607Map" />
+        <map name="fs1607Map" id="fs1607Map">
+            <area alt="How noteless Men and Pleiads, stand," title="How noteless Men and Pleiads, stand," href="#fs1607Map" shape="rect" coords="9,49,316,96" />
+            <area alt="Reveals the fact that One is rapt" title="Reveals the fact that One is rapt" href="#fs1607Map" shape="rect" coords="9,142,185,166" />
+            <area alt="Forever from the Eye&#8212;" title="Forever from the Eye&#8212;" href="#fs1607Map" shape="rect" coords="257,163,318,193" />
+            <area alt="Existing while we stare," title="Existing while we stare," href="#fs1607Map" shape="rect" coords="17,231,346,263" />
+            <area alt="In Leagueless Opportunity," title="In Leagueless Opportunity," href="#fs1607Map" shape="rect" coords="12,256,329,284" />
+            <area alt="O'ertakeless, as the Air&#8212;" title="O'ertakeless, as the Air&#8212;" href="#fs1607Map" shape="rect" coords="12,287,346,308" />
+            <area alt="Why didn't we detain Them?" title="Why didn't we detain Them?" href="#fs1607Map" shape="rect" coords="204,320,349,353" />
+            <area alt="The Heavens with a smile," title="The Heavens with a smile," href="#fs1607Map" shape="rect" coords="273,353,349,381" />
+            <area alt="Sweep by our disappointed Heads" title="Sweep by our disappointed Heads" href="#fs1607Map" shape="rect" coords="9,372,326,421" />
+            <area alt="Without a syllable&#8212;" title="Without a syllable&#8212;" href="#fs1607Map" shape="rect" coords="0,420,250,448" />
+            <area alt="But deign no syllable" title="But deign no syllable" href="#fs1607Map" shape="rect" coords="13,466,347,491" />
+            <area alt="Why didn't we retain Them?" title="Why didn't we retain Them?" href="#fs1607Map" shape="rect" coords="18,494,207,516" />
+            <area alt="Why didn't we detain it?" title="Why didn't we detain it?" href="#fs1607Map" shape="rect" coords="251,493,326,517" />
+        </map>
+    </div>
+    <!--FP VERSION-->
+    <div id="fpMap">
+        <img src="img/1607/1607fpMap.jpg" alt="" usemap="#fs1607fpMap" />
+        <map name="fs1607fpMap" id="fs1607fpMap">
+            <area alt="Original Dickinson: How noteless Men and Pleiads, stand," title="Original Dickinson: How noteless Men and Pleiads, stand," href="#fs1607fpMap" shape="rect" coords="103,35,236,54" />
+            <area alt="Original Dickinson: How noteless Men and Pleiads, stand," title="Original Dickinson: How noteless Men and Pleiads, stand," href="#fs1607fpMap" shape="rect" coords="105,57,180,70" />
+            <area alt="Original Dickinson: Reveals the fact that One is rapt" title="Original Dickinson: Reveals the fact that One is rapt" href="#fs1607fpMap" shape="rect" coords="217,82,285,99" />
+            <area alt="Original Dickinson: Forever from the Eye&#8212;" title="Original Dickinson: Forever from the Eye&#8212;" href="#fs1607fpMap" shape="rect" coords="198,100,219,114" />
+            <area alt="Original Dickinson: Existing while we stare," title="Original Dickinson: Existing while we stare," href="#fs1607fpMap" shape="rect" coords="104,140,230,151" />
+            <area alt="Original Dickinson: In Leagueless Opportunity," title="Original Dickinson: In Leagueless Opportunity," href="#fs1607fpMap" shape="rect" coords="104,150,243,164" />
+            <area alt="Original Dickinson: O'ertakeless, as the Air&#8212;" title="Original Dickinson: O'ertakeless, as the Air&#8212;" href="#fs1607fpMap" shape="rect" coords="104,169,236,183" />
+            <area alt="Original Dickinson: Why didn't we detain Them? OR Why didn't we retain Them? OR Why didn't we detain it?" title="Original Dickinson: Why didn't we detain Them? OR Why didn't we retain Them? OR Why didn't we detain it?" href="#fs1607fpMap" shape="rect" coords="188,193,262,203" />
+            <area alt="Original Dickinson: The Heavens with a smile," title="Original Dickinson: The Heavens with a smile," href="#fs1607fpMap" shape="rect" coords="214,207,244,222" />
+            <area alt="Original Dickinson: Sweep by our disappointed Heads" title="Original Dickinson: Sweep by our disappointed Heads" href="#fs1607fpMap" shape="rect" coords="106,222,249,235" />
+            <area alt="Original Dickinson: Sweep by our disappointed Heads" title="Original Dickinson: Sweep by our disappointed Heads" href="#fs1607fpMap" shape="rect" coords="107,236,149,247" />
+            <area alt="Original Dickinson: Without a syllable&#8212; OR But deign no syllable" title="Original Dickinson: Without a syllable&#8212; OR But deign no syllable" href="#fs1607fpMap" shape="rect" coords="110,251,225,262" />
+        </map>
+    </div>
+    <!--FH VERSION-->
+    <div id="fhMap">
+        <img src="img/1607/1607fhMap.jpg" alt="" usemap="#fs1607fhMap" />
+        <map name="fs1607fhMap" id="fs1607fhMap">
+            <area alt="Original Dickinson: How noteless Men and Pleiads, stand," title="Original Dickinson: How noteless Men and Pleiads, stand," href="#fs1607fhMap" shape="rect" coords="96,32,285,50" />
+            <area alt="Original Dickinson: Reveals the fact that One is rapt" title="Original Dickinson: Reveals the fact that One is rapt" href="#fs1607fhMap" shape="rect" coords="194,61,254,81" />
+            <area alt="Original Dickinson: Forever from the Eye&#8212;" title="Original Dickinson: Forever from the Eye&#8212;" href="#fs1607fhMap" shape="rect" coords="175,78,209,93" />
+            <area alt="Original Dickinson: Existing while we stare," title="Original Dickinson: Existing while we stare," href="#fs1607fhMap" shape="rect" coords="100,110,219,127" />
+            <area alt="Original Dickinson: In Leagueless Opportunity," title="Original Dickinson: In Leagueless Opportunity," href="#fs1607fhMap" shape="rect" coords="97,127,233,143" />
+            <area alt="Original Dickinson: O'ertakeless, as the Air&#8212;" title="Original Dickinson: O'ertakeless, as the Air&#8212;" href="#fs1607fhMap" shape="rect" coords="98,144,216,154" />
+            <area alt="Original Dickinson: Why didn't we detain Them? OR Why didn't we retain Them? OR Why didn't we detain it?" title="Original Dickinson: Why didn't we detain Them? OR Why didn't we retain Them? OR Why didn't we detain it?" href="#fs1607fhMap" shape="rect" coords="169,161,242,175" />
+            <area alt="Original Dickinson: The Heavens with a smile," title="Original Dickinson: The Heavens with a smile," href="#fs1607fhMap" shape="rect" coords="197,174,229,190" />
+            <area alt="Original Dickinson: Sweep by our disappointed Heads" title="Original Dickinson: Sweep by our disappointed Heads" href="#fs1607fhMap" shape="rect" coords="78,259,246,276" />
+            <area alt="Original Dickinson: Without a syllable&#8212; OR But deign no syllable" title="Original Dickinson: Without a syllable&#8212; OR But deign no syllable" href="#fs1607fhMap" shape="rect" coords="78,275,180,293" />
+        </map>
+    </div>
+    <!--CE VERSION-->
+    <div id="ceMap">
+        <img src="img/1607/1607ceMap.jpg" alt="" usemap="#fs1607ceMap" />
+        <map name="fs1607ceMap" id="fs1607ceMap">
+            <area alt="Original Dickinson: How noteless Men and Pleiads, stand," title="Original Dickinson: How noteless Men and Pleiads, stand," href="#fs1607ceMap" shape="rect" coords="52,14,238,35" />
+            <area alt="Original Dickinson: Reveals the fact that One is rapt" title="Original Dickinson: Reveals the fact that One is rapt" href="#fs1607ceMap" shape="rect" coords="152,49,214,62" />
+            <area alt="Original Dickinson: Forever from the Eye&#8212;" title="Original Dickinson: Forever from the Eye&#8212;" href="#fs1607ceMap" shape="rect" coords="133,63,156,75" />
+            <area alt="Original Dickinson: Existing while we stare," title="Original Dickinson: Existing while we stare," href="#fs1607ceMap" shape="rect" coords="55,95,172,108" />
+            <area alt="Original Dickinson: In Leagueless Opportunity," title="Original Dickinson: In Leagueless Opportunity," href="#fs1607ceMap" shape="rect" coords="56,106,175,118" />
+            <area alt="Original Dickinson: O'ertakeless, as the Air&#8212;" title="Original Dickinson: O'ertakeless, as the Air&#8212;" href="#fs1607ceMap" shape="rect" coords="53,118,170,133" />
+            <area alt="Original Dickinson: Why didn't we detain Them? OR Why didn't we retain Them? OR Why didn't we detain it?" title="Original Dickinson: Why didn't we detain Them? OR Why didn't we retain Them? OR Why didn't we detain it?" href="#fs1607ceMap" shape="rect" coords="121,141,189,153" />
+            <area alt="Original Dickinson: The Heavens with a smile," title="Original Dickinson: The Heavens with a smile," href="#fs1607ceMap" shape="rect" coords="150,155,179,163" />
+            <area alt="Original Dickinson: Sweep by our disappointed Heads" title="Original Dickinson: Sweep by our disappointed Heads" href="#fs1607ceMap" shape="rect" coords="54,165,212,180" />
+            <area alt="Original Dickinson: Without a syllable&#8212; OR But deign no syllable" title="Original Dickinson: Without a syllable&#8212; OR But deign no syllable" href="#fs1607ceMap" shape="rect" coords="54,180,159,192" />
+        </map>
+    </div>
+    
+    <!-- Poem 1608 Image Mapping Code -->
+    <div id="dfMap">
+        <img src="img/1608/fs1608Map.jpg" alt="" usemap="#fs1608Map" />
+        <map name="fs1608Map" id="fs1608Map">
+            <area alt="When we stand on top of Things&#8212;" title="When we stand on top of Things&#8212;" href="#fs1608Map" shape="rect" coords="123,43,212,74" />
+            <area alt="And like the Trees, look down&#8212;" title="And like the Trees, look down&#8212;" href="#fs1608Map" shape="rect" coords="218,72,347,98" />
+            <area alt="The smoke all cleared away from it&#8212;" title="The smoke all cleared away from it&#8212;" href="#fs1608Map" shape="rect" coords="67,131,116,159" />
+            <area alt="And Mirrors on the scene&#8212;" title="And Mirrors on the scene&#8212;" href="#fs1608Map" shape="rect" coords="10,161,347,199" />
+            <area alt="Just laying light&#8212;no soul will wink" title="Just laying light&#8212;no soul will wink" href="#fs1608Map" shape="rect" coords="164,213,297,254" />
+            <area alt="Except it have a flaw&#8212;" title="Except it have a flaw&#8212;" href="#fs1608Map" shape="rect" coords="278,278,343,313" />
+            <area alt="The Sound ones, like the Hills&#8212;shall stand&#8212;" title="The Sound ones, like the Hills&#8212;shall stand&#8212;" href="#fs1608Map" shape="rect" coords="99,312,327,338" />
+            <area alt="The Sound ones, like the Hills&#8212;shall stand&#8212;" title="The Sound ones, like the Hills&#8212;shall stand&#8212;" href="#fs1608Map" shape="rect" coords="5,346,62,369" />
+            <area alt="The Sound ones, like the Hills&#8212;shall stand&#8212;" title="The Sound ones, like the Hills&#8212;shall stand&#8212;" href="#fs1608Map" shape="rect" coords="74,337,261,363" />
+            <area alt="No Lightening, scares away&#8212;" title="No Lightening, scares away&#8212;" href="#fs1608Map" shape="rect" coords="68,367,183,398" />
+            <area alt="No Lightening, scares away&#8212;" title="No Lightening, scares away&#8212;" href="#fs1608Map" shape="rect" coords="185,369,343,398" />
+            <area alt="The Perfect, nowhere be afraid&#8212;" title="The Perfect, nowhere be afraid&#8212;" href="#fs1608Map" shape="rect" coords="6,427,320,489" />
+            <area alt="They bear their dauntless Heads," title="They bear their dauntless Heads," href="#fs1608Map" shape="rect" coords="204,506,324,550" />
+            <area alt="They bear their dauntless Heads," title="They bear their dauntless Heads," href="#fs1608Map" shape="rect" coords="4,539,74,566" />
+            <area alt="Where others, dare not go at Noon," title="Where others, dare not go at Noon," href="#fs1608Map" shape="rect" coords="89,565,318,592" />
+            <area alt="Where others, dare not go at Noon," title="Where others, dare not go at Noon," href="#fs1608Map" shape="rect" coords="0,593,200,619" />
+            <area alt="Protected by their deeds&#8212;" title="Protected by their deeds&#8212;" href="#fs1608Map" shape="rect" coords="258,615,333,637" />
+            <area alt="The Stars dare shine occasionally" title="The Stars dare shine occasionally" href="#fs1608Map" shape="rect" coords="69,653,146,685" />
+            <area alt="Upon a spotted World&#8212;" title="Upon a spotted World&#8212;" href="#fs1608Map" shape="rect" coords="223,703,312,732" />
+            <area alt="And Suns, go surer, for their Proof," title="And Suns, go surer, for their Proof," href="#fs1608Map" shape="rect" coords="8,730,345,776" />
+            <area alt="As if An Axle, held&#8212;" title="As if An Axle, held&#8212;" href="#fs1608Map" shape="rect" coords="98,778,329,806" />
+            <area alt="The Sound ones, like the Hills&#8212;stand up&#8212;" title="The Sound ones, like the Hills&#8212;stand up&#8212;" href="#fs1608Map" shape="rect" coords="9,819,215,847" />
+            <area alt="No Lightening, drives away&#8212;" title="No Lightening, drives away&#8212;" href="#fs1608Map" shape="rect" coords="222,820,339,843" />
+            <area alt="They bear their fearless&#8212;Heads," title="They bear their fearless&#8212;Heads," href="#fs1608Map" shape="rect" coords="14,851,171,870" />
+            <area alt="They bear their tranquil&#8212;Heads," title="They bear their tranquil&#8212;Heads," href="#fs1608Map" shape="rect" coords="198,849,315,874" />
+            <area alt="Where others, dare not walk at noon," title="Where others, dare not walk at noon," href="#fs1608Map" shape="rect" coords="13,874,275,894" />
+            <area alt="As if A Muscle&#8212;held" title="As if A Muscle&#8212;held" href="#fs1608Map" shape="rect" coords="24,898,310,921" />
+        </map>
+    </div>
+    <!--BM VERSION-->
+    <div id="bmMap">
+        <img src="img/1608/1608bmMap.jpg" alt="" usemap="#fs1608bmMap" />
+        <map name="fs1608bmMap" id="fs1608bmMap">
+            <area alt="Original Dickinson: When we stand on top of Things&#8212;" title="Original Dickinson: When we stand on top of Things&#8212;" href="#fs1608bmMap" shape="rect" coords="247,31,278,43" />
+            <area alt="Original Dickinson: And like the Trees, look down&#8212;" title="Original Dickinson: And like the Trees, look down&#8212;" href="#fs1608bmMap" shape="rect" coords="164,43,244,55" />
+            <area alt="Original Dickinson: The smoke all cleared away from it&#8212;" title="Original Dickinson: The smoke all cleared away from it&#8212;" href="#fs1608bmMap" shape="rect" coords="261,57,275,66" />
+            <area alt="Original Dickinson: And Mirrors on the scene&#8212;" title="Original Dickinson: And Mirrors on the scene&#8212;" href="#fs1608bmMap" shape="rect" coords="126,68,233,81" />
+            <area alt="Original Dickinson: Just laying light&#8212;no soul will wink" title="Original Dickinson: Just laying light&#8212;no soul will wink" href="#fs1608bmMap" shape="rect" coords="155,89,198,102" />
+            <area alt="Original Dickinson: Except it have a flaw&#8212;" title="Original Dickinson: Except it have a flaw&#8212;" href="#fs1608bmMap" shape="rect" coords="194,100,218,113" />
+            <area alt="Original Dickinson: The Sound ones, like the Hills&#8212;shall stand&#8212;" title="Original Dickinson: The Sound ones, like the Hills&#8212;shall stand&#8212;" href="#fs1608bmMap" shape="rect" coords="125,114,240,128" />
+            <area alt="Original Dickinson: The Sound ones, like the Hills&#8212;shall stand&#8212;" title="Original Dickinson: The Sound ones, like the Hills&#8212;shall stand&#8212;" href="#fs1608bmMap" shape="rect" coords="241,115,296,127" />
+            <area alt="Original Dickinson: No Lightening, scares away&#8212; OR No Lightening, drives away&#8212;" title="Original Dickinson: No Lightening, scares away&#8212; OR No Lightening, drives away&#8212;" href="#fs1608bmMap" shape="rect" coords="120,127,164,143" />
+            <area alt="Original Dickinson: No Lightening, scares away&#8212; OR No Lightening, drives away&#8212;" title="Original Dickinson: No Lightening, scares away&#8212; OR No Lightening, drives away&#8212;" href="#fs1608bmMap" shape="rect" coords="164,128,226,142" />
+            <area alt="Original Dickinson: The Perfect, nowhere be afraid&#8212;" title="Original Dickinson: The Perfect, nowhere be afraid&#8212;" href="#fs1608bmMap" shape="rect" coords="128,155,251,164" />
+            <area alt="Original Dickinson: They bear their dauntless Heads, OR They bear their fearless&#8212;Heads, OR They bear their tranquil&#8212;Heads," title="Original Dickinson: They bear their dauntless Heads, OR They bear their fearless&#8212;Heads, OR They bear their tranquil&#8212;Heads," href="#fs1608bmMap" shape="rect" coords="180,167,250,176" />
+            <area alt="Original Dickinson: Original Dickinson: Where others, dare not go at Noon, OR Where others, dare not walk at noon," title="Original Dickinson: Where others, dare not go at Noon, OR Where others, dare not walk at noon," href="#fs1608bmMap" shape="rect" coords="133,177,205,187" />
+            <area alt="Original Dickinson: Where others, dare not go at Noon, OR Where others, dare not walk at noon," title="Original Dickinson: Where others, dare not go at Noon, OR Where others, dare not walk at noon," href="#fs1608bmMap" shape="rect" coords="208,179,264,190" />
+            <area alt="Original Dickinson: Protected by their deeds&#8212;" title="Original Dickinson: Protected by their deeds&#8212;" href="#fs1608bmMap" shape="rect" coords="188,190,225,200" />
+            <area alt="Original Dickinson: The Stars dare shine occasionally" title="Original Dickinson: The Stars dare shine occasionally" href="#fs1608bmMap" shape="rect" coords="124,215,151,226" />
+            <area alt="Original Dickinson: Upon a spotted World&#8212;" title="Original Dickinson: Upon a spotted World&#8212;" href="#fs1608bmMap" shape="rect" coords="176,226,211,237" />
+            <area alt="Original Dickinson: And Suns, go surer, for their Proof," title="Original Dickinson: And Suns, go surer, for their Proof," href="#fs1608bmMap" shape="rect" coords="103,241,264,249" />
+            <area alt="Original Dickinson: As if An Axle, held&#8212; OR As if A Muscle&#8212;held" title="Original Dickinson: As if An Axle, held&#8212; OR As if A Muscle&#8212;held" href="#fs1608bmMap" shape="rect" coords="130,250,192,263" />
+        </map>
+    </div>
+    
+    <!-- Poem 1609 Image Mapping Code -->
+    <div id="dfMap">
+        <img src="img/1609/fs1609Map.jpg" alt="" usemap="#fs1609Map" />
+        <map name="fs1609Map" id="fs1609Map">
+            <area alt="'Twas just this time, last year, I died." title="'Twas just this time, last year, I died." href="#fs1609Map" shape="rect" coords="211,22,340,48" />
+            <area alt="'Twas just this time, last year, I died." title="'Twas just this time, last year, I died." href="#fs1609Map" shape="rect" coords="10,44,203,74" />
+            <area alt="I know I heard the Corn," title="I know I heard the Corn," href="#fs1609Map" shape="rect" coords="280,66,330,94" />
+            <area alt="When I was carried by the Farms&#8212;" title="When I was carried by the Farms&#8212;" href="#fs1609Map" shape="rect" coords="301,98,348,125" />
+            <area alt="It had the Tassels on&#8212;" title="It had the Tassels on&#8212;" href="#fs1609Map" shape="rect" coords="167,116,294,143" />
+            <area alt="I thought how yellow it would look&#8212;" title="I thought how yellow it would look&#8212;" href="#fs1609Map" shape="rect" coords="5,184,57,212" />
+            <area alt="When Richard went to mill&#8212;" title="When Richard went to mill&#8212;" href="#fs1609Map" shape="rect" coords="281,208,339,239" />
+            <area alt="And then, I wanted to get out," title="And then, I wanted to get out," href="#fs1609Map" shape="rect" coords="75,230,134,261" />
+            <area alt="I thought just how Red&#8212;Apples wedged" title="I thought just how Red&#8212;Apples wedged" href="#fs1609Map" shape="rect" coords="243,320,325,348" />
+            <area alt="I thought just how Red&#8212;Apples wedged" title="I thought just how Red&#8212;Apples wedged" href="#fs1609Map" shape="rect" coords="5,346,169,372" />
+            <area alt="The Stubble's joints between&#8212;" title="The Stubble's joints between&#8212;" href="#fs1609Map" shape="rect" coords="55,371,319,392" />
+            <area alt="And Carts went stooping round the fields" title="And Carts went stooping round the fields" href="#fs1609Map" shape="rect" coords="1,390,236,419" />
+            <area alt="To take the Pumpkins in&#8212;" title="To take the Pumpkins in&#8212;" href="#fs1609Map" shape="rect" coords="261,436,311,470" />
+            <area alt="I wondered which would miss me, least," title="I wondered which would miss me, least," href="#fs1609Map" shape="rect" coords="71,516,195,545" />
+            <area alt="And when Thanksgiving, came," title="And when Thanksgiving, came," href="#fs1609Map" shape="rect" coords="141,548,337,571" />
+            <area alt="If father'd multiply the plates&#8212;" title="If father'd multiply the plates&#8212;" href="#fs1609Map" shape="rect" coords="58,564,135,586" />
+            <area alt="If father'd multiply the plates&#8212;" title="If father'd multiply the plates&#8212;" href="#fs1609Map" shape="rect" coords="275,570,338,594" />
+            <area alt="To make an even Sum&#8212;" title="To make an even Sum&#8212;" href="#fs1609Map" shape="rect" coords="214,592,278,620" />
+            <area alt="And would it blur the Christmas glee" title="And would it blur the Christmas glee" href="#fs1609Map" shape="rect" coords="2,631,297,680" />
+            <area alt="My Stocking hung too high" title="My Stocking hung too high" href="#fs1609Map" shape="rect" coords="1,680,324,706" />
+            <area alt="For any Santa Claus to reach" title="For any Santa Claus to reach" href="#fs1609Map" shape="rect" coords="3,707,331,728" />
+            <area alt="The Altitude of me&#8212;" title="The Altitude of me&#8212;" href="#fs1609Map" shape="rect" coords="62,729,261,760" />
+            <area alt="But this sort, grieved myself," title="But this sort, grieved myself," href="#fs1609Map" shape="rect" coords="141,768,342,801" />
+            <area alt="And so, I thought the other way," title="And so, I thought the other way," href="#fs1609Map" shape="rect" coords="2,798,335,840" />
+            <area alt="How just this time, some perfect year&#8212;" title="How just this time, some perfect year&#8212;" href="#fs1609Map" shape="rect" coords="2,839,41,863" />
+            <area alt="How just this time, some perfect year&#8212;" title="How just this time, some perfect year&#8212;" href="#fs1609Map" shape="rect" coords="93,869,153,889" />
+            <area alt="Themself, should come to me&#8212;" title="Themself, should come to me&#8212;" href="#fs1609Map" shape="rect" coords="1,889,89,919" />
+            <area alt="Themself, should come to me&#8212;" title="Themself, should come to me&#8212;" href="#fs1609Map" shape="rect" coords="273,889,323,919" />
+        </map>
+    </div>
+    <!--POEMS3 VERSION-->
+    <div id="poems3Map">
+        <img src="img/1609/1609poems3Map.jpg" alt="" usemap="#fs1609poems3Map" />
+        <map name="fs1609poems3Map" id="fs1609poems3Map">
+            <area alt="Original Dickinson: 'Twas just this time, last year, I died." title="Original Dickinson: 'Twas just this time, last year, I died." href="#fs1609poems3Map" shape="rect" coords="169,105,262,115" />
+            <area alt="Original Dickinson: I know I heard the Corn," title="Original Dickinson: I know I heard the Corn," href="#fs1609poems3Map" shape="rect" coords="198,119,225,130" />
+            <area alt="Original Dickinson: When I was carried by the Farms&#8212;" title="Original Dickinson: When I was carried by the Farms&#8212;" href="#fs1609poems3Map" shape="rect" coords="202,132,243,144" />
+            <area alt="Original Dickinson: It had the Tassels on&#8212;" title="Original Dickinson: It had the Tassels on&#8212;" href="#fs1609poems3Map" shape="rect" coords="141,141,190,156" />
+            <area alt="Original Dickinson: I thought how yellow it would look&#8212;" title="Original Dickinson: I thought how yellow it would look&#8212;" href="#fs1609poems3Map" shape="rect" coords="218,164,240,175" />
+            <area alt="Original Dickinson: When Richard went to mill&#8212;" title="Original Dickinson: When Richard went to mill&#8212;" href="#fs1609poems3Map" shape="rect" coords="194,176,220,190" />
+            <area alt="Original Dickinson: And then, I wanted to get out," title="Original Dickinson: And then, I wanted to get out," href="#fs1609poems3Map" shape="rect" coords="108,186,130,197" />
+            <area alt="Original Dickinson: I thought just how Red&#8212;Apples wedged" title="Original Dickinson: I thought just how Red&#8212;Apples wedged" href="#fs1609poems3Map" shape="rect" coords="168,221,247,235" />
+            <area alt="Original Dickinson: The Stubble's joints between&#8212;" title="Original Dickinson: The Stubble's joints between&#8212;" href="#fs1609poems3Map" shape="rect" coords="117,231,223,245" />
+            <area alt="Original Dickinson: And Carts went stooping round the fields" title="Original Dickinson: And Carts went stooping round the fields" href="#fs1609poems3Map" shape="rect" coords="84,244,154,256" />
+            <area alt="Original Dickinson: To take the Pumpkins in&#8212;" title="Original Dickinson: To take the Pumpkins in&#8212;" href="#fs1609poems3Map" shape="rect" coords="189,257,206,267" />
+            <area alt="Original Dickinson: I wondered which would miss me, least," title="Original Dickinson: I wondered which would miss me, least," href="#fs1609poems3Map" shape="rect" coords="193,273,252,288" />
+            <area alt="Original Dickinson: And when Thanksgiving, came," title="Original Dickinson: And when Thanksgiving, came," href="#fs1609poems3Map" shape="rect" coords="140,290,227,301" />
+            <area alt="Original Dickinson: If father'd multiply the plates&#8212;" title="Original Dickinson: If father'd multiply the plates&#8212;" href="#fs1609poems3Map" shape="rect" coords="97,300,133,309" />
+            <area alt="Original Dickinson: If father'd multiply the plates&#8212;" title="Original Dickinson: If father'd multiply the plates&#8212;" href="#fs1609poems3Map" shape="rect" coords="186,302,217,314" />
+            <area alt="Original Dickinson: To make an even Sum&#8212;" title="Original Dickinson: To make an even Sum&#8212;" href="#fs1609poems3Map" shape="rect" coords="170,315,194,325" />
+            <area alt="Original Dickinson: And would it blur the Christmas glee" title="Original Dickinson: And would it blur the Christmas glee" href="#fs1609poems3Map" shape="rect" coords="49,404,208,417" />
+            <area alt="Original Dickinson: My Stocking hung too high" title="Original Dickinson: My Stocking hung too high" href="#fs1609poems3Map" shape="rect" coords="60,417,209,434" />
+            <area alt="Original Dickinson: For any Santa Claus to reach" title="Original Dickinson: For any Santa Claus to reach" href="#fs1609poems3Map" shape="rect" coords="49,432,215,443" />
+            <area alt="Original Dickinson: The Altitude of me&#8212;" title="Original Dickinson: The Altitude of me&#8212;" href="#fs1609poems3Map" shape="rect" coords="81,448,158,457" />
+            <area alt="Original Dickinson: But this sort, grieved myself,/And so, I thought the other way," title="Original Dickinson: But this sort, grieved myself,/And so, I thought the other way," href="#fs1609poems3Map" shape="rect" coords="91,474,212,484" />
+            <area alt="Original Dickinson: But this sort, grieved myself,/And so, I thought the other way," title="Original Dickinson: But this sort, grieved myself,/And so, I thought the other way," href="#fs1609poems3Map" shape="rect" coords="62,486,183,497" />
+            <area alt="Original Dickinson: How just this time, some perfect year&#8212;" title="Original Dickinson: How just this time, some perfect year&#8212;" href="#fs1609poems3Map" shape="rect" coords="53,499,81,510" />
+            <area alt="Original Dickinson: How just this time, some perfect year&#8212;" title="Original Dickinson: How just this time, some perfect year&#8212;" href="#fs1609poems3Map" shape="rect" coords="202,497,219,507" />
+            <area alt="Original Dickinson: Themself, should come to me&#8212;" title="Original Dickinson: Themself, should come to me&#8212;" href="#fs1609poems3Map" shape="rect" coords="63,512,113,521" />
+            <area alt="Original Dickinson: Themself, should come to me&#8212;" title="Original Dickinson: Themself, should come to me&#8212;" href="#fs1609poems3Map" shape="rect" coords="185,511,204,523" />
+        </map>
+    </div>
+    <!--FH VERSION-->
+    <div id="fhMap">
+        <img src="img/1609/1609fhMap.jpg" alt="" usemap="#fs1609fhMap" />
+        <map name="fs1609fhMap" id="fs1609fhMap">
+            <area alt="Original Dickinson: 'Twas just this time, last year, I died." title="Original Dickinson: 'Twas just this time, last year, I died." href="#fs1609fhMap" shape="rect" coords="143,34,242,48" />
+            <area alt="Original Dickinson: I know I heard the Corn," title="Original Dickinson: I know I heard the Corn," href="#fs1609fhMap" shape="rect" coords="159,50,188,63" />
+            <area alt="Original Dickinson: When I was carried by the Farms&#8212;" title="Original Dickinson: When I was carried by the Farms&#8212;" href="#fs1609fhMap" shape="rect" coords="196,60,235,75" />
+            <area alt="Original Dickinson: It had the Tassels on&#8212;" title="Original Dickinson: It had the Tassels on&#8212;" href="#fs1609fhMap" shape="rect" coords="122,72,176,93" />
+            <area alt="Original Dickinson: I thought how yellow it would look&#8212;" title="Original Dickinson: I thought how yellow it would look&#8212;" href="#fs1609fhMap" shape="rect" coords="210,94,242,111" />
+            <area alt="Original Dickinson: When Richard went to mill&#8212;" title="Original Dickinson: When Richard went to mill&#8212;" href="#fs1609fhMap" shape="rect" coords="178,107,208,125" />
+            <area alt="Original Dickinson: And then, I wanted to get out," title="Original Dickinson: And then, I wanted to get out," href="#fs1609fhMap" shape="rect" coords="112,175,135,191" />
+            <area alt="Original Dickinson: I thought just how Red&#8212;Apples wedged" title="Original Dickinson: I thought just how Red&#8212;Apples wedged" href="#fs1609fhMap" shape="rect" coords="175,213,271,225" />
+            <area alt="Original Dickinson: The Stubble's joints between&#8212;" title="Original Dickinson: The Stubble's joints between&#8212;" href="#fs1609fhMap" shape="rect" coords="112,224,232,238" />
+            <area alt="Original Dickinson: And Carts went stooping round the fields" title="Original Dickinson: And Carts went stooping round the fields" href="#fs1609fhMap" shape="rect" coords="90,238,156,248" />
+            <area alt="Original Dickinson: To take the Pumpkins in&#8212;" title="Original Dickinson: To take the Pumpkins in&#8212;" href="#fs1609fhMap" shape="rect" coords="189,252,210,268" />
+            <area alt="Original Dickinson: I wondered which would miss me, least," title="Original Dickinson: I wondered which would miss me, least," href="#fs1609fhMap" shape="rect" coords="222,272,271,285" />
+            <area alt="Original Dickinson: And when Thanksgiving, came," title="Original Dickinson: And when Thanksgiving, came," href="#fs1609fhMap" shape="rect" coords="137,285,237,298" />
+            <area alt="Original Dickinson: If father'd multiply the plates&#8212;" title="Original Dickinson: If father'd multiply the plates&#8212;" href="#fs1609fhMap" shape="rect" coords="102,296,139,308" />
+            <area alt="Original Dickinson: If father'd multiply the plates&#8212;" title="Original Dickinson: If father'd multiply the plates&#8212;" href="#fs1609fhMap" shape="rect" coords="199,298,238,310" />
+            <area alt="Original Dickinson: To make an even Sum&#8212;" title="Original Dickinson: To make an even Sum&#8212;" href="#fs1609fhMap" shape="rect" coords="166,313,200,325" />
+            <area alt="Original Dickinson: And would it blur the Christmas glee" title="Original Dickinson: And would it blur the Christmas glee" href="#fs1609fhMap" shape="rect" coords="88,331,260,347" />
+            <area alt="Original Dickinson: My Stocking hung too high" title="Original Dickinson: My Stocking hung too high" href="#fs1609fhMap" shape="rect" coords="90,346,217,357" />
+            <area alt="Original Dickinson: For any Santa Claus to reach" title="Original Dickinson: For any Santa Claus to reach" href="#fs1609fhMap" shape="rect" coords="89,357,224,366" />
+            <area alt="Original Dickinson: The Altitude of me&#8212;" title="Original Dickinson: The Altitude of me&#8212;" href="#fs1609fhMap" shape="rect" coords="111,369,191,382" />
+            <area alt="Original Dickinson: But this sort, grieved myself," title="Original Dickinson: But this sort, grieved myself," href="#fs1609fhMap" shape="rect" coords="130,386,222,405" />
+            <area alt="Original Dickinson: And so, I thought the other way," title="Original Dickinson: And so, I thought the other way," href="#fs1609fhMap" shape="rect" coords="89,398,237,414" />
+            <area alt="Original Dickinson: How just this time, some perfect year&#8212;" title="Original Dickinson: How just this time, some perfect year&#8212;" href="#fs1609fhMap" shape="rect" coords="90,413,117,429" />
+            <area alt="Original Dickinson: How just this time, some perfect year&#8212;" title="Original Dickinson: How just this time, some perfect year&#8212;" href="#fs1609fhMap" shape="rect" coords="230,416,263,427" />
+            <area alt="Original Dickinson: Themself, should come to me&#8212;" title="Original Dickinson: Themself, should come to me&#8212;" href="#fs1609fhMap" shape="rect" coords="86,426,138,441" />
+            <area alt="Original Dickinson: Themself, should come to me&#8212;" title="Original Dickinson: Themself, should come to me&#8212;" href="#fs1609fhMap" shape="rect" coords="205,430,232,443" />
+        </map>
+    </div>
+    <!--CE VERSION-->
+    <div id="ceMap">
+        <img src="img/1609/1609ceMap.jpg" alt="" usemap="#fs1609ceMap" />
+        <map name="fs1609ceMap" id="fs1609ceMap">
+            <area alt="Original Dickinson: 'Twas just this time, last year, I died." title="Original Dickinson: 'Twas just this time, last year, I died." href="#fs1609ceMap" shape="rect" coords="187,51,282,63" />
+            <area alt="Original Dickinson: I know I heard the Corn," title="Original Dickinson: I know I heard the Corn," href="#fs1609ceMap" shape="rect" coords="207,64,234,76" />
+            <area alt="Original Dickinson: When I was carried by the Farms&#8212;" title="Original Dickinson: When I was carried by the Farms&#8212;" href="#fs1609ceMap" shape="rect" coords="229,75,282,88" />
+            <area alt="Original Dickinson: It had the Tassels on&#8212;" title="Original Dickinson: It had the Tassels on&#8212;" href="#fs1609ceMap" shape="rect" coords="168,87,215,101" />
+            <area alt="Original Dickinson: I thought how yellow it would look&#8212;" title="Original Dickinson: I thought how yellow it would look&#8212;" href="#fs1609ceMap" shape="rect" coords="243,125,268,142" />
+            <area alt="Original Dickinson: When Richard went to mill&#8212;" title="Original Dickinson: When Richard went to mill&#8212;" href="#fs1609ceMap" shape="rect" coords="219,140,248,155" />
+            <area alt="Original Dickinson: And then, I wanted to get out," title="Original Dickinson: And then, I wanted to get out," href="#fs1609ceMap" shape="rect" coords="126,151,150,165" />
+            <area alt="Original Dickinson: I thought just how Red&#8212;Apples wedged" title="Original Dickinson: I thought just how Red&#8212;Apples wedged" href="#fs1609ceMap" shape="rect" coords="190,202,276,219" />
+            <area alt="Original Dickinson: The Stubble's joints between&#8212;" title="Original Dickinson: The Stubble's joints between&#8212;" href="#fs1609ceMap" shape="rect" coords="136,218,253,230" />
+            <area alt="Original Dickinson: And Carts went stooping round the fields" title="Original Dickinson: And Carts went stooping round the fields" href="#fs1609ceMap" shape="rect" coords="104,230,174,243" />
+            <area alt="Original Dickinson: To take the Pumpkins in&#8212;" title="Original Dickinson: To take the Pumpkins in&#8212;" href="#fs1609ceMap" shape="rect" coords="216,245,234,255" />
+            <area alt="Original Dickinson: I wondered which would miss me, least," title="Original Dickinson: I wondered which would miss me, least," href="#fs1609ceMap" shape="rect" coords="238,279,283,294" />
+            <area alt="Original Dickinson: And when Thanksgiving, came," title="Original Dickinson: And when Thanksgiving, came," href="#fs1609ceMap" shape="rect" coords="166,294,263,308" />
+            <area alt="Original Dickinson: If father'd multiply the plates&#8212;" title="Original Dickinson: If father'd multiply the plates&#8212;" href="#fs1609ceMap" shape="rect" coords="118,304,154,317" />
+            <area alt="Original Dickinson: If father'd multiply the plates&#8212;" title="Original Dickinson: If father'd multiply the plates&#8212;" href="#fs1609ceMap" shape="rect" coords="215,311,242,317" />
+            <area alt="Original Dickinson: To make an even Sum&#8212;" title="Original Dickinson: To make an even Sum&#8212;" href="#fs1609ceMap" shape="rect" coords="196,321,222,335" />
+            <area alt="Original Dickinson: And would it blur the Christmas glee" title="Original Dickinson: And would it blur the Christmas glee" href="#fs1609ceMap" shape="rect" coords="103,357,261,367" />
+            <area alt="Original Dickinson: My Stocking hung too high" title="Original Dickinson: My Stocking hung too high" href="#fs1609ceMap" shape="rect" coords="112,371,266,383" />
+            <area alt="Original Dickinson: For any Santa Claus to reach" title="Original Dickinson: For any Santa Claus to reach" href="#fs1609ceMap" shape="rect" coords="97,380,272,396" />
+            <area alt="Original Dickinson: The Altitude of me&#8212;" title="Original Dickinson: The Altitude of me&#8212;" href="#fs1609ceMap" shape="rect" coords="132,391,208,406" />
+            <area alt="Original Dickinson: But this sort, grieved myself,/And so, I thought the other way," title="Original Dickinson: But this sort, grieved myself,/And so, I thought the other way," href="#fs1609ceMap" shape="rect" coords="141,431,233,445" />
+            <area alt="Original Dickinson: But this sort, grieved myself,/And so, I thought the other way," title="Original Dickinson: But this sort, grieved myself,/And so, I thought the other way," href="#fs1609ceMap" shape="rect" coords="110,445,239,457" />
+            <area alt="Original Dickinson: How just this time, some perfect year&#8212;" title="Original Dickinson: How just this time, some perfect year&#8212;" href="#fs1609ceMap" shape="rect" coords="100,459,131,470" />
+            <area alt="Original Dickinson: How just this time, some perfect year&#8212;" title="Original Dickinson: How just this time, some perfect year&#8212;" href="#fs1609ceMap" shape="rect" coords="253,459,282,470" />
+            <area alt="Original Dickinson: Themself, should come to me&#8212;" title="Original Dickinson: Themself, should come to me&#8212;" href="#fs1609ceMap" shape="rect" coords="102,469,157,485" />
+            <area alt="Original Dickinson: Themself, should come to me&#8212;" title="Original Dickinson: Themself, should come to me&#8212;" href="#fs1609ceMap" shape="rect" coords="227,474,247,481" />
+        </map>
+    </div>
+    
+    <!-- Poem 1610 Image Mapping Code -->
+    <div id="dfMap">
+        <img src="img/1610/fs1610Map.jpg" alt="" usemap="#fs1610Map" />
+        <map name="fs1610Map" id="fs1610Map">
+            <area alt="Afraid! Of whom am I afraid?" title="Afraid! Of whom am I afraid?" href="#fs1610Map" shape="rect" coords="40,34,138,62" />
+            <area alt="Not Death&#8212;for who is He?" title="Not Death&#8212;for who is He?" href="#fs1610Map" shape="rect" coords="74,81,347,108" />
+            <area alt="The Porter of my Father's Lodge" title="The Porter of my Father's Lodge" href="#fs1610Map" shape="rect" coords="43,105,110,137" />
+            <area alt="The Porter of my Father's Lodge" title="The Porter of my Father's Lodge" href="#fs1610Map" shape="rect" coords="184,109,319,134" />
+            <area alt="As much abasheth me!" title="As much abasheth me!" href="#fs1610Map" shape="rect" coords="268,139,289,153" />
+            <area alt="Of Life? 'Twere odd I fear thing" title="Of Life? 'Twere odd I fear thing" href="#fs1610Map" shape="rect" coords="9,207,68,227" />
+            <area alt="In one or two existences&#8212;" title="In one or two existences&#8212;" href="#fs1610Map" shape="rect" coords="111,242,306,267" />
+            <area alt="Just as the case may be&#8212;" title="Just as the case may be&#8212;" href="#fs1610Map" shape="rect" coords="3,267,346,294" />
+            <area alt="In one or more&#8212;existences" title="In one or more&#8212;existences" href="#fs1610Map" shape="rect" coords="244,295,343,318" />
+            <area alt="Of Resurrection? Is the East" title="Of Resurrection? Is the East" href="#fs1610Map" shape="rect" coords="73,311,184,342" />
+            <area alt="Of Resurrection? Is the East" title="Of Resurrection? Is the East" href="#fs1610Map" shape="rect" coords="293,320,348,344" />
+            <area alt="Afraid to trust the Morn" title="Afraid to trust the Morn" href="#fs1610Map" shape="rect" coords="253,340,325,364" />
+            <area alt="As soon impeach my Crown!" title="As soon impeach my Crown!" href="#fs1610Map" shape="rect" coords="262,386,323,412" />
+            <area alt="As Deity decree&#8212;" title="As Deity decree&#8212;" href="#fs1610Map" shape="rect" coords="18,445,288,485" />
+        </map>
+    </div>
+    <!--POEMS1 VERSION-->
+    <div id="poems1Map">
+        <img src="img/1610/1610poems1Map.jpg" alt="" usemap="#fs1610poems1Map" />
+        <map name="fs1610poems1Map" id="fs1610poems1Map">
+            <area alt="Original Dickinson: Afraid! Of whom am I afraid?" title="Original Dickinson: Afraid! Of whom am I afraid?" href="#fs1610poems1Map" shape="rect" coords="73,111,131,126" />
+            <area alt="Original Dickinson: Not Death&#8212;for who is He?" title="Original Dickinson: Not Death&#8212;for who is He?" href="#fs1610poems1Map" shape="rect" coords="120,123,217,137" />
+            <area alt="Original Dickinson: The Porter of my Father's Lodge" title="Original Dickinson: The Porter of my Father's Lodge" href="#fs1610poems1Map" shape="rect" coords="92,138,119,147" />
+            <area alt="Original Dickinson: The Porter of my Father's Lodge" title="Original Dickinson: The Porter of my Father's Lodge" href="#fs1610poems1Map" shape="rect" coords="148,138,211,151" />
+            <area alt="Original Dickinson: As much abasheth me!" title="Original Dickinson: As much abasheth me!" href="#fs1610poems1Map" shape="rect" coords="166,157,172,164" />
+            <area alt="Original Dickinson: Of Life? 'Twere odd I fear thing" title="Original Dickinson: Of Life? 'Twere odd I fear thing" href="#fs1610poems1Map" shape="rect" coords="202,176,227,186" />
+            <area alt="Original Dickinson: In one or two existences&#8212; OR In one or more&#8212;existences" title="Original Dickinson: In one or two existences&#8212; OR In one or more&#8212;existences" href="#fs1610poems1Map" shape="rect" coords="114,202,188,210" />
+            <area alt="Original Dickinson: Just as the case may be&#8212; OR As Deity decree&#8212;" title="Original Dickinson: Just as the case may be&#8212; OR As Deity decree&#8212;" href="#fs1610poems1Map" shape="rect" coords="70,211,149,228" />
+            <area alt="Original Dickinson: Of Resurrection? Is the East" title="Original Dickinson: Of Resurrection? Is the East" href="#fs1610poems1Map" shape="rect" coords="88,234,145,246" />
+            <area alt="Original Dickinson: Of Resurrection? Is the East" title="Original Dickinson: Of Resurrection? Is the East" href="#fs1610poems1Map" shape="rect" coords="182,236,196,245" />
+            <area alt="Original Dickinson: Afraid to trust the Morn" title="Original Dickinson: Afraid to trust the Morn" href="#fs1610poems1Map" shape="rect" coords="154,249,177,261" />
+            <area alt="Original Dickinson: As soon impeach my Crown!" title="Original Dickinson: As soon impeach my Crown!" href="#fs1610poems1Map" shape="rect" coords="164,278,194,287" />
+        </map>
+    </div>
+    <!--FH VERSION-->
+    <div id="fhMap">
+        <img src="img/1610/1610fhMap.jpg" alt="" usemap="#fs1610fhMap" />
+        <map name="fs1610fhMap" id="fs1610fhMap">
+            <area alt="Original Dickinson: Afraid! Of whom am I afraid?" title="Original Dickinson: Afraid! Of whom am I afraid?" href="#fs1610fhMap" shape="rect" coords="97,38,128,55" />
+            <area alt="Original Dickinson: Not Death&#8212;for who is He?" title="Original Dickinson: Not Death&#8212;for who is He?" href="#fs1610fhMap" shape="rect" coords="119,54,225,67" />
+            <area alt="Original Dickinson: The Porter of my Father's Lodge" title="Original Dickinson: The Porter of my Father's Lodge" href="#fs1610fhMap" shape="rect" coords="120,67,148,83" />
+            <area alt="Original Dickinson: The Porter of my Father's Lodge" title="Original Dickinson: The Porter of my Father's Lodge" href="#fs1610fhMap" shape="rect" coords="176,65,244,84" />
+            <area alt="Original Dickinson: As much abasheth me!" title="Original Dickinson: As much abasheth me!" href="#fs1610fhMap" shape="rect" coords="194,85,199,96" />
+            <area alt="Original Dickinson: Of Life? 'Twere odd I fear thing" title="Original Dickinson: Of Life? 'Twere odd I fear thing" href="#fs1610fhMap" shape="rect" coords="217,101,265,124" />
+            <area alt="Original Dickinson: In one or two existences&#8212; OR In one or more&#8212;existences" title="Original Dickinson: In one or two existences&#8212; OR In one or more&#8212;existences" href="#fs1610fhMap" shape="rect" coords="136,132,215,146" />
+            <area alt="Original Dickinson: Just as the case may be&#8212; OR As Deity decree&#8212;" title="Original Dickinson: Just as the case may be&#8212; OR As Deity decree&#8212;" href="#fs1610fhMap" shape="rect" coords="91,144,174,159" />
+            <area alt="Original Dickinson: Of Resurrection? Is the East" title="Original Dickinson: Of Resurrection? Is the East" href="#fs1610fhMap" shape="rect" coords="113,168,165,180" />
+            <area alt="Original Dickinson: Of Resurrection? Is the East" title="Original Dickinson: Of Resurrection? Is the East" href="#fs1610fhMap" shape="rect" coords="202,170,227,183" />
+            <area alt="Original Dickinson: Afraid to trust the Morn" title="Original Dickinson: Afraid to trust the Morn" href="#fs1610fhMap" shape="rect" coords="172,185,209,197" />
+            <area alt="Original Dickinson: As soon impeach my Crown!" title="Original Dickinson: As soon impeach my Crown!" href="#fs1610fhMap" shape="rect" coords="186,213,224,224" />
+        </map>
+    </div>
+    <!--CE VERSION-->
+    <div id="ceMap">
+        <img src="img/1610/1610ceMap.jpg" alt="" usemap="#fs1610ceMap" />
+        <map name="fs1610ceMap" id="fs1610ceMap">
+            <area alt="Original Dickinson: Afraid! Of whom am I afraid?" title="Original Dickinson: Afraid! Of whom am I afraid?" href="#fs1610ceMap" shape="rect" coords="72,25,138,45" />
+            <area alt="Original Dickinson: Not Death&#8212;for who is He?" title="Original Dickinson: Not Death&#8212;for who is He?" href="#fs1610ceMap" shape="rect" coords="95,46,198,60" />
+            <area alt="Original Dickinson: The Porter of my Father's Lodge" title="Original Dickinson: The Porter of my Father's Lodge" href="#fs1610ceMap" shape="rect" coords="95,65,124,72" />
+            <area alt="Original Dickinson: The Porter of my Father's Lodge" title="Original Dickinson: The Porter of my Father's Lodge" href="#fs1610ceMap" shape="rect" coords="153,63,221,71" />
+            <area alt="Original Dickinson: As much abasheth me!" title="Original Dickinson: As much abasheth me!" href="#fs1610ceMap" shape="rect" coords="171,78,178,83" />
+            <area alt="Original Dickinson: Of Life? 'Twere odd I fear thing" title="Original Dickinson: Of Life? 'Twere odd I fear thing" href="#fs1610ceMap" shape="rect" coords="208,103,236,116" />
+            <area alt="Original Dickinson: In one or two existences&#8212; OR In one or more&#8212;existences" title="Original Dickinson: In one or two existences&#8212; OR In one or more&#8212;existences" href="#fs1610ceMap" shape="rect" coords="117,130,193,140" />
+            <area alt="Original Dickinson: Just as the case may be&#8212; OR As Deity decree&#8212;" title="Original Dickinson: Just as the case may be&#8212; OR As Deity decree&#8212;" href="#fs1610ceMap" shape="rect" coords="75,139,156,153" />
+            <area alt="Original Dickinson: Of Resurrection? Is the East" title="Original Dickinson: Of Resurrection? Is the East" href="#fs1610ceMap" shape="rect" coords="89,169,146,177" />
+            <area alt="Original Dickinson: Of Resurrection? Is the East" title="Original Dickinson: Of Resurrection? Is the East" href="#fs1610ceMap" shape="rect" coords="183,175,205,184" />
+            <area alt="Original Dickinson: Afraid to trust the Morn" title="Original Dickinson: Afraid to trust the Morn" href="#fs1610ceMap" shape="rect" coords="161,183,191,194" />
+            <area alt="Original Dickinson: As soon impeach my Crown!" title="Original Dickinson: As soon impeach my Crown!" href="#fs1610ceMap" shape="rect" coords="168,209,198,219" />
+        </map>
+    </div>
+    
+    <!-- Poem 1611 Image Mapping Code -->
+    <div id="dfMap">
+        <img src="img/1611/fs1611Map.jpg" alt="" usemap="#fs1611Map" />
+        <map name="fs1611Map" id="fs1611Map">
+            <area alt="He showed me Heights I never saw&#8212;" title="He showed me Heights I never saw&#8212;" href="#fs1611Map" shape="rect" coords="1,35,48,69" />
+            <area alt="He showed me Heights I never saw&#8212;" title="He showed me Heights I never saw&#8212;" href="#fs1611Map" shape="rect" coords="134,36,268,73" />
+            <area alt="He showed me Heights I never saw&#8212;" title="He showed me Heights I never saw&#8212;" href="#fs1611Map" shape="rect" coords="278,37,311,75" />
+            <area alt="'Would'st Climb'&#8212;He said?" title="'Would'st Climb'&#8212;He said?" href="#fs1611Map" shape="rect" coords="116,97,190,128" />
+            <area alt="'Would'st Climb'&#8212;He said?" title="'Would'st Climb'&#8212;He said?" href="#fs1611Map" shape="rect" coords="196,98,345,129" />
+            <area alt="I said, 'Not so'&#8212;" title="I said, 'Not so'&#8212;" href="#fs1611Map" shape="rect" coords="8,126,127,154" />
+            <area alt="I said, 'Not so'&#8212;" title="I said, 'Not so'&#8212;" href="#fs1611Map" shape="rect" coords="258,142,267,155" />
+            <area alt="'With me&#8212;' He said&#8212;'With me'?" title="'With me&#8212;' He said&#8212;'With me'?" href="#fs1611Map" shape="rect" coords="153,168,170,185" />
+            <area alt="'With me&#8212;' He said&#8212;'With me'?" title="'With me&#8212;' He said&#8212;'With me'?" href="#fs1611Map" shape="rect" coords="187,157,326,190" />
+            <area alt="'With me&#8212;' He said&#8212;'With me'?" title="'With me&#8212;' He said&#8212;'With me'?" href="#fs1611Map" shape="rect" coords="8,184,159,218" />
+            <area alt="He showed me Secrets&#8212;" title="He showed me Secrets&#8212;" href="#fs1611Map" shape="rect" coords="2,247,45,278" />
+            <area alt="He showed me Secrets&#8212;" title="He showed me Secrets&#8212;" href="#fs1611Map" shape="rect" coords="134,251,182,277" />
+            <area alt="He showed me Secrets&#8212;" title="He showed me Secrets&#8212;" href="#fs1611Map" shape="rect" coords="195,249,295,280" />
+            <area alt="Morning's Nest&#8212;" title="Morning's Nest&#8212;" href="#fs1611Map" shape="rect" coords="3,283,214,310" />
+            <area alt="The Rope the Nights were put across&#8212;" title="The Rope the Nights were put across&#8212;" href="#fs1611Map" shape="rect" coords="61,310,163,342" />
+            <area alt="'And now, Would'st have me for a Guest'?" title="'And now, Would'st have me for a Guest'?" href="#fs1611Map" shape="rect" coords="4,365,333,425" />
+            <area alt="I could not find my 'Yes'." title="I could not find my 'Yes'." href="#fs1611Map" shape="rect" coords="5,424,38,454" />
+            <area alt="I could not find my 'Yes'." title="I could not find my 'Yes'." href="#fs1611Map" shape="rect" coords="228,427,319,463" />
+            <area alt="The steadier, as my face withdrew&#8212;" title="The steadier, as my face withdrew&#8212;" href="#fs1611Map" shape="rect" coords="6,627,328,697" />
+            <area alt="The larger, as my face withdrew&#8212;" title="The larger, as my face withdrew&#8212;" href="#fs1611Map" shape="rect" coords="70,766,224,817" />
+        </map>
+    </div>
+    <div id="ceMap">
+        <img src="img/1611/1611ceMap.jpg" alt="" usemap="#fs1611ceMap" />
+        <map name="fs1611ceMap" id="fs1611ceMap">
+            <area alt="Dickinson Original: He showed me Heights I never saw&#8212;" title="Dickinson Original: He showed me Heights I never saw&#8212;" href="#fs1611ceMap" shape="rect" coords="100,20,115,39" />
+            <area alt="Dickinson Original: He showed me Heights I never saw&#8212;" title="Dickinson Original: He showed me Heights I never saw&#8212;" href="#fs1611ceMap" shape="rect" coords="167,23,222,39" />
+            <area alt="Dickinson Original: 'Would'st Climb'&#8212;He said?" title="Dickinson Original: 'Would'st Climb'&#8212;He said?" href="#fs1611ceMap" shape="rect" coords="146,38,180,53" />
+            <area alt="Dickinson Original: 'Would'st Climb'&#8212;He said?" title="Dickinson Original: 'Would'st Climb'&#8212;He said?" href="#fs1611ceMap" shape="rect" coords="187,38,216,51" />
+            <area alt="Dickinson Original: I said, 'Not so'&#8212;" title="Dickinson Original: I said, 'Not so'&#8212;" href="#fs1611ceMap" shape="rect" coords="100,51,143,64" />
+            <area alt="Dickinson Original: 'With me&#8212;' He said&#8212;'With me'?" title="Dickinson Original: 'With me&#8212;' He said&#8212;'With me'?" href="#fs1611ceMap" shape="rect" coords="147,65,156,74" />
+            <area alt="Dickinson Original: 'With me&#8212;' He said&#8212;'With me'?" title="Dickinson Original: 'With me&#8212;' He said&#8212;'With me'?" href="#fs1611ceMap" shape="rect" coords="161,63,193,75" />
+            <area alt="Dickinson Original: 'With me&#8212;' He said&#8212;'With me'?" title="Dickinson Original: 'With me&#8212;' He said&#8212;'With me'?" href="#fs1611ceMap" shape="rect" coords="194,63,255,75" />
+            <area alt="Dickinson Original: He showed me Secrets&#8212;" title="Dickinson Original: He showed me Secrets&#8212;" href="#fs1611ceMap" shape="rect" coords="102,77,110,87" />
+            <area alt="Dickinson Original: He showed me Secrets&#8212;" title="Dickinson Original: He showed me Secrets&#8212;" href="#fs1611ceMap" shape="rect" coords="146,76,162,89" />
+            <area alt="Dickinson Original: He showed me Secrets&#8212;" title="Dickinson Original: He showed me Secrets&#8212;" href="#fs1611ceMap" shape="rect" coords="164,78,200,89" />
+            <area alt="Dickinson Original: Morning's Nest&#8212;" title="Dickinson Original: Morning's Nest&#8212;" href="#fs1611ceMap" shape="rect" coords="102,89,175,103" />
+            <area alt="Dickinson Original: The Rope the Nights were put across&#8212;" title="Dickinson Original: The Rope the Nights were put across&#8212;" href="#fs1611ceMap" shape="rect" coords="121,104,164,115" />
+            <area alt="Dickinson Original: 'And now, Would'st have me for a Guest'?" title="Dickinson Original: 'And now, Would'st have me for a Guest'?" href="#fs1611ceMap" shape="rect" coords="103,114,303,126" />
+            <area alt="Dickinson Original: I could not find my 'Yes'." title="Dickinson Original: I could not find my 'Yes'." href="#fs1611ceMap" shape="rect" coords="102,126,122,139" />
+            <area alt="Dickinson Original: I could not find my 'Yes'." title="Dickinson Original: I could not find my 'Yes'." href="#fs1611ceMap" shape="rect" coords="190,129,238,140" />
+            <area alt="Dickinson Original: The steadier, as my face withdrew&#8212; OR The larger, as my face withdrew&#8212;" title="Dickinson Original: The steadier, as my face withdrew&#8212; OR The larger, as my face withdrew&#8212;" href="#fs1611ceMap" shape="rect" coords="100,163,272,177" />
+        </map>
+    </div>
+    <div id="lSDMap">
+        <img src="img/1611/1611lSDMap.jpg" alt="" usemap="#fs1611lSDMap" />
+        <map name="fs1611lSDMap" id="fs1611lSDMap">
+            <area alt="Dickinson Original: He showed me Heights I never saw&#8212;" title="Dickinson Original: He showed me Heights I never saw&#8212;" href="#fs1611lSDMap" shape="rect" coords="21,50,68,90" />
+            <area alt="Dickinson Original: He showed me Heights I never saw&#8212;" title="Dickinson Original: He showed me Heights I never saw&#8212;" href="#fs1611lSDMap" shape="rect" coords="187,53,341,92" />
+            <area alt="Dickinson Original: He showed me Heights I never saw&#8212;" title="Dickinson Original: He showed me Heights I never saw&#8212;" href="#fs1611lSDMap" shape="rect" coords="25,96,76,124" />
+            <area alt="Dickinson Original: 'Would'st Climb'&#8212;He said?" title="Dickinson Original: 'Would'st Climb'&#8212;He said?" href="#fs1611lSDMap" shape="rect" coords="150,127,239,163" />
+            <area alt="Dickinson Original: 'Would'st Climb'&#8212;He said?" title="Dickinson Original: 'Would'st Climb'&#8212;He said?" href="#fs1611lSDMap" shape="rect" coords="248,125,337,164" />
+            <area alt="Dickinson Original: I said, 'Not so'&#8212;" title="Dickinson Original: I said, 'Not so'&#8212;" href="#fs1611lSDMap" shape="rect" coords="22,162,193,197" />
+            <area alt="Dickinson Original: 'With me&#8212;' He said&#8212;'With me'?" title="Dickinson Original: 'With me&#8212;' He said&#8212;'With me'?" href="#fs1611lSDMap" shape="rect" coords="156,210,181,230" />
+            <area alt="Dickinson Original: 'With me&#8212;' He said&#8212;'With me'?" title="Dickinson Original: 'With me&#8212;' He said&#8212;'With me'?" href="#fs1611lSDMap" shape="rect" coords="195,199,335,234" />
+            <area alt="Dickinson Original: 'With me&#8212;' He said&#8212;'With me'?" title="Dickinson Original: 'With me&#8212;' He said&#8212;'With me'?" href="#fs1611lSDMap" shape="rect" coords="20,234,226,267" />
+            <area alt="Dickinson Original: He showed me Secrets&#8212;" title="Dickinson Original: He showed me Secrets&#8212;" href="#fs1611lSDMap" shape="rect" coords="22,272,56,303" />
+            <area alt="Dickinson Original: He showed me Secrets&#8212;" title="Dickinson Original: He showed me Secrets&#8212;" href="#fs1611lSDMap" shape="rect" coords="184,269,229,301" />
+            <area alt="Dickinson Original: He showed me Secrets&#8212;" title="Dickinson Original: He showed me Secrets&#8212;" href="#fs1611lSDMap" shape="rect" coords="240,269,339,300" />
+            <area alt="Dickinson Original: Morning's Nest&#8212;" title="Dickinson Original: Morning's Nest&#8212;" href="#fs1611lSDMap" shape="rect" coords="23,307,291,341" />
+            <area alt="Dickinson Original: The Rope the Nights were put across&#8212;" title="Dickinson Original: The Rope the Nights were put across&#8212;" href="#fs1611lSDMap" shape="rect" coords="88,338,237,370" />
+            <area alt="Dickinson Original: 'And now, Would'st have me for a Guest'?" title="Dickinson Original: 'And now, Would'st have me for a Guest'?" href="#fs1611lSDMap" shape="rect" coords="19,405,335,478" />
+            <area alt="Dickinson Original: I could not find my 'Yes'." title="Dickinson Original: I could not find my 'Yes'." href="#fs1611lSDMap" shape="rect" coords="19,479,71,514" />
+            <area alt="Dickinson Original: I could not find my 'Yes'." title="Dickinson Original: I could not find my 'Yes'." href="#fs1611lSDMap" shape="rect" coords="265,479,344,511" />
+            <area alt="Dickinson Original: And then, He brake His Life&#8212;And lo," title="Dickinson Original: And then, He brake His Life&#8212;And lo," href="#fs1611lSDMap" shape="rect" coords="208,565,251,595" />
+            <area alt="Dickinson Original: And then, He brake His Life&#8212;And lo," title="Dickinson Original: And then, He brake His Life&#8212;And lo," href="#fs1611lSDMap" shape="rect" coords="44,604,328,638" />
+            <area alt="Dickinson Original: A light for me, did solemn glow" title="Dickinson Original: A light for me, did solemn glow" href="#fs1611lSDMap" shape="rect" coords="85,642,300,673" />
+            <area alt="Dickinson Original: A light for me, did solemn glow" title="Dickinson Original: A light for me, did solemn glow" href="#fs1611lSDMap" shape="rect" coords="281,692,299,709" />
+            <area alt="Dickinson Original: The steadier, as my face withdrew&#8212; OR The larger, as my face withdrew&#8212;" title="Dickinson Original: The steadier, as my face withdrew&#8212; OR The larger, as my face withdrew&#8212;" href="#fs1611lSDMap" shape="rect" coords="36,710,314,777" />
+            <area alt="Dickinson Original: And could I further 'No'?" title="Dickinson Original: And could I further 'No'?" href="#fs1611lSDMap" shape="rect" coords="109,782,347,815" />
+            <area alt="Dickinson Original: And could I further 'No'?" title="Dickinson Original: And could I further 'No'?" href="#fs1611lSDMap" shape="rect" coords="42,807,148,843" />
+        </map>
+    </div>
+    
+    
+</div>
