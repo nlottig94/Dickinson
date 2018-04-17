@@ -14,7 +14,7 @@
             <head>
                 <link rel="stylesheet" type="text/css" href="../css/styles.css"/>
                 <script type="text/javascript" src="../scripts/dickinson.js"/>
-                <title>Emily Dickinson: Fascicle 6 | <xsl:value-of select="//idno"/></title>
+                <title>Emily Dickinson: Fascicle 16 | <xsl:value-of select="//idno"/></title>
             </head>
             <body>
                 <div class="main">
@@ -24,7 +24,7 @@
                                 <span class="nameTitle">Emily Dickinson</span>
                             </a>
                             <a class="noShowLink" href="6home.html">
-                                <span class="siteTitle">: Fascicle 6</span>
+                                <span class="siteTitle">: Fascicle 16</span>
                             </a>
                         </h1>
                         <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
@@ -53,55 +53,34 @@
                                     <a href="poems.html">Poems <span class="arrow">▼</span></a>
                                     <ul class="sub">
                                         <li>
-                                            <a href="601.html">601</a>
+                                            <a href="601.html">1601</a>
                                         </li>
                                         <li>
-                                            <a href="602.html">602</a>
+                                            <a href="602.html">1602</a>
                                         </li>
                                         <li>
-                                            <a href="603.html">603</a>
+                                            <a href="603.html">1603</a>
                                         </li>
                                         <li>
-                                            <a href="604.html">604</a>
+                                            <a href="604.html">1604</a>
                                         </li>
                                         <li>
-                                            <a href="605.html">605</a>
+                                            <a href="605.html">1605</a>
                                         </li>
                                         <li>
-                                            <a href="606.html">606</a>
+                                            <a href="606.html">1606</a>
                                         </li>
                                         <li>
-                                            <a href="607.html">607</a>
+                                            <a href="607.html">1607</a>
                                         </li>
                                         <li>
-                                            <a href="608.html">608</a>
+                                            <a href="608.html">1608</a>
                                         </li>
                                         <li>
-                                            <a href="609.html">609</a>
+                                            <a href="609.html">1609</a>
                                         </li>
                                         <li>
-                                            <a href="610.html">610</a>
-                                        </li>
-                                        <li>
-                                            <a href="611.html">611</a>
-                                        </li>
-                                        <li>
-                                            <a href="612.html">612</a>
-                                        </li>
-                                        <li>
-                                            <a href="613.html">613</a>
-                                        </li>
-                                        <li>
-                                            <a href="614.html">614</a>
-                                        </li>
-                                        <li>
-                                            <a href="615.html">615</a>
-                                        </li>
-                                        <li>
-                                            <a href="616.html">616</a>
-                                        </li>
-                                        <li>
-                                            <a href="617.html">617</a>
+                                            <a href="610.html">1610</a>
                                         </li>
                                     </ul>
                                 </li>
