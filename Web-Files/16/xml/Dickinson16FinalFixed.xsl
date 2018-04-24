@@ -271,6 +271,19 @@
         </html>
     </xsl:template>
 
+    <xsl:template match="del[@rend]">
+        <xsl:choose>
+            <xsl:when test="@rend = 'strikethrough'">
+                <span class="strikeThrough">
+                    <xsl:apply-templates/>
+                </span>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:apply-templates/>
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:template>
+    
     <xsl:template match="q[@rend]">
         <xsl:choose>
             <xsl:when test="@rend = 'single'">
@@ -330,11 +343,16 @@
                     <!-- ebb: removed @class="current()" from table element to output variants only inside cells.-->
            
                    <!--<xsl:value-of select="current()"/>-->                 
-                    <xsl:when test="$current//rdg">
+                    
+                     <xsl:when test="$current//rdg">
                         <xsl:apply-templates select="$current" mode="row">
                         <xsl:with-param name="wit" select="current()" as="xs:string" tunnel="yes"/>
                     </xsl:apply-templates>
                     </xsl:when>
+<!--  fixing                   -->
+                     <xsl:when test="current() = 'df16'">
+                         <xsl:apply-templates select="$current" mode="row_df16"/>
+                     </xsl:when>
                     <xsl:otherwise>
                         <xsl:apply-templates select="$current" mode="row"/>
                     </xsl:otherwise>
@@ -389,5 +407,48 @@
     <xsl:template match="app">
         <xsl:param name="wit" tunnel="yes"/>
         <xsl:apply-templates select="rdg[contains(@wit, $wit)]"/>
+    </xsl:template>
+    <xsl:template match="l" mode="row_df16">
+        
+        <tr class="df16Toggle">
+            <xsl:for-each select="node()">
+                <xsl:choose>
+                    <xsl:when test="current()/rdg[@wit[contains(., '#df16')]]">
+                        <td class="df16">
+                            <xsl:apply-templates select="." mode="row_df16"/>
+                        </td>                
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <td class="df16text">
+                            <xsl:apply-templates select="." mode="row_df16"/>
+                        </td>
+                    </xsl:otherwise>
+                </xsl:choose>
+            </xsl:for-each>
+        </tr>
+        
+    </xsl:template>
+    <xsl:template match="app" mode="row_df16">
+        <xsl:choose>  
+            <xsl:when test="rdg[contains(@type, 'var')]">
+                <xsl:if test="rdg[contains(@type, 'var0')]">
+                    <span class="var">VAR 1: </span>
+                    <xsl:apply-templates
+                        select="rdg[contains(@type, 'var0')]"/>
+                </xsl:if>
+                <xsl:if test="rdg[contains(@type, 'var1')]">
+                    <span class="var">VAR 2: </span>
+                    <xsl:apply-templates
+                        select="rdg[contains(@type, 'var1')]"/>
+                </xsl:if>
+                <xsl:if test="rdg[contains(@type, 'var2')]">
+                    <span class="var">VAR 3: </span>
+                    <xsl:apply-templates
+                        select="rdg[contains(@type, 'var2')]"/>
+                </xsl:if></xsl:when>
+            <xsl:otherwise>
+                <xsl:apply-templates select="rdg[contains(@wit, 'df16')]"/>
+            </xsl:otherwise></xsl:choose>
+        
     </xsl:template>
 </xsl:stylesheet>

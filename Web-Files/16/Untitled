@@ -1,0 +1,424 @@
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <link rel="stylesheet" type="text/css" href="../css/styles.css" /><script type="text/javascript" src="../scripts/dickinson.js"></script><title>Emily Dickinson: Fascicle 16 | 1608</title>
+   </head>
+   <body>
+      <div class="main">
+         <div class="header">
+            <h1 class="title"><a class="noShowLink" href="../index.html"><span class="nameTitle">Emily Dickinson</span></a><a class="noShowLink" href="6home.html"><span class="siteTitle">: Fascicle 16</span></a></h1><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img class="cclic" alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a></div>
+         <div class="mwrapper">
+            <div class="menu">
+               <ul class="cfix">
+                  <li><a href="../index.html">Home</a></li>
+                  <li><a href="../about.html">About <span class="arrow">▼</span></a><ul class="sub">
+                        <li><a href="../members.html">Our Members</a></li>
+                        <li><a href="../methodology.html">Methodology</a></li>
+                     </ul>
+                  </li>
+                  <li><a href="poems.html">Poems <span class="arrow">▼</span></a><ul class="sub">
+                        <li><a href="1601.html">1601</a></li>
+                        <li><a href="1602.html">1602</a></li>
+                        <li><a href="1603.html">1603</a></li>
+                        <li><a href="1604.html">1604</a></li>
+                        <li><a href="1605.html">1605</a></li>
+                        <li><a href="1606.html">1606</a></li>
+                        <li><a href="1607.html">1607</a></li>
+                        <li><a href="1608.html">1608</a></li>
+                        <li><a href="1609.html">1609</a></li>
+                        <li><a href="1610.html">1610</a></li>
+                        <li><a href="1611.html">1611</a></li>
+                     </ul>
+                  </li>
+                  <li><a href="../analysis.html">Analysis <span class="arrow">▼</span></a><ul class="sub">
+                        <li><a href="dash.html">Dash Usage Comparison</a></li>
+                        <li><a href="conclusion.html">Conclusion</a></li>
+                     </ul>
+                  </li>
+                  <li><a href="../contact.html">Contact</a></li>
+               </ul>
+            </div>
+         </div>
+         <div class="content">
+            <div class="side-nav"><button class="df16Key" id="df16Button">Fascicle 16</button><button class="bmKey" id="bmButton">Bolts of Melody</button><a class="origXML" id="origXML" href="xml/1608variant.xml">View Original
+                  XML</a><button class="origImg" id="origImg">View Original Variant
+                  Images</button><p class="instruct"><strong>Instructions:</strong> You can turn the
+                  variations of the poem on and off at the same time. The button will
+                  show as depressed, and the poems will load side by side. The images
+                  for the corresponding poem will stack on top of each other if
+                  multiple variants are turned on at once.
+               </p>
+            </div>
+            <div class="poem">
+               
+               <h2><span id="poem1608">Poem 8 (J 242: 1861/1945)</span></h2>
+               
+               <div class="para">
+                  
+                  <div class="line"><span class="lineNum">1: </span><div class="lineContent">
+                        <table>
+                           <tr class="df16Toggle">
+                              <td class="df16text">When we stand on tops of </td>
+                              <td class="df16">Things</td>
+                              <td class="df16">—</td>
+                           </tr>
+                        </table>
+                        <table>
+                           <tr class="bmToggle">
+                              <td class="bmtext">When we stand on tops of </td>
+                              <td class="bm">things</td>
+                              <td class="bm"></td>
+                           </tr>
+                        </table>
+                     </div>
+                  </div>
+                  
+                  <div class="line"><span class="lineNum">2: </span><div class="lineContent">
+                        <table>
+                           <tr class="df16Toggle">
+                              <td class="df16text">And like the </td>
+                              <td class="df16">Trees</td>
+                              <td class="df16">,</td>
+                              <td class="df16text"> look down</td>
+                              <td class="df16">—</td>
+                           </tr>
+                        </table>
+                        <table>
+                           <tr class="bmToggle">
+                              <td class="bmtext">And like the </td>
+                              <td class="bm">trees</td>
+                              <td class="bm"></td>
+                              <td class="bmtext"> look down</td>
+                              <td class="bm">,</td>
+                           </tr>
+                        </table>
+                     </div>
+                  </div>
+                  
+                  <div class="line"><span class="lineNum">3: </span><div class="lineContent">
+                        <table>
+                           <tr class="df16Toggle">
+                              <td class="df16text">The smoke all cleared away from it</td>
+                              <td class="df16">—</td>
+                           </tr>
+                        </table>
+                        <table>
+                           <tr class="bmToggle">
+                              <td class="bmtext">The smoke all cleared away from it</td>
+                              <td class="bm"></td>
+                           </tr>
+                        </table>
+                     </div>
+                  </div>
+                  
+                  <div class="line"><span class="lineNum">4: </span><div class="lineContent">
+                        <table>
+                           <tr class="df16Toggle">
+                              <td class="df16text">And </td>
+                              <td class="df16">Mirrors</td>
+                              <td class="df16text"> on the scene</td>
+                              <td class="df16">—</td>
+                           </tr>
+                        </table>
+                        <table>
+                           <tr class="bmToggle">
+                              <td class="bmtext">And </td>
+                              <td class="bm">[sunset]</td>
+                              <td class="bmtext"> on the scene</td>
+                              <td class="bm"></td>
+                           </tr>
+                        </table>
+                     </div>
+                  </div>
+                  
+               </div>
+               
+               <div class="para">
+                  
+                  <div class="line"><span class="lineNum">5: </span><div class="lineContent">
+                        <table>
+                           <tr class="df16Toggle">
+                              <td class="df16text">Just laying light</td>
+                              <td class="df16">—</td>
+                              <td class="df16text">no </td>
+                              <td class="df16">Soul</td>
+                              <td class="df16text"> will wink</td>
+                           </tr>
+                        </table>
+                        <table>
+                           <tr class="bmToggle">
+                              <td class="bmtext">Just laying light</td>
+                              <td class="bm">, </td>
+                              <td class="bmtext">no </td>
+                              <td class="bm">soul</td>
+                              <td class="bmtext"> will wink</td>
+                           </tr>
+                        </table>
+                     </div>
+                  </div>
+                  
+                  <div class="line"><span class="lineNum">6: </span><div class="lineContent">
+                        <table>
+                           <tr class="df16Toggle">
+                              <td class="df16text">Except it have a flaw</td>
+                              <td class="df16">—</td>
+                           </tr>
+                        </table>
+                        <table>
+                           <tr class="bmToggle">
+                              <td class="bmtext">Except it have a flaw</td>
+                              <td class="bm">;</td>
+                           </tr>
+                        </table>
+                     </div>
+                  </div>
+                  
+                  <div class="line"><span class="lineNum">7: </span><div class="lineContent">
+                        <table>
+                           <tr class="df16Toggle">
+                              <td class="df16text">The </td>
+                              <td class="df16">H</td>
+                              <td class="df16text"> </td>
+                              <td class="df16">Sound</td>
+                              <td class="df16text"> ones</td>
+                              <td class="df16">,</td>
+                              <td class="df16text"> like the </td>
+                              <td class="df16">Hills</td>
+                              <td class="df16">—</td>
+                              <td class="df16">stand upshall stand</td>
+                              <td class="df16">—</td>
+                           </tr>
+                        </table>
+                        <table>
+                           <tr class="bmToggle">
+                              <td class="bmtext">The </td>
+                              <td class="bm"></td>
+                              <td class="bmtext"> </td>
+                              <td class="bm">sound</td>
+                              <td class="bmtext"> ones</td>
+                              <td class="bm"></td>
+                              <td class="bmtext"> like the </td>
+                              <td class="bm">hills</td>
+                              <td class="bm"></td>
+                              <td class="bm">shall stand</td>
+                              <td class="bm"></td>
+                           </tr>
+                        </table>
+                     </div>
+                  </div>
+                  
+                  <div class="line"><span class="lineNum">8: </span><div class="lineContent">
+                        <table>
+                           <tr class="df16Toggle">
+                              <td class="df16text">No </td>
+                              <td class="df16">Lightning</td>
+                              <td class="df16">,</td>
+                              <td class="df16text"> </td>
+                              <td class="df16">scares awaydrives</td>
+                              <td class="df16">—</td>
+                           </tr>
+                        </table>
+                        <table>
+                           <tr class="bmToggle">
+                              <td class="bmtext">No </td>
+                              <td class="bm">lightning</td>
+                              <td class="bm"></td>
+                              <td class="bmtext"> </td>
+                              <td class="bm">drives away</td>
+                              <td class="bm">.</td>
+                           </tr>
+                        </table>
+                     </div>
+                  </div>
+                  
+               </div>
+               
+               <div class="para">
+                  
+                  <div class="line"><span class="lineNum">9: </span><div class="lineContent">
+                        <table>
+                           <tr class="df16Toggle">
+                              <td class="df16text">The </td>
+                              <td class="df16">Perfect</td>
+                              <td class="df16">,</td>
+                              <td class="df16text"> nowhere be afraid</td>
+                              <td class="df16">—</td>
+                           </tr>
+                        </table>
+                        <table>
+                           <tr class="bmToggle">
+                              <td class="bmtext">The </td>
+                              <td class="bm">perfect</td>
+                              <td class="bm"></td>
+                              <td class="bmtext"> nowhere be afraid</td>
+                              <td class="bm">,</td>
+                           </tr>
+                        </table>
+                     </div>
+                  </div>
+                  
+                  <div class="line"><span class="lineNum">10: </span><div class="lineContent">
+                        <table>
+                           <tr class="df16Toggle">
+                              <td class="df16text">They bear their </td>
+                              <td class="df16">dauntless fearless—tranquil—</td>
+                              <td class="df16">Heads</td>
+                              <td class="df16">,</td>
+                           </tr>
+                        </table>
+                        <table>
+                           <tr class="bmToggle">
+                              <td class="bmtext">They bear their </td>
+                              <td class="bm">tranquil</td>
+                              <td class="bm">heads</td>
+                              <td class="bm"></td>
+                           </tr>
+                        </table>
+                     </div>
+                  </div>
+                  
+                  <div class="line"><span class="lineNum">11: </span><div class="lineContent">
+                        <table>
+                           <tr class="df16Toggle">
+                              <td class="df16text">When others</td>
+                              <td class="df16">,</td>
+                              <td class="df16text"> dare not </td>
+                              <td class="df16">go at Noon,walk at noon—</td>
+                           </tr>
+                        </table>
+                        <table>
+                           <tr class="bmToggle">
+                              <td class="bmtext">When others</td>
+                              <td class="bm"></td>
+                              <td class="bmtext"> dare not </td>
+                              <td class="bm">go at noon,</td>
+                           </tr>
+                        </table>
+                     </div>
+                  </div>
+                  
+                  <div class="line"><span class="lineNum">12: </span><div class="lineContent">
+                        <table>
+                           <tr class="df16Toggle">
+                              <td class="df16text">Protected by their deeds</td>
+                              <td class="df16">—</td>
+                           </tr>
+                        </table>
+                        <table>
+                           <tr class="bmToggle">
+                              <td class="bmtext">Protected by their deeds</td>
+                              <td class="bm">.</td>
+                           </tr>
+                        </table>
+                     </div>
+                  </div>
+                  
+               </div>
+               
+               <div class="para">
+                  
+                  <div class="line"><span class="lineNum">13: </span><div class="lineContent">
+                        <table>
+                           <tr class="df16Toggle">
+                              <td class="df16text">The </td>
+                              <td class="df16">Stars</td>
+                              <td class="df16text"> dare shine occasionally</td>
+                           </tr>
+                        </table>
+                        <table>
+                           <tr class="bmToggle">
+                              <td class="bmtext">The </td>
+                              <td class="bm">stars</td>
+                              <td class="bmtext"> dare shine occasionally</td>
+                           </tr>
+                        </table>
+                     </div>
+                  </div>
+                  
+                  <div class="line"><span class="lineNum">14: </span><div class="lineContent">
+                        <table>
+                           <tr class="df16Toggle">
+                              <td class="df16text">Upon a spotted </td>
+                              <td class="df16">World</td>
+                              <td class="df16">—</td>
+                           </tr>
+                        </table>
+                        <table>
+                           <tr class="bmToggle">
+                              <td class="bmtext">Upon a spotted </td>
+                              <td class="bm">world</td>
+                              <td class="bm">,</td>
+                           </tr>
+                        </table>
+                     </div>
+                  </div>
+                  
+                  <div class="line"><span class="lineNum">15: </span><div class="lineContent">
+                        <table>
+                           <tr class="df16Toggle">
+                              <td class="df16text">And </td>
+                              <td class="df16">Suns</td>
+                              <td class="df16">,</td>
+                              <td class="df16text"> go surer</td>
+                              <td class="df16">,</td>
+                              <td class="df16text"> for their </td>
+                              <td class="df16">Proof</td>
+                              <td class="df16text">,</td>
+                           </tr>
+                        </table>
+                        <table>
+                           <tr class="bmToggle">
+                              <td class="bmtext">And </td>
+                              <td class="bm">suns</td>
+                              <td class="bm"></td>
+                              <td class="bmtext"> go surer</td>
+                              <td class="bm"></td>
+                              <td class="bmtext"> for their </td>
+                              <td class="bm">proof</td>
+                              <td class="bmtext">,</td>
+                           </tr>
+                        </table>
+                     </div>
+                  </div>
+                  
+                  <div class="line"><span class="lineNum">16: </span><div class="lineContent">
+                        <table>
+                           <tr class="df16Toggle">
+                              <td class="df16text">As if </td>
+                              <td class="df16">An Axle, held—A Muscle—held</td>
+                           </tr>
+                        </table>
+                        <table>
+                           <tr class="bmToggle">
+                              <td class="bmtext">As if </td>
+                              <td class="bm">an axle held.</td>
+                           </tr>
+                        </table>
+                     </div>
+                  </div>
+                  
+               </div>
+               
+            </div>
+            <div class="poemImg"></div>
+         </div>
+         <div class="footer"></div>
+         <div id="imgModal" class="modal">
+            <div class="modal-content">
+               <div class="modal-header"><span class="close">×</span><h2>Variant Poem Images</h2>
+               </div>
+               <div class="modal-body">
+                  <div class="modalImgCont"><a target="_blank" href="img/1608/fs1608a.jpg"><img src="img/1608/fs1608a.jpg" alt="Poem 1608 Variant Image" /></a><div class="modalDesc">Fascicle 16 'A'</div>
+                  </div>
+                  <div class="modalImgCont"><a target="_blank" href="img/1608/fs1608b.jpg"><img src="img/1608/fs1608b.jpg" alt="Poem 1608 Variant Image" /></a><div class="modalDesc">Fascicle 16 'B'</div>
+                  </div>
+                  <div class="modalImgCont"><a target="_blank" href="img/1608/1608bm.jpg"><img src="img/1608/1608bm.jpg" alt="Poem 1608 Variant Image" /></a><div class="modalDesc">Bolts of Melody</div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </body>
+</html>
