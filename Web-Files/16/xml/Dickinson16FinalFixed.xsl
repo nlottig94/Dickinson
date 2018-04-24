@@ -349,7 +349,7 @@
                         <xsl:with-param name="wit" select="current()" as="xs:string" tunnel="yes"/>
                     </xsl:apply-templates>
                     </xsl:when>
-<!--  fixing                   -->
+<!--  2018-04-24: nll: Becca, this is where I believe the problem starts...                   -->
                      <xsl:when test="current() = 'df16'">
                          <xsl:apply-templates select="$current" mode="row_df16"/>
                      </xsl:when>
