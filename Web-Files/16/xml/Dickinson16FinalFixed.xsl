@@ -141,6 +141,12 @@
                             <xsl:if test="//front//witness[@xml:id/contains(., 'CP')]">
                                 <button class="CPKey" id="CPButton">Complete Poems</button>
                             </xsl:if>
+                            <xsl:if test="//front//witness[@xml:id/contains(., 'fp')]">
+                                <button class="fpKey" id="fpButton">Further Poems</button>
+                            </xsl:if>
+                            <xsl:if test="//front//witness[@xml:id/contains(., 'am')]">
+                                <button class="amKey" id="amButton">Atlantic Monthly</button>
+                            </xsl:if>
                             <a class="origXML" id="origXML"
                                 href="{//listRef/ptr/@target[contains(., 'xml')]}">View Original
                                 XML</a>
@@ -246,6 +252,12 @@
                                             </xsl:when>
                                             <xsl:when test=".[contains(., 'CPb.')]">
                                                 <div class="modalDesc">Complete Poems 'B'</div>
+                                            </xsl:when>
+                                            <xsl:when test=".[contains(., 'fp')]">
+                                                <div class="modalDesc">Further Poems</div>
+                                            </xsl:when>
+                                            <xsl:when test=".[contains(., 'am.')]">
+                                                <div class="modalDesc">Atlantic Monthly</div>
                                             </xsl:when>
                                         </xsl:choose>
                                     </div>
