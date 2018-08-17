@@ -332,12 +332,8 @@
         <div class="line">
             <span class="lineNum"><xsl:value-of select="count(preceding::l) + 1"/><xsl:text>: </xsl:text></span>
             <div class="lineContent">
-        <xsl:variable name="current" select="current()"/>
-                <!--<xsl:sequence select="current()"/>
-        </xsl:variable> -->
-       <!--2016-04-20 ebb: It doesn't seem to be necessary to declare this variable a sequence because of course current() is going to be a new
-           value each time the template match on `<l>` fires.-->
-         
+        <xsl:variable name="current" as="node()" select="current()"/>
+
              <xsl:choose>
                  <xsl:when test="descendant::rdg">   <xsl:for-each select="$witness"><table><xsl:choose>
                     <!-- ebb: removed @class="current()" from table element to output variants only inside cells.-->
@@ -350,9 +346,7 @@
                     </xsl:apply-templates>
                     </xsl:when>
 <!--  2018-04-24: nll: Becca, this is where I believe the problem starts...                   -->
-                     <xsl:when test="current() = 'df16'">
-                         <xsl:apply-templates select="$current" mode="row_df16"/>
-                     </xsl:when>
+             
                     <xsl:otherwise>
                         <xsl:apply-templates select="$current" mode="row"/>
                     </xsl:otherwise>
@@ -386,7 +380,7 @@
                                <xsl:when test="current()/rdg[contains(@wit, $wit)]">
                 <td class="{$wit}"><xsl:apply-templates select="."/>
                 </td></xsl:when>
-                  <!--ebb: The otherwise condition gets the text nodes surrounding the witness it and puts them in their own special cells.-->
+                  <!--ebb: The otherwise condition gets the text nodes surrounding the witness and puts them in their own special cells.-->
                      <xsl:otherwise>
                         <td class="{$wit}text">
                             <xsl:apply-templates select="."/>
@@ -404,11 +398,7 @@
         </xsl:when>
         </xsl:choose>
     </xsl:template>
-    <xsl:template match="app">
-        <xsl:param name="wit" tunnel="yes"/>
-        <xsl:apply-templates select="rdg[contains(@wit, $wit)]"/>
-    </xsl:template>
-    <xsl:template match="l" mode="row_df16">
+   <!-- <xsl:template match="l" mode="row_df16">
         
         <tr class="df16Toggle">
             <xsl:for-each select="node()">
@@ -429,6 +419,7 @@
         
     </xsl:template>
     <xsl:template match="app" mode="row_df16">
+        <xsl:param name="wit" tunnel="yes"/>
         <xsl:choose>  
             <xsl:when test="rdg[contains(@type, 'var')]">
                 <xsl:if test="rdg[contains(@type, 'var0')]">
@@ -450,5 +441,23 @@
                 <xsl:apply-templates select="rdg[contains(@wit, 'df16')]"/>
             </xsl:otherwise></xsl:choose>
         
+    </xsl:template>-->
+    <xsl:template match="app">
+        <xsl:param name="wit" tunnel="yes"/>
+      <xsl:choose><xsl:when test="$wit = 'df16'">  <xsl:apply-templates select="rdg[contains(@wit, $wit)]" mode="df16"/>  </xsl:when>
+      <xsl:otherwise>
+          <xsl:apply-templates select="rdg[contains(@wit, $wit)]"/>  
+      </xsl:otherwise>
+      </xsl:choose>
+    </xsl:template>
+    <xsl:template match="rdg" mode="df16">
+        <xsl:choose>
+            <xsl:when test="contains(@type, 'var')">
+                <span class="var">VAR <xsl:value-of select="number(substring-after(@type, 'var')) + 1"/>: <xsl:apply-templates/> </span>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:apply-templates/>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
 </xsl:stylesheet>
