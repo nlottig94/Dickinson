@@ -410,7 +410,7 @@
     <xsl:template match="rdg" mode="df16">
         <xsl:choose>
             <xsl:when test="contains(@type, 'var')">
-                <span class="var">VAR <xsl:value-of select="number(substring-after(@type, 'var')) + 1"/>: <xsl:apply-templates/> </span>
+                <span class="var">VAR <xsl:value-of select="number(substring-after(@type, 'var')) + 1"/>:</span><xsl:apply-templates/>
             </xsl:when>
             <xsl:otherwise>
                 <xsl:apply-templates/>
