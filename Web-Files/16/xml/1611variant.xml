@@ -154,8 +154,14 @@
                <rdg wit="#lSD #ce">,</rdg>
             </app></l>
             <l n="12"><app>
-               <rdg wit="#df16">The steadier, as my face withdrew—</rdg>
-               <rdg wit="#lSD #ce">The larger, as her face withdrew—</rdg>
+               <rdg wit="#df16" type="var0">The steadier,</rdg>
+               <rdg wit="#df16" type="var1">The larger—</rdg>
+               <rdg wit="#lSD #ce">The larger,</rdg>
+            </app>
+               <app>
+               <rdg wit="#df16">as my face withdrew—</rdg>
+               
+               <rdg wit="#lSD #ce">as her face withdrew—</rdg>
               </app>
             </l>
             <l n="13">And <app>
