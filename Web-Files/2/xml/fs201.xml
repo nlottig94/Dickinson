@@ -7,7 +7,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Fascicle 2: Poem 1. 201/F42/variant</title>
+                <title>Fascicle 2: Poem 1. 201/J8/F42/variant</title>
                 <author>Emily Dickinson</author>
             </titleStmt>
             <publicationStmt>
@@ -38,13 +38,19 @@
                             <author>Emily Dickinson</author>
                         </bibl>
                     </witness>
+                    <witness xml:id="lSD">
+                        <bibl>
+                            <title>Letter to Susan Dickinson (Sister-in-law)</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
                     <!-- 2018-02-27: nll: You will insert other witnesses that have variations of this poem from the "Dickinson_listWit.xml"  -->
                 </listWit>
             </div>
         </front>
         <body>
             <head>
-                <title>Poem 1 (F42: 1830-1886)</title>
+                <title>Poem 1 (J8/F42: 1830-1886)</title>
             </head>
             <lg>
                 <l n="1">There is a word</l>
@@ -53,17 +59,29 @@
                 <l n="4">It hurls it's barbed syllables</l>
                 <l n="5">And is mute again&#8212;</l>
                 <l n="6">But where it fell</l>
-                <l n="7">The saved will tell</l>
+                <l n="7">The <app>
+                    <rdg wit="#df2">saved</rdg>
+                    <rdg wit="#lSD">Saved</rdg>
+                </app> will tell</l>
                 <l n="8">On patriotic day,</l>
                 <l n="9">Some Epauletted Brother</l>
-                <l n="10">Gave his breath away.</l>
+                <l n="10">Gave his breath away<app>
+                    <rdg wit="#df2">.</rdg>
+                    <rdg wit="#lSD">!</rdg>
+                </app></l>
             </lg>
             <lg>
                 <l n="11">Wherever runs the breathless sun&#8212;</l>
-                <l n="12">Wherever roams the day,</l>
+                <l n="12">Wherever roams the day<app>
+                    <rdg wit="#df2">,</rdg>
+                    <rdg wit="#lSD">&#8212;</rdg>
+                </app></l>
                 <l n="13">There is it's noiseless onset&#8212;</l>
                 <l n="14">There is it's victory!</l>
-                <l n="15">Behold the keenest marksman!</l>
+                <l n="15">Behold the keenest marksman<app>
+                    <rdg wit="#df2">!</rdg>
+                    <rdg wit="#lSD">&#8212;</rdg>
+                </app></l>
                 <l n="16">The most accomplished shot!</l>
                 <l n="17">Time's sublimest target</l>
                 <l n="18">Is a soul "forgot"!</l>
